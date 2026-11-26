@@ -79,7 +79,7 @@ python improved_attention/predict.py --languages ko en --questions "비밀번호
 
 ## 출처
 
-- MaLSTM 기반 코드 · [likejazz/Siamese-LSTM](https://github.com/likejazz/Siamese-LSTM). 원본 저장소에는 별도 라이선스가 명시되어 있지 않다. 원본에서 보고한 정확도와 이 프로젝트의 테스트 Macro-F1은 각각 다른 데이터와 지표로 얻은 결과다.
-- 한국어 질문쌍 · [songys/Question_pair](https://github.com/songys/Question_pair). 한국어 원본 레이블을 뒤집어 QQP와 통일했다.
+- MaLSTM 기반 코드 · [likejazz/Siamese-LSTM](https://github.com/likejazz/Siamese-LSTM).
+- 한국어 질문쌍 · [songys/Question_pair](https://github.com/songys/Question_pair).
 - 영어 질문쌍 · [Quora Question Pairs · GLUE](https://huggingface.co/datasets/nyu-mll/glue/viewer/qqp).
-- 정렬 임베딩 · [fastText Aligned word vectors](https://fasttext.cc/docs/en/aligned-vectors.html). 배포 조건은 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)이다.
+- 정렬 임베딩 · [fastText Aligned word vectors](https://fasttext.cc/docs/en/aligned-vectors.html).
