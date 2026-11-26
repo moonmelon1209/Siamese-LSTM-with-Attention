@@ -1,0 +1,129 @@
+{
+  "seed": 20261002,
+  "label_definition": {
+    "0": "not_duplicate",
+    "1": "duplicate"
+  },
+  "source": {
+    "dataset": "nyu-mll/glue",
+    "subset": "qqp",
+    "train_url": "https://huggingface.co/datasets/nyu-mll/glue/resolve/main/qqp/train-00000-of-00001.parquet?download=true",
+    "validation_url": "https://huggingface.co/datasets/nyu-mll/glue/resolve/main/qqp/validation-00000-of-00001.parquet?download=true",
+    "qqp_train_rows": 363846,
+    "qqp_validation_rows": 40430
+  },
+  "translation": {
+    "translated_column": "question2",
+    "model": "Argos Translate translate-en_ko 1.1",
+    "total": 8400,
+    "with_hangul": 8398,
+    "without_hangul": 2
+  },
+  "stats": {
+    "korean_train": {
+      "rows": 6136,
+      "label_0_not_duplicate": 1967,
+      "label_1_duplicate": 4169,
+      "duplicate_rate": 0.679433,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 5
+    },
+    "english_train": {
+      "rows": 7000,
+      "label_0_not_duplicate": 2244,
+      "label_1_duplicate": 4756,
+      "duplicate_rate": 0.679429,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 0
+    },
+    "cross_en_ko_train": {
+      "rows": 7000,
+      "label_0_not_duplicate": 2244,
+      "label_1_duplicate": 4756,
+      "duplicate_rate": 0.679429,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 2
+    },
+    "korean_validation": {
+      "rows": 682,
+      "label_0_not_duplicate": 250,
+      "label_1_duplicate": 432,
+      "duplicate_rate": 0.633431,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 0
+    },
+    "english_validation": {
+      "rows": 700,
+      "label_0_not_duplicate": 257,
+      "label_1_duplicate": 443,
+      "duplicate_rate": 0.632857,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 0
+    },
+    "cross_en_ko_validation": {
+      "rows": 700,
+      "label_0_not_duplicate": 257,
+      "label_1_duplicate": 443,
+      "duplicate_rate": 0.632857,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 0
+    },
+    "korean_test": {
+      "rows": 758,
+      "label_0_not_duplicate": 250,
+      "label_1_duplicate": 508,
+      "duplicate_rate": 0.670185,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 2
+    },
+    "english_test": {
+      "rows": 700,
+      "label_0_not_duplicate": 231,
+      "label_1_duplicate": 469,
+      "duplicate_rate": 0.67,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 0
+    },
+    "cross_en_ko_test": {
+      "rows": 700,
+      "label_0_not_duplicate": 231,
+      "label_1_duplicate": 469,
+      "duplicate_rate": 0.67,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 0
+    },
+    "train_all": {
+      "rows": 20136,
+      "label_0_not_duplicate": 6455,
+      "label_1_duplicate": 13681,
+      "duplicate_rate": 0.67943,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 7
+    },
+    "validation_all": {
+      "rows": 2082,
+      "label_0_not_duplicate": 764,
+      "label_1_duplicate": 1318,
+      "duplicate_rate": 0.633045,
+      "missing_question1": 0,
+      "missing_question2": 0,
+      "duplicate_ordered_pairs": 0
+    }
+  },
+  "checks": {
+    "qqp_partition_and_source_idx_composite_keys_unique": true,
+    "qqp_pair_keys_unique_across_all_custom_splits": true,
+    "missing_text_cells": 0,
+    "labels_limited_to_0_and_1": true
+  }
+}

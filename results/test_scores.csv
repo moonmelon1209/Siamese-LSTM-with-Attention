@@ -1,0 +1,8 @@
+model,test_set,pairs,true_negative,false_positive,false_negative,true_positive,macro_f1,duplicate_f1
+english_baseline,english,700,159,72,132,337,0.68842458,0.76765376
+multilingual,cross_en_ko,700,149,82,175,294,0.61639746,0.69585799
+multilingual,english,700,129,102,59,410,0.72581677,0.83588175
+multilingual,korean,756,172,78,72,434,0.77450427,0.85265226
+multilingual_attention,cross_en_ko,700,116,115,110,359,0.63452922,0.76139979
+multilingual_attention,english,700,96,135,28,441,0.69243210,0.84401914
+multilingual_attention,korean,756,157,93,65,441,0.75666558,0.84807692

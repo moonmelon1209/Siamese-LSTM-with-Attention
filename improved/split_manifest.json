@@ -1,0 +1,71 @@
+{
+  "test": {
+    "english": {
+      "sha256": "13702c16492ead99c23d9aa2cfc46f27e4f7405ff249da7433c644babbf4eadd",
+      "excluded_row_ids": [],
+      "kept": 700
+    },
+    "korean": {
+      "sha256": "acd7e83e7932b5e8bffa116693a4fd4c777f14a867617d14512443523294968a",
+      "excluded_row_ids": [
+        500,
+        689
+      ],
+      "kept": 756
+    },
+    "cross_en_ko": {
+      "sha256": "18a403b167cff159707ddb421e2f4ed7409bad8a4a4ef388c94f613e3d5d9ebd",
+      "excluded_row_ids": [],
+      "kept": 700
+    }
+  },
+  "validation": {
+    "english": {
+      "sha256": "a253d6ae9c0ca68ac5d03133cb5fab617fa0246064b826e5156ae1d9d6926ac9",
+      "excluded_row_ids": [],
+      "kept": 700
+    },
+    "korean": {
+      "sha256": "ae9718576cbb53160f61ded902a037593d6e961e5437de97925da695df85541e",
+      "excluded_row_ids": [
+        341
+      ],
+      "kept": 681
+    },
+    "cross_en_ko": {
+      "sha256": "b8ea20f2fce974398c7845ad60df40a9f05f85be13e2bd6ad73f5be5f195a740",
+      "excluded_row_ids": [],
+      "kept": 700
+    }
+  },
+  "train": {
+    "english": {
+      "sha256": "0f3933b87b4dfb76a19c3a30e4f192ef903c30c5ecc92d5d5484141eefe77f74",
+      "excluded_row_ids": [],
+      "kept": 7000
+    },
+    "korean": {
+      "sha256": "cc5b9107e1fd6ce70562e00be0e58c032b1a10e9b0e02e0b5930d1eb3cf82d4c",
+      "excluded_row_ids": [
+        1121,
+        2383,
+        2706,
+        3543,
+        4377,
+        4869,
+        5027,
+        5115,
+        5782
+      ],
+      "kept": 6127
+    },
+    "cross_en_ko": {
+      "sha256": "89a7721a26208e5eac68072668a43c052119ee47e19acc51b2d21dd507aac41e",
+      "excluded_row_ids": [
+        5316,
+        6976
+      ],
+      "kept": 6998
+    }
+  }
+}

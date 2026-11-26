@@ -1,0 +1,701 @@
+question1	question2	is_duplicate
+Is there a commonly shared, grand purpose to our existence as a human species?	What do you think is the purpose of our existence?	1
+If Trump and Pence are killed together before taking office, what would happen next not in terms of fallout, in terms of finding the next president?	What would happen if Trump and Pence both died right now before being sworn into office?	1
+Can we write blogs on Quora? If yes, then How?	Can I write blogs in Quora?	1
+What is the best way to prepare steak?	What is the best way to cook steak?	1
+Will Muslims be deported from the us?	Can Trump really deport Muslims from USA?	1
+Will superman come back to life in next movie after Batman v Superman?	Why didn’t anyone see Batman v Superman's failure coming?	0
+English is my second language.How can I improve my writing?	How can I improve my English writing skills?	1
+What are the skills required to be a successful entrepreneur?	How can one be an entrepreneur?	1
+What is the ISS?	What is the mission of the ISS?	1
+How do I make friends in college? I went to clubs but no one talked to me.	How do I make new friends in university?	1
+I am planning to go for ISO Auditor course and I am quite confused where to start from, Shall i start from Lead Implementer or Lead Auditor directly?	I am looking for seed stage funding to start a chain of restaurants. I have everything in place from the concept I the design. Where do I get leads for interested investors specifically interested in the food industry?	0
+Who discovered electricity? How was it discovered?	How was electricity discovered?	1
+What are some entry level IT jobs?	What are some entry-level IT jobs?	1
+I am preparing for IIT JEE . Is it advisable to play video games for 1 hour daily?	Is it okay to let family members use my earphones?	0
+Why most of the Muslims in India do not support BJP?	Why do Muslims hate the BJP?	1
+"""What is the message behind """"The Gruffalo""""?"""	How should I be faithful to my life?	0
+What is it like to be famous on Quora?	What does it feel like to be famous on Quora?	1
+Is time travel possible after the discovery of gravitational waves?	Time Travel Is It Possible?	1
+How is Donald Trump viewed in Arizona?	If Donald Trump picks Bill Cosby for vice president, will the independent ticket win? More important, will he get the women to vote for him?	0
+How do you get a free PSN generator with no surveys?	Where can I get a free PSN code generator for my phone?	1
+What is the best way to reduce pore size?	How do I reduce pore size?	1
+What software does Pixar use besides RenderMan?	What kind of software do Pixar and Walt Disney use to animate pictures?	1
+How can I increase the traffic to a website?	What is the best way to drive traffic to a website?	1
+What is the most spontaneous thing you have ever done?	What is the most spontaneous thing you've ever done?	1
+Is Cyprus a good holiday destination?	What is it like to be a scientist in Cyprus?	0
+Why are so many people on Quora so Anti American?	Why are so many people in the US anti-science?	0
+What's a car engine life in kilometers?	What is the life of a Honda petrol car in Kilometers?	0
+"""How is """"myriad"""" used in a sentence?"""	How is the word 'myriad' used in a sentence?	1
+What are the best ways to get rid of boredom?	What the best way(s) to fight boredom?	1
+What books should I read as an aspiring entrepreneur?	What are the top books an aspiring teen entrepreneur should read?	1
+What are the visiting places in coorg?	What are the places to see in Coorg?	1
+Why is a place at higher altitude colder than one at sea level?	Why is it generally colder at higher elevations?	1
+What can I do about an iPod that won't hold charge?	Why won't my iPod Touch hold a charge?	1
+What is the best book to master C++ (to be a professional C++ programmer)?	What is the best way to study for c++ programming?	1
+What should I do to motivate my friend?	How should I motivate my friend?	1
+What are some mind-blowing Car tools that exist that most people don't know about?	What are the best new Car gadgets technology that most people don't know about?	1
+When will India get fgfa (Fifth Generation Fighter Aircraft) and why there is a delay?	Is india developing any 5th generation fighter aircraft? Is there any future plan?	1
+Why do some materials melt while others burn?	How can I melt a rock?	0
+What are the best books for SSC CGL preparation?	Books for SSC CGL?	1
+"""Where can I find some good research papers (or links to some work) done on complexity analysis of the popular game """"Unblock Me""""?"""	How can I make my research paper for IB history to be an analysis instead of a narrative paper?	0
+What is the use of a RS-232 cable?	Why is a RS-232 cable used?	1
+What is the best/most memorable thing you've ever eaten and why?	What is the most delicious dish you've ever eaten and why?	1
+What are the self preparation strategies should I follow to increase the GRE score?	When do I start for the GRE preparation and how do I manage to get a good score?	1
+Why don't Israel and Palestine unite?	Why can't the Israel and the Palestine unite become a multiethical country?	1
+Why did MS Dhoni resign as ODI and T20 Captain?	Why did MS Dhoni quit ODI and T20 captaincy?	1
+Which mobile phone is the best under 15k?	Which is the best phone under ₹15000?	1
+How is Trump going to make America great again?	How will Trump make America great again?	1
+Which is the best laptop under Rs 25000?	Which are the best laptops under INR 25000 in Indian market?	1
+What is greater than God, more evil than the devil; the poor have it, the rich need it, and if you eat it, you'll die?	I'm more powerful than God; more evil than the Devil. The poor have me; the rich need me. If you eat me, you'll die. What am I?	1
+Why are televisions and laptop computer screens rectangular in shape?	Why monitor made in rectangular shape?	1
+Why does my nose bleed?	What causes nose bleeds?	1
+What are tracer rounds? Are they legal for the public to possess in the state of Georgia?	What are tracer rounds? Are they legal for the public to possess in the state of Arizona?	1
+How do serious Star War fans feel about the plot similarities between The Force Awakens and A New Hope?	~SPOILER~ Were you surprised that the Force Awakens was mostly a remake of a New Hope?	1
+What is a good website for free books?	What is a good website for free ebooks?	1
+What are some places a girl can visit in India if she plans to go for a solo trip?	Which are the places to go backpacking solo in India, if you're a girl?	1
+What is the best way to get traffic on your website?	What is the best way to drive traffic to a website?	1
+What data science and machine learning career opportunities are there at Google?	What data science and machine learning career opportunities are there at LinkedIn?	0
+How did you improve your looks?	I am a 23 year old professional(female) but don't look my age. What should I do ? I want to change the way people perceive me and improve my persona.	0
+How can porn ruins one's sex life?	Does porn destroy my sex life?	1
+How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Chihuahuan Desert?	How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Gibson Desert?	1
+What are the best spell tomes to get in Skyrim?	Which katana is best in Skyrim?	0
+What are some mind-blowing futuristic gadgets that exist that most people don't know about?	What mind blowing technologies exist in 2016 that most people don't know about?	1
+Why current flow due to electrons?	Why is current due to the motion of the negatively charged electrons?	1
+As a third year btech student what should I do to start preparing for ias exam?	How should I start preparing for the IAS exam? I am currently studying engineering first year. What are the various books or materials I need to use?	1
+Do employees at W&T Offshore have a good work-life balance? Does this differ across positions and departments?	Do employees at Nordic American Offshore have a good work-life balance? Does this differ across positions and departments?	0
+How do you become an International Master in Chess?	How can I be international master at chess?	1
+What exactly is the basic structure of the Indian Constitution?	What is the basic structure of the constitution of India?	1
+What do you mean by universe?	What is the meaning of the universe?	1
+Why is it important to activate neural pathways?	Has the sales tax amnesty scheme been extended till Nov 30 2016?	0
+Is it possible for an Indian entrepreneur to start a private space company like SpaceX?	Are they any private Indian companies which are into space science?	1
+What are the expectations of parents from their children?	What do children expect from their parents?	0
+Should there be a minimum educational qualification for politicians to contest elections in India?	Why there should be a eligibility criteria to contest elections in India?	0
+Have any two satellites ever collided with each other?	Why don't artificial satellites collide with each other?	1
+How should you treat constipation at 38 weeks pregnant?	How should you treat constipation at 5 weeks pregnant?	0
+What does a near death experience feel like?	What did you experience in your Near Death Experience?	1
+What is debt market?	What is the debt market?	1
+If you cut a fruit and keep it in the fridge, will it get spoiled?	How to keep cooked beetroot in fridge?	0
+What can be the medium budget to visit best places in Kerala for three members (2-3 days)?	What are the best places to visit in Kerala? What is the best way of transportation there?	1
+Is the Bible copyrighted?	Why does the Bible have a copyright in it?	1
+How can I earn from online?	How can I earn money on internet?	1
+What is the best free dating website?	What are the best free Internet dating/online dating Web sites?	1
+I'm a real estate agent from Russia and I'd like to find buyers from abroad. What websites should I use to list my properties?	What are some examples of ethnic heritage?	0
+How can I delete an Instagram account?	How do you hack an Instagram account?	0
+What is your definition of soulmate?	What is the definition of soulmate for you?	1
+How do I judge that a person has extra marital affair?	How many of you had extra marital affairs and are now married to the person?	0
+How can milk make you fat?	Does milk make you fat?	1
+Which country has best education system?	Which country have an amazing education system?	1
+Can I do online jobs from home and what are that jobs?	What are some online jobs which can be done from home?	1
+What are some facts about WhatsApp that people usually don't know?	What are some unknown facts about WhatsApp?	1
+A car is traveling at 26 meters per second and is accelerating at -13 m/s^2. After traveling, the driver brings the car to a complete stop. Using this equation -26+26t-6.5t^2, how long did it take the driver to stop the car?	A car starts at rest and accelerates at 6m/s^2 to a final velocity of 60m/s. How far did the car travel during this time?	0
+What are some interview questions being asked by a fresher of civil engineering?	What are the questions in the interview for a fresh graduate civil engineer?	1
+What are the ramifications of Modi's decision of the ban on ₹500 and ₹1000 notes?	What will be the impact after Modi's decision of banning ₹500 and ₹1000?	1
+In what order should I watch the Marvel Cinematic Universe?	What are (moral) messages of Marvel Cinematic Universe?	0
+Is the Bible in the fiction or non-fiction section in a library?	Do libraries put the Bible in fiction or non fiction?	1
+What does viscose fabric feel like?	How are stretchy fabrics made?	0
+What does it mean that every time I look at the clock the numbers are the same?	Is it good that mostly every time I look at a clock it's 11:11?	0
+Why did Saladin's brothers have Turkish names?	What do you think about Turkish?	0
+How do I download contacts from iCloud to iPhone?	How do you sync iPhone contacts to iCloud?	0
+How do I convert commercial vehicle number to private vehicle number?	How do I convert commercial vehicle to private vehicle number?	1
+What are the reviews of SensoVision System?	Is Lothar Matthaus Germany's greatest footballer?	0
+What are your New Year's resolutions?	What are some of your New Year's resolutions for 2017?	1
+My brother vaped in his room 2 hours ago, if I walk in there, will I get high at all?	If my brother vapes weed in his room with the door locked and after he is done, I walk in the room, will I get high?	1
+Do swiping machines in shops have a limit on the amount to be drawn like the ATM machines?	Photons are 'bend' downwards by mass; what does this say about the relation between photons and gravity (tons) and which particles would bend upwards?	0
+How do you feel about falling in love with your best friend?	How does it feel when your best friend falls in love with you?	1
+How can I improve my public speaking skills?	How do you improve speaking skills in public?	1
+How do I reduce the thigh thickness and hip thickness?	How can I reduce thigh fat?	1
+What are some things that irritate you and that you hate?	What are some things that you hate?	1
+Why is politics important?	Why is political psychology important?	0
+How do I differentiate between Bituminous Concrete and Semi Dense Bituminous Concrete in field?	What is a concrete?	0
+How can I improve my English in all aspects?	How can improve my English speaking?	1
+Ramp signal even or odd?	How do i solve this computer science assignment?	0
+Is it a bad idea to switch careers if I am good at what I currently do?	Need help, I am aspiring for IAS 17. I teach students from 2-8 but due to this don't know what can be my routine for IAS, how and what to study?	0
+How is it like to work in IT company?	What it is like working in IT company?	1
+How easy is hacking and what's it like?	What are some easy hacking methods?	1
+What is the best way to study for ACCA?	What is the best way to study ACCA?	1
+How do we control our emotions?	How should I control outbursts of emotions?	1
+What are the skills required to be employable in engineering?	What are the skills required to be an engineer in general?	1
+If energy is not conserved in an expanding universe, can infinite energy be created? Is it potential energy or potentiality infinite?	If vacuum energy is created as space expands, can infinite energy be created?	1
+I have forgotten my password for Facebook and no primary email and phone is added to my account. How can I get access to my account?	I forgot my password and also my email password. how can I get back that account?	1
+What is the best website where we can read/download books for free?	What is the best website to download free books?	1
+How do I start learning and practicing programming?	Where should I start learning to program?	1
+Why do guys keep hitting on me? Im not that attractive or at least I dont think I am. And im not even looking for any attention.	Degree from IGNOU is acceptable by the universities in the USA for Master's?	0
+Why do people hate rich people?	Why do so many people hate rich people?	1
+How do we make money online?	What is make money online?	1
+How do you know if you're really in love?	How will you come to know that you are in love?	1
+What is the good approach to implement rest API either to go with Http status codes or creating custom error field by always returning 200?	What do Mexican households cook if they want to eat healthy dishes? (Aside from salad?)?	0
+Is there a way to avoid the page-turning blackout on an e-book reader?	What symbols are associated to socialism? How are they determined?	0
+How would you promote an app to mothers?	What are the best ways to promote an app?	0
+What is the most arrogant thing you have ever done?	What is the most pretentious thing you have ever done?	0
+Does oral sex count as sex?	Is oral sex considered a sexual intercourse?	1
+When do I move from friends to dating?	How do i transition from friends to dating?	1
+What's the difference between SaaS and the Cloud?	What is the difference between SaaS and PaaS?	0
+What is the data analytics scope?	What is Data analytics and scope of that?	1
+Which font was used in this logo?	Which font does yury.it use for their logo?	0
+Does Hillary Clinton really want to start a war with Russia?	Is America likely to go to war with Syria, and by extension Russia, if Hillary Clinton wins the election?	1
+Does long distance relationship works?	How can I have a successful long distance relationship?	1
+What are some interesting facts about the Spanish language?	What are some interesting things about the Spanish language?	1
+How do I get glowing healthy skin?	How do I get a glow skin?	1
+What are the features Quora needs to add to make it better?	What features must Quora have?	1
+Do Quora users still see questions that are marked as needing improvement?	What happens to questions marked as needing improvement? Are they inhibited from being seen as other questions are?	1
+Is M. A. Economics necessary qualification for getting into EXIM bank?	Is M. A. Economics necessary for getting into EXIM bank?	1
+What exactly is web hosting? What is a domain?	What is web hosting?	1
+How do I transfer YouTube offline videos to SD card?	How do I save YouTube downloaded offline videos to an SD card or play them using third party apps?	1
+Does USPS provide boxes? If not, why?	Does USPS provide boxes?	1
+How does Amazon use Deep Learning?	Why is Python used for deep learning if it is so slow?	0
+What is the best social media dashboard and why?	Who provides the best social media dashboard?	0
+Does Language in autistic children improve as they grow older?	Measuring weight every week benefit?	0
+What's your favorite TV show and why?	What is you favorite TV program?	1
+Time Travel Is It Possible?	Is it possible to time travel to past?	1
+What are the best blogs and websites about puzzles?	What are the best websites for mathematical puzzles?	0
+"""What is an """"internally"""" reversible process? What are the differences between an """"internally"""" reversible and just reversible process?"""	What is a reverse osmosis tank?	0
+How can I sell antique furniture?	How do you sell antique furniture?	1
+How do you earn easy money (no surveys no Bing searches)?	Which is the best way to earn easy money?	1
+How can I get fit when I am a smoker and want to get into the police force?	I am a recently qualified chartered accountant, and I want to work in an MNC. How can I get a job there when I am not getting any calls for the job?	0
+How does the Hubble Space Telescope take long exposure photos if it is constantly orbiting the Earth?	How does the Hubble telescope take sharp and non-distorted images of faint and distant galaxies while orbiting the earth at a high velocity?	1
+How do you begin to like yourself?	How do you begin to accept yourself?	1
+How many traditional kings are in Nepal?	What will the impact of Donald Trump's presidency be on Indian finance professionals seeking for a job in America?	0
+What is the difference between idioms and phrases?	What is the difference between an idiom and a phrase?	1
+Can snapchat be used for business?	How can I use Snapchat for business?	1
+How do I recover my Gmail account when it does not open after password reset?	How do I recover a lost password or account for gmail?	1
+Being a fresher, should I join a startup or MNC ?	Why am I getting a run time error on BookChef problem on CodeChef?	0
+What are some ideas for stalls in college fest?	What are the best games to conduct in college fest?	0
+What are some weekend gateways from Bangalore and pune at about equal distance?	What hill station/picnic spot is of equal distance from Bangalore and Pune?	1
+Why don't girls like nice guys?	Why don't some women or girls like or find nice guys attractive?	1
+Is an Indian Commercial Pilot License (CPL) valid anywhere else in the world?	Is it true that pilots these days don't get jobs after investing around 35-40 lakh in their CPL (commercial pilot license)?	0
+How do I learn cpt and IPCC accounts journals entries in short term?	What are some good resources to learn journal entry (accounting)?	0
+Would Bernie Sanders have defeated Donald Trump?	How valid is the notion that Bernie Sanders might have defeated Donald Trump in the 2016 Presidential election?	1
+How much black money is recovered till now?	How much black money is recovered till now after demonetization?	1
+Are you a morning person?	What are the best ways to start your morning if you are not a morning person?	0
+What is modulation and its type?	What does modulation mean?	1
+"""Why doesn't Google X use Satellites instead of Balloons for its broadband supply project """"Project Loon""""?"""	Why did Google use weather balloon instead of satellites?	1
+Should I stay with someone I love but doesn't love me back?	What should I do if I love someone who does not love me?	1
+How do I learn math?	What are some tips about learning math?	1
+What is a syllogism?	What is syllogism? What are some examples in literature?	1
+What would be the best day of your life?	Can you describe the best moment or the best day in your life?	1
+I forgot my password and the email address I used to create my Snapchat account. How can I log in or at least change my email address or password?	How do I delete an account on instagram if I can't remember the password or email?	0
+What is the benefit of CAT exam?	What is the benefit of a cat?	1
+Will Priyanka Chopra and Deepika Padukone be able to make it big in Hollywood?	Will Priyanka Chopra and Deepika succeed in Hollywood?	1
+What rank and marks are required on the GATE Exam to get a job in PSU for mechanical engineering?	What rank does psu required for mechanical?	1
+Can a girl get pregnant after her last day of periods?	How possible is it to get pregnant one day after my 3 day period?	1
+What are some of the important questions and answers for The Invisible Man novel in 12th CBSE?	In CBSE 2016 12th paper, I attempted all questions and wrote correct answers worth 20-25 marks, will I pass? For sure?	0
+Why do people adore celebrities but not intellectuals like scientists, researchers, etc.?	Lifestyle: What are some of the best examples of people whose parent(s) were celebrities (actors, models, etc) but they chose a different career path?	0
+"""Why does it say """"INRI"""" on Jesus's cross?"""	Why does it say on instagram that a username is unavailable when it just got deleted?	0
+Why do most Americans hate Canada?	Why do some Americans hate Obamacare?	0
+What is the best way to wash satin sheets?	What are the best ways to wash satin sheets?	1
+I am a housewife what are the best work from home jobs?	I am a housewife. I resigned my software job. I would like to work from home now. What are the opportunities I have?	1
+What is sound?	What does the sound of the universe sound like to you?	0
+What ROI will Blume Ventures get by investing $500000 in Unacademy?	What is OSP Drafting?	0
+Should do I job to escape from daily taunts and scoldings from my parents?	How do I get my first customer for software development company?	0
+What's the most effective way to get started with Deep Learning?	How should you start a career in Machine Learning?	0
+"""What does the Hindi word """"Baregama"""" mean?"""	What is the meaning of Hindi word 'Saugat'?	0
+Do you think Donald Trump or Hillary Clinton will be the next president of the US?	Who will be the next president of USA 2016?	1
+How can I improve my English speaking ability?	I am Marathi medium student then how can I speak fluent English?	0
+How do you know if it is time for divorce?	When is it time for a divorce?	1
+What would be effect of 500 and 1000 Rs notes ban?	What are your views on demonetization of 500 and 1000 rupee notes by the Modi Government?	1
+What are the major components of a computer system?	What are some components of a computer?	1
+Why don't people value me?	What should I do if people don't value me?	0
+Which app can improve my English pronunciations?	How do I stabilize the anger and emotional lability that I am experiencing, while releasing long-suppressed emotions?	0
+"""What are some adjectives that start with """"th""""?"""	How many types of adjectives are there?	0
+Why did not government changed 1000 rupees note instead of 2000 rupees note?	What is the strategy behind the RBI on not releasing the new 1000 rupees note?	1
+Does all Muslims hate Narendra Modi?	Why Muslims hate Modi government?	1
+What will be the impact in the Indian economy of sudden 500 & 1000 rupee notes withdrawal of by the government?	What are the ill effects of demonetization of 500 and 1000 rupee notes in India?	1
+Should there be a universal language?	Can there be a universal language?	1
+What should I do when I think everything goes wrong in my life?	What do I do when everything goes wrong in my life?	1
+How should I watch the entire Star Wars?	Which order I should watch Star Wars movies?	1
+Will Donald Trump winning the election affect the international student visa?	How is the victory of Donald Trump going to affect the international students aspiring to pursue their Masters in US?	1
+How will polling change after the 2016 US Election?	What changes in polling methodology can we expect after the 2016 US election?	1
+Where can I get best quality professional sound on DJ services in Sydney?	Where can I get best quality DJ for Birthday party in Sydney?	1
+Why did Ginnifer Goodwin change her first name from Jennifer?	Is it possible to change your first and second name in Sweden?	0
+We broke up recently, but how is it possible for him not to talk to me after everything we've been through, while I'm dying to talk to him?	Why might independent regulatory commissions (agencies) be considered the fourth branch of government?	0
+Why do Nepalese hate India so much and make Anti-India comments?	Why does Nepal hate India?	0
+Which is the best site for learning python?	What are best site for learning python?	1
+What is the sweetest compliment you have received from someone in Quora?	What is the best compliment that you have received on Quora from a fellow Quoran?	1
+How do I get free website?	How do I get free websites?	1
+I'm not a native speaker. Will reading on Quora every day improve my English significantly?	Could reading on Quora improve my English significantly?	1
+Which is the best mystery novel ever?	Which are the best mystery novels?	1
+Can we manipulate space time?	How does one manipulate space-time?	1
+What are some good bluetooth headsets?	Which is best bluetooth headset?	1
+Do hedgehogs have quills?	Why do hedgehogs lose their quills?	0
+What is the least 5 digit number with five significant figures?	What is the least fuve digit decimal number with five significant figures?	1
+Where can I hire an email hacker?	How do I hire a hacker?	1
+What is the corporate culture like at Fossil? How is the culture different than other companies?	What is the corporate culture like at Corning? How is the culture different than other companies?	0
+What are the social responsibilities of the IT companies?	"""What is a """"social response""""?"""	0
+Which is the best email marketing online tool or software?	Which software is better for email marketing?	0
+How do I trace the exact location of a mobile phone in India? What things are required for that?	How do I trace a phone call?	1
+Why are dogs so lovable?	Why are pug dogs lovable?	0
+How do I to get rid of acne scars?	What is the best way to get rid of acne?	1
+What's wrong with Indian education industry and what are the experienced and expected negative fall outs?	What is wrong with the Indian education system?	1
+How will the ban of Rs 500 and Rs 1000 notes affect Indian economy?	How will India be affected now that 500 and 1000 rupee notes have been banned?	1
+What is the difficulty level and syllabus of the BITSAT bonus questions?	What is the difficulty level of BITSAT bonus questions?	0
+Where can I get quality assistance in Sydney for any property transaction?	Where can I get knowledgeable assistance for transfer of property in Sydney?	1
+How do I get the list of areas in Bangalore in CSV?	What is the total area of Bangalore city?	0
+What is Apple's design process like of their keyboards?	What is Apple's design process?	0
+Why don't women divers in the Olympics wear bikinis?	Why don't women Olympic divers wear bikinis?	1
+Psychotherapy: How do I find an individual psychotherapist?	Psychotherapy: What is the Yelp for therapists?	1
+How could someone come out the formula that could create unlimited wealth?	Theoretically could someone come up with the formula that could create an unlimited amount of wealth?	1
+What are some of the best mobile phones gadgets?	What are some of the best phones tools and gadgets?	1
+What is the easiest and painless way to commit suicide?	What is an easy way to commit suicide?	1
+What president only won the popular votes and made presidency?	Has their ever been a president that just won the popular votes that was elected?	1
+I want to get into Google summer code 2017.How do I prepare?	How should I work my way up to get selected for Google Summer of Code 2017? Which languages should I focus on to increase my chances of selection?	1
+How will Narendra Modi's recent ban on Rs 500 and Rs 1000 notes will affect the share market?	What will be the affect of banning Rs. 500 & 1000 notes on share market tomorrow?	1
+Other than humans, is there any other animal or plant species that kills or hunts for the fun of it?	Which organisms, other than humans, kill for fun?	1
+How do I check who viewing your Facebook profile?	Is it possible to know who visited my Facebook profile?	1
+How do I move on from breakup?	How do I move on after a very bad breakup?	1
+What do i do with my naturally curly hair?	How do you cut curly hair?	0
+Who is better for India: Donald Trump or Hillary Clinton?	Whose victory in US presidential election will benefit India, Donald Trump or Hillary Clinton and how?	1
+What happens when an indestructible force hits an unmovable object?	What happens when an unstoppable object collides with an immovable object?	1
+How do you search for people on Instagram?	How do you find people on Instagram online?	1
+Why does India have such a huge problem with violence against women?	What are the 10 most important things that the Indian Government should do to stop violence against women?	1
+Are there such things as objective truths?	Does objective truth exist?	1
+What are some jobs in marketing communications?	What are some careers in Marketing communications?	1
+How can I deactivate a Facebook account if I forgot the email address and the password?	How can I open my Facebook account I forgot my password and Gmail?	1
+What are some great soothing songs?	What are the best soothing songs?	1
+Which is the best phone in a range of Rs 5000-6000?	Which is the super phone around the range of 5000-6000?	1
+What is an electron made of?	What are electrons made out of?	1
+How can we learn faster?	How should I learn faster?	1
+How can an Indian student study in Germany?	How can Indian student study in Germany?	1
+What is difference between normal swing and reverse swing?	What is the difference between swing and reverse swing?	1
+What is vitamin B1?	What is Vitamin B?	0
+What is the easiest way to find the greatest common factor?	How do you find the greatest common factor?	1
+Why do you wear underwear?	Why do we wear underwear?	1
+What is the secret of keeping a successful long distance relationship?	Does long distance relationship work?	1
+What are the best movie and book plot twists?	What movie had the best plot twist?	1
+Is it possible for people to love 2 person at the same time?	Is it really possible to love 2 people at the same time?	1
+Are there good Individual IAS preparation classes in Pune?	Which are best classes for IAS in Pune India?	1
+Why did allama Iqbal not win a Nobel prize?	Why are women usually so finicky and complicated regarding sex?	0
+Why can't I ask any questions on Quora?	Can you ask any question on Quora?	0
+Has anyone completed CAIA exam from India?	Has anyone from India ever been to Tajikistan?	0
+Which countries weren't involved/affected during World War I & II?	How is World War II history taught in African countries?	0
+Why the banning of 500 and 1000 rupees notes?	Why is 500 and 1000 rupee notes discontinued?	1
+If earth has been visited and helped by aliens in the past, why don't we find evidence of their advanced technology?	If aliens really had visited Earth in the ancient past, what sort of evidence would we expect there to be?	1
+Where should a single gay man in his mid-30s live, around the world?	How do I make artificial snowfall machine?	0
+Which programming languages are used for hacking?	Which programming languages are the most used for hacking?	1
+How do I learn spoken English?	HOw do I speak Fluent English?	1
+How can I increase sales on Amazon?	How can I Increase my sales on Amazon?	1
+Hoe does cross culture management work in NTPC?	Is losing your vision in ONE eye as bad as it sounds?	0
+Can air have surface tension with vacuum?	What are the daily activities in poultry farm?	0
+What is the highest power of 9 completely dividing 99?	What is the highest power of 9 in 99?	1
+What are some useful animal products?	What are some useful animal products and how can they be replaced for cruelty-free products?	1
+If my iPad (air) screen is cracked, but still working, how much will it cost to fix?	How much does it cost to fix an iPad screen?	1
+Where can you go to look up a license plate and owner of a car without any charge?	Is it possible to find an owner of a car by license plate?	1
+How can I improve my content writing?	How can I improve my content and organize myself while writing?	0
+What are the most common symptoms for pregnancy, and can you know with certainty if you are expecting without taking a test?	If you can teleport to anytime and anywhere for once, what is the most damage you can do to humanity with and without time traveling?	0
+What are the essential components of a car?	What are the essential components of a story?	0
+What are some interesting facts about the Holocaust?	What are 5 facts about the Holocaust?	1
+Is there some painless way to suicide?	What is the most painless way to do a suicide?	1
+How can I become a superhero?	How can someone become a superhero?	1
+What is game theory?	How would you explain game theory?	1
+What will happen if India and Pakistan gets into war and who will win?	If war happen between India and Pakistan, then what could be the impact on Indian economy and stock market?	1
+How can you know who looks at your profile if he is not friend?	"""How come that people who do not appear on """"looked at your profile"""" still send me invitations to connect on LinkedIn?"""	0
+Did you like Tywin Lannister or not?	Why isn't Tywin Lannister king?	0
+How can I find a good graphic designer?	How can I be a good graphic designer?	1
+Is it safe to eat salmon from the supermarket raw, as one would eat sashimi?	Why is Kobe beef considered safe to eat raw?	0
+How can I get a hacker?	How do I get in touch with a hacker?	1
+How do I get more traffic to my YouTube videos?	How can I get traffic on my video?	1
+What can you do when are you tired of studying?	What should I do when I get tired of studies?	0
+What is the exact difference between programming languages and scripting languages and their types and their real time applications?	What is the difference between scripting languages and programming languages, explained with examples?	1
+What is the difference between network and Networking?	What is the basic difference between network and networking?	1
+What is the best way to lose weight and not gain it back?	What are some ways to lose weight fast?	1
+Can anyone enlist the 'must read' books before you die?	Which books should be read before you die?	1
+Why do some people ask simple direct science questions in Quora when there are sufficient resources available in internet?	Why do so many people ask google-able questions on Quora?	1
+Is there a website that shows you jobs your qualified to do based off your resume?	What website makes job suggestions based on your resume?	1
+Can you offer me any advice on how to lose weight?	How should I lose weight?	1
+What is the Sahara, and how do the average temperatures there compare to the ones in the Dasht-e Loot?	What is the Sahara, and how do the average temperatures there compare to the ones in the Arabian Desert?	1
+How do I reduce tummy?	What are the foods that reduce tummy fat?	1
+How does a grid-tie inverter work?	What sort of programming would you do if you are making a pure sine wave inverter?	0
+How do I get funding for my web based startup idea?	How do I get funding for my startup idea before we have a prototype?	1
+What is one of the biggest misconceptions people have about you?	What do you perceive to be the biggest misconception people have about you? Why do you think this misconception exists?	1
+How much time is required for complete preparation of CAT?	How much time do I have to devote for CAT preparation?	1
+What are some of the Provisions of the 14th amendment?	What is the 14th amendment?	1
+What would happen if the Earth stopped rotating?	What will happen if somehow the earth stopped rotating and revolving at the same time?	1
+What are adverbs? What are some kind of adverbs?	How do you teach kids about adverbs?	1
+Why do some women prefer tampons?	Should I change my tampon after peeing?	0
+What are some of the most overpriced products in the world?	What are the most overpriced items that people buy?	0
+What are the best (and worst) jobs for someone who has social anxiety?	What would be a good first job for someone with social anxiety?	1
+How can I get into Yale(MBA)?	How do I get into Yale?	1
+What is the most foolish thing you did as a kid?	What is the most intelligent thing a kid has ever said to you?	0
+What is the difference between social media and digital marketing?	What is the difference between Digital Marketing and Social Media?	1
+Can u get pregnant the day after your period ends?	Can I get pregnant a week after my cycle?	1
+What is islanding in power systems?	What is island in power system?	1
+Which is the best laptop I can buy in india for Rs.25000-30000?	Which is the best laptop to buy under 30k?	1
+What are some makeup tips for a brown-eyed brunette?	What are some makeup tips for brown eyes?	0
+Does schizophrenia have a cure? If not, why?	Can schizophrenia be cured?	1
+What is the best day to book flights online? Why?	What are the best days to book a flight?	0
+What are some mind-blowing iphone gadgets stuffs that most people don't know about?	What are some mind-blowing gadgets tools that most people don't know about?	0
+What are the best movies of the 1980s?	What was your favorite movie of the 1980s?	1
+Which is best Hollywood movie ever? Why?	What is your best hollywood movie?	1
+How many of you read on wattpad?	What are some of the best Wattpad reads?	0
+Smart People: What books make you intelligent and clever?	What are some clever euphemisms for intelligence?	0
+How do rich/successful people deal with friends and family asking for money?	How do rich people avoid friends who ask for money?	1
+What are some tips on making it through the job interview process at New York REIT?	What are some tips on making it through the job interview process at The New York Times?	0
+How can one join the Indian Air Force as a doctor after doing their MBBS?	I am a medical student, aspiring to join the Indian army as a doctor after my MBBS. Who can I contact for advice and counselling regarding this matter?	1
+How do I eliminate homesick?	How do I stop being so homesick?	1
+Is there proof that alien life exists?	Is there even a slight proof of alien life?	1
+How can a mosquito fly inside a moving car independently without sticking to anything?	Why does a mosquito fly normally inside my car while im driving at 70kph?	1
+How to get percentage between two numbers?	How do I find a percentage of two numbers?	1
+What is your longest journey?	What is the longest journey which you took in your life?	1
+How many employees does Quora?	How many employees work for Quora?	1
+Is there any way to increase height after age of 20?	Is it possible to increase the body height after 20?	1
+Why not carefully introduce endangered African animals into empty parts of the Australian outback?	If the caste system was introduced/created by Aryans after their invasion, why is it not seen in Aryan cultures in other parts of the world now?	0
+Why do dogs throw up yellow foam?	What should I do if my puppy throws up white foam?	1
+How I sleep all night without wake up?	How can I sleep without waking up in the middle of the night?	1
+How can the drive from Edmonton to Auckland be described, and how does the history of these cities compare and contrast?	How can the drive from Edmonton to Auckland be described, and how do these cities' attractions compare to those in Vancouver?	1
+What happens with the clones after the Clone Wars?	In Star Wars IV - VI did Kamino continue production for the clone/storm troopers?	0
+Why don't people think someone will become a trillionaire?	Is it possible for someone to become a trillionaire?	1
+What are the best airport hacks for India?	What are some domestic airline or airport hacks for Indians in India?	1
+What are the best sites to buy Twitter followers?	What is the best way to buy Twitter followers?	1
+How do I see who's viewed my Instagram profile?	Can you see who who viewed your videos on Instagram?	1
+Which is the best free blog platform?	Which is the best blogging platform?	1
+Why has no one managed to kill Bashar al-Assad?	Why has no one succeeded in assassinating Bashar al-Assad?	1
+What is the value of π?	What is the value pi?	1
+What are some ways to make Hamburger Helper cheeseburger macaroni?	How do you make a Hamburger Helper cheeseburger with macaroni?	1
+Applying olive oil on face every night. What are the pros and cons?	Can you put olive oil on your face?	1
+What are organic macromolecules and what are some examples?	What is a organic macromolecule? What are some examples?	1
+How do I get better at math?	How can I get better in math?	1
+Which is the best institute for preparing for GMAT in Delhi/NCR?	What are some of the best coaching institutes for GMAT in Delhi/NCR?	1
+Is Turkey being westernized?	Is Turkey fully Westernized?	1
+Why is gay marriage acceptable?	Gay marriage is acceptable?	1
+What is an American Diversity Lottery visa?	Is the American Diversity Lottery Visa true?	1
+Do employees at S & T Bank have a good work-life balance? Does this differ across positions and departments?	Do employees at Western Alliance Bank have a good work-life balance? Does this differ across positions and departments?	0
+What is the Sahara, and how do the average temperatures there compare to the ones in the Gibson Desert?	What is the Sahara, and how do the average temperatures there compare to the ones in the Chihuahuan Desert?	1
+What is the best time to buy Galaxy s7 edge?	Should I buy Samsung S7 edge or wait for S8?	0
+How do I get night shift?	What are some tips for working a night shift?	0
+Do Trump supporters believe his claims about his tax returns, or do they just not care?	Do Donald Trump supporters actually not care about his tax returns, or do they just tolerate them and look at the bigger picture?	1
+How much should I pay for a domain named infolisted.com which is for sale on flippa?	How did you started your acting career?	0
+What are the possibilities of a nuclear war between India and Pakistan after the surgical strike attack on pok?	How many people think that India is heading toward war with pak after surgical strike?	1
+What is the equivalent resistance of this circuit?	What is the equivalent resistance of a circuit?	0
+If you had to choose a mathematician and a physicist for a philosophical discussion, which combination would you choose and why?	If I had to choose between killing my father and killing my wife and son, I would choose killing my wife and son. Is this normal?	0
+Did Ben Affleck shine more than Christian Bale as Batman?	According to you, whose Batman performance was best: Christian Bale or Ben Affleck?	1
+What's the difference between analog and digital system?	What's the main difference between digital and analog?	1
+What are the differences between a sociopath and a psychopath?	What are the differences and similarities between a sociopath and a psychopath?	1
+Now that Trump has been elected as president, how will it affect India?	If Donald Trump wins, how would it affect India?	1
+How many people are in the Insight Express survey panel? Is it different for mobile and display?	How can I Link many survey in SharePoint?	0
+Why did Nico Rosberg complain and not overtake Lewis Hamilton if Hamilton was deliberately slowing his car at the Abu Dhabi Grand Prix 2016?	Why did vettel put pressure on rosberg in the final laps of Abu Dhabi Grand Prix 2016? Read details	1
+What are some good things about Pakistan that everybody should know?	What are some really good things about Pakistan that can make a Pakistani proud?	1
+Should I buy a Sony MDR-10RNC?	Which TV should I buy? VU or LG or Samsung?	0
+How do I improve my conversation skills with any one?	How do I improve my communication skills in one month?	1
+Can the electoral college stop Trump from becoming president?	With the near tie now between Clinton and Trump, can the Electoral College for the first time be useful and stop a Trump presidency?	1
+Information Security: How do I become a penetration tester with no relevant experience?	How do I become a Network Penetration Tester?	1
+What are the ways to commit suicide?	What is a sure way to commit suicide?	1
+How can you describe the taste of XO Sauce?	Does pasta water make pasta sauce taste better? Or does it just make the sauce watery?	0
+Will India get a gold medal in Rio Olympic?	Will India win a gold medal in Rio Olympics?	1
+What movies made you cry?	Which is/are the movie(s) which made you cry?	1
+How do I improve my communication skills in one month?	How we improve our communication skills?	1
+What would be the best way to quit smoking?	How do I quit smoking and drinking?	0
+Why is Singapore's crime rate so low?	Why is the birth rate so low in Singapore?	0
+Do burglars really avoid houses with dogs?	What can I do to avoid getting a dog ?	0
+How is the mental process of reading Quora different from reading a book?	What are the differences between learning from reading Quora posts vs. reading books?	1
+T20 international is the best compared to all other formats of cricket?	What is the best format of cricket?	0
+Should I join the United States Coast Guard?	How do I join the United States Coast Guard?	1
+Am I bisexual, lesbian or straight?	Am I bisexual, straight, or lesbian? How do I know for sure?	1
+What exactly is illegal about the Israeli settlements?	Are Emma Watson's eyes big and what is their shape?	0
+What are some interesting lesser known historical events?	What are the most interesting but little known historical events?	1
+What are some Facebook tips and hacks?	What are some Facebook hacks?	1
+Where do I catch a Butterfree in Pokémon GO?	Where do I catch Zubats in Pokémon GO?	0
+Which entrance exam is tougher, AIIMS or IIT?	Is the NPAT tougher than other entrance exams?	0
+Is Quora overtaking Stack Exchange?	Has Quora overtaken Stack Exchange?	1
+What is the present scenario in us after doing MS?	How suggestable is to do ms in us considering the present scenario?	1
+Why do people still believe in god in this day and age?	Why do people believe in a higher power and God?	1
+Why doesn't Dushka Zapata answer my questions?	Does Dushka Zapata give reasons when she declines A2As?	1
+How do I see who viewed my instagram videos?	Can one tell who viewed my Instagram videos?	1
+How do I become a copywriter?	How do I be a copywriter?	1
+Is there anyway to retrieve my deleted emails from my Gmail account?	How do I recover permanetly deleted emails in Gmail?	1
+How do I decorate a bedroom with a 1989 theme?	How would I decorate a bedroom with a 1987 theme?	0
+What is the scariest paranormal experience you have ever had?	What is the scariest paranormal encounter you've had?	1
+Can you suggest some good movies like The Social Network?	What are some suggestions for movies like The Social Network?	1
+What is the difference between speed and velocity in physics? What are some examples?	What are the differences between speed and velocity? How are the measured?	1
+How do I get a thin waist?	How do you get a skinny waist?	1
+What is the best way to earn money through online?	What are some best ways to earn money online?	1
+When should I ask a girl on a date?	Should I ask this girl on a date?	0
+How can I gain weight on my body?	How do I gain weight fast, without expensive supplements?	0
+How can I introduce the surface area of cuboid by using real life situations?	What are the applications of surface area in real life?	1
+Will the rise of China be a good or bad thing? Why?	Is the rise of China good for the world?	1
+My AMCAT scores are: verbal: 29%, quants: 88.1%, and logical: 65.1%,computer progr: 68%. Can I expect a call from Cognizant or Accenture?	My AMCAT scores are: verbal: 56%, quants: 98.1%, and logical: 90.1%. Can I expect a call from Cognizant or Accenture?	0
+How does the HP OfficeJet 4620 Airprint compare to the HP DesignJet Z5200 44-in Photo Printer?	How does the HP OfficeJet 4620 Airprint compare to the HP Color LaserJet Pro M452dw?	1
+How can I read fast?	How can I read very fast?	1
+What is your most embarrassing moment during your childhood life?	What is the most embarrassing moment of your life when you were a kid?	0
+How can I lose 25 kg?	How should I lose weight?	1
+How do you determine the number of neutrons in an vanadium atom?	How do you determine the number of neutrons in an hydrogen atom?	0
+"""Is it """"I have already taken the exam"""" or """"I had already taken the exam""""?"""	For my English class, I had to write 30 journal entries from the POV of a holocaust survivor. I've already turned it in, but I have to present it to my class tomorrow and I'm just now realizing how bad it actually was. What should I do?	0
+What are some cool facts about e?	What are some cool facts?	0
+Why should we have to talk to the 2 year old baby regularly?	Who is she?	0
+What is the Schwarzschild radius formula?	What is my Schwarzschild radius?	0
+What is at the end of the universe?	"""What lies at the """"edge"""" of our universe?"""	1
+Is it bad to have crush on our teacher?	Is it bad that I have a crush on my teacher?	1
+Why do people use Quora when they could easily find the answer in a quick Google search?	Why do people bother to ask questions on Quora they could just google to get the answer?	1
+What is the process for electronic recycling at Walmart? What does the Walmart return sticker look like?	Why Salman Khan is not richer than Shah Rukh Khan?	0
+How do I resolve this C problem?	In the wake of recent rumours regarding cancellation of bank's license, what will happen to the accounts and deposits of people if it happens?	0
+What are some of the subliminal messages in Nickelodeon?	Why does Nickelodeon have subliminal messages?	0
+How India can respond to the Uri terror attack?	How should we react on Uri camp terror attack?	1
+Why do people study psychology?	What motivates people to study psychology?	0
+What are easy ways to lose 500 calories a day?	What is the simplest way to create 500 calories deficit per day?	1
+Which was the best film of 2016?	Which is the best movie 2016?	1
+What is the best website to book air tickets at a cheap rate?	Which is the best website for booking cheap air tickets?	1
+How long does meth say in your urine?	How long does meth stay in your system if you snorted 3 little lines?	1
+What are the safety precautions on handling shotguns proposed by the NRA in Wisconsin?	What are the safety precautions on handling shotguns proposed by the NRA in Pennsylvania?	1
+What are some Hollywood movies that were cut on Adobe Premiere?	Why is Adobe Premiere Elements so slow?	0
+At what age did you first realize you were gay/bisexual and how did you realize it?	When/how did you realize you were gay/bisexual? Were you in denial?	1
+What is the funniest thing you ever said to your family?	What is the funniest thing you ever said?	0
+Why can't a country print its own currency?	Why can't a country print its own currency when required?	1
+Why do Quorans ask questions for which authentic answers are obtainable faster and easier through Google?	Why do Quorans ask simple factual questions that can be answered with a single search on Google?	1
+How do I handle the loss of a pet?	How do I cope with the loss of a pet?	1
+Which are the best books for CA final?	What are the best books of CA final?	1
+What is the best possible way to get away with murder?	What is the best way to get away with murder?	1
+What is Trinidad and Tobago?	How is life in Trinidad and Tobago?	0
+Does Donald Trump still have a chance of winning? (October 15, 2016)	Can Donald Trump win?	1
+Internet Advertising: Are there equivalents of the US Ad Council in other countries or regions for national and international NGOs?	What is the best thing you have done for your country?	0
+which laptop will be best under Rs 30,000?	What are the best laptops available under INR 30000 (30k)?	1
+Why do Japanese people stare at foreigners?	How do Japanese people feel about foreigners?	0
+How should one crack UPSC/MPSC exams efficiently?	Is there any Funda to crack UPSC in just one attempt?	1
+Where can i sell a business idea?	Where can I sell my idea?	1
+What is your new year resolution for 2017 or goal for 2017?	What would be your New Year resolutions for 2017?	1
+Which is the best source to learn C language?	Which source is the best to start learning C?	1
+Can you dream about a specific thing on purpose? If so, how?	How can we dream about specific things?	1
+What is the best laptop under 25000 in India?	Which is the best laptop model within 25000 rupees?	1
+What is the difference between front and back end?	What's the difference between front end and back end programming?	1
+How did prediction algorithms used for the US presidential election go wrong?	How did the 2016 US election polls get it so wrong?	1
+Can I make an Android app with Python?	Can I build android app using Python? How can I do it?	1
+What are the consumer behaviors involved in purchasing food products from Chipotle Mexican Grill?	Can I ask for an extra amount of rice in Chipotle Mexican Grill?	0
+What rank should I expect for 60 marks in the GATE 2015 ECE, 31st January afternoon session?	I am expecting 60 marks in the GATE ECE. Should I apply for the PSUs?	0
+What's an interesting secret you care to share anonymously?	Secrets: What is that one secret that you can never share with anyone?	1
+How true is the story in Mockingbird by Eminem?	Are the lady and children in the Mockingbird video really Eminem's ex-wife and children?	0
+Game of Thrones Season 5 Episode 5 (Kill the Boy): Did Jorah touch Tyrion?	Game of Thrones Season 5 Episode 5 (Kill the Boy): Who attacked Jorah and Tyrion on the boat?	0
+Are there Quorans who ask a question and answer it themselves?	Is it common for Quorans to ask a question and then answer it themselves?	1
+What do you think of the Government's move of banning old Rs. 500 & Rs. 1000 notes?	What do you think of PM's decision on the banning of 500 and 100 rupee notes?	1
+People are constantly manipulating my phone while I'm trying to use it online, why is this?	Why is it that after finishing my schooling I feel that I am missing something as if people of my age know things which I don't? Other students used to make groups and that always made me feel left out. I constantly feel as if I'm not much aware of things or I am missing something. Why is that?	0
+Which books are a good place to start learning about Six Sigma methods and philosophies?	Some people worship Ayn Rand, while others are totally against her books/philosophy. What should a young adult know about her book before starting it?	0
+What are the best IAS coaching centres in Hyderabad?	Which are the best institutes for Civil Services Coaching in Hyderabad?	1
+"""Why is Islam such a """"peaceful"""" religion?"""	Is Islam a religion of peace?	1
+What is it like to be an electrical engineer?	What is Electrical Engineering?	0
+Does The Coca-Cola Company own Santa Claus?	Did the Coca Cola Company invent Santa Claus?	1
+What should I look for if I am interested in setting up a new business in China and whom should I connect with?	What should I look for if I am interested in setting up a new business in UAE and whom should I connect with?	0
+What is atavism?	Sometimes, tail appears in Human Beings. Why?	0
+What was your favorite movie of the 1980s?	What is your favorite 80's movie?	1
+What is best colour combination with dark green?	What are the best colour combination which include only two colours?	0
+How do I promote mobile application?	How do I start promoting my mobile application?	1
+I want to get married and bring my wife to USA on dependent visa. How much time will it take to get marriage certificate in India (GOA)?	How much time does it take to get a marriage certificate in India?	1
+Is Donald Trump in league with Putin?	Is Donald Trump an agent for Vladimir Putin?	1
+What are some of the latest technologies?	What is the latest technology in 2016?	0
+What movie is the best movie of 2016?	What are some interesting movies in 2016?	1
+How can I set my profile picture on Quora?	How do I add or change my Quora profile picture?	0
+What will be Barack Obama's legacy?	Based on what we know now, what will Barack Obama's historical legacy be?	1
+Which are best eye clinics in Pune?	Which is the best eye hospital in Pune?	1
+Were Jews absent from work in world trade center on 9/11?	How many people worked at the World Trade Center on September 11?	0
+Who is your favorite YouTuber?	Who are your favorite YouTubers?	1
+What is dissociative identity disorder?	What is your review of Dissociative Identity Disorder?	1
+What happens to my valid F2 visa if I apply for a F1?	Are F1 visa holders eligible for entering the green card lottery?	0
+What is the best site for downloading e-books?	Which is the best site to download books?	1
+How do I make Instagram account private?	How do I make my Instagram account private?	1
+Who is the best motivational speaker in India?	Who are the Best Motivational Speakers in India?	1
+What is a communication network? How are they used and what are some examples?	How can I work to start a recycling industry in Jodhpur?	0
+How does apple cider vinegar affect weight loss?	How does Apple Cider Vinegar help you lose weight?	1
+If I follow someone on Twitter can they see how many times I view their profile?	How can I have someone's profile taken down from Facebook, Twitter, LinkedIn, etc. if they have died?	0
+I'm a writer, how can I find direct clients to work with?	Why most of the people became bored to there boyfriend/girlfriend and marriage to someone else?	0
+How can I stop feeling lonely and depressed?	I feel so lonely, how do I stop feeling this way?	1
+Why is the demonetization of 500 and 100 rupees notes necessary?	Will the demonetization of 500 and 100 rupee notes affect restaurants?	0
+Why are only few people aware that many dinosaurs had feathers?	Are many dinosaur fossils found at the K-T line?	0
+Is Google Wallet secure and reliable?	Is Google Wallet safe/secure?	1
+How do I clean up my glass walls of the shower door?	How do I clean a glass shower door?	0
+Is kinetic energy relative?	How is kinetic energy measured?	0
+When did passports come into existence?	How and when did the system of passports, visas and immigration embassies officially come into existence?	1
+Why is Burning man arranged in the shape it's arranged in (a circle?)?	Do grad schools look favorably on applicants with extraordinary experiences? If so, why?	0
+How do I start practicing yoga and meditation by myself, at home?	What are some tips for practicing yoga at home?	1
+Who was the most ignorant American you have ever met?	Who is the most accomplished person you have ever met?	0
+Which is the best laptop under 60k in india?	Which is the best laptop I should buy under Rs.60000?	1
+Does Wipro send me an email asking me to upload documents for Background Verification at Wipro's Synergy site or am I supposed to do that voluntarily?	When should I upload documents on Wipro synergy portal for BGV check?	0
+How can I make my lips look more plump naturally without makeup?	How do I get fuller lips without makeup?	1
+What's the funniest prank you've ever seen?	What is the funniest prank?	0
+What is the best site to buy a registered domain name on?	What is the best site to sell domain names?	0
+How do I deal with noisy neighbors?	What are the best ways to deal with a noisy environment?	1
+How can I build traffic for my website?	What is the best way to drive traffic to a website?	1
+Suggest Books which 'll change your life?	What are the books that changed your life?	1
+Who is the most powerful person in Washington who is neither an elected official nor serving in the administration?	How easy is it to pass a ballot measure for Washington, DC?	0
+When did USA and Japan become allies, given that the Japanese bombed Pearl Harbour and the USA nuked Japan?	Why do Japan and the USA have good relations if the Japanese killed thousands of innocent people at Pearl Harbor and the USA bombed Japan with nukes?	1
+Which is the best institute for distance MBA in India?	Which is the best distance MBA institute in India?	0
+What are the advantages of being lonely?	What is the advantages of lonely?	1
+What exactly is the Kaveri issue that Karnataka has with Tamil Nadu?	What is the Kaveri river issue all about?	1
+How much money does an NFL team owner make off his/her team per year?	How does an NFL team make it to the Super Bowl?	0
+Can psychopathy be treated?	Can psychopathy be cured?	1
+How can I overcome a bad mood?	What do you do to get over a bad mood?	1
+"""What is the meaning of """"Swag""""?"""	What is the meaning of swag?	1
+Why does urine smell like fish?	Why does my urine smell like fish?	1
+What are monocot plants and what are some examples of them?	What are some examples of monocot plants? What are some dicot plants?	1
+What are some good truth or dare questions to ask over text?	What are good questions to ask a mentor?	0
+Sol ma ps admission fees?	"""Is """"Nackte männliche Models"""" correct German title-appropriate translation of """"DEFIANCE: Nude Male Models""""?"""	0
+How can I last for a longer time during sex?	I am a 20 year old male. How can I last longer during sex?	1
+Which phone is best to buy under 15k?	Which is best mobile under 15000?	1
+are aliens real or are they fake ?	Do aliens exists?	1
+What is the big O notation and how do I calculate it?	What is big o notation in dickrete maths?	1
+How did the college application process work before the internet?	What will be better for my college application social work trip or an MUN? My past experience in social work is 0 while I have been to 4 MUNs before	0
+What would the world be like today if the Black Plague had never happened?	How would the world be different if the Black Death never happened?	1
+Would it be better if we had voluntary muscles in the stomach and involuntary muscles in the legs?	Do you think it would be better if we had voluntary muscles in the stomach and involuntary muscles in the legs?	1
+What is a good resume for a content writer?	Who is a content writer? What are some good qualities of a content writer?	0
+Is it okay to have sex with your boyfriend before marriage?	Is it fine to have sex before marriage?	1
+Do the Japanese have shame for the military crimes committed by their army in the 20th century (like the Nanking incident, for instance) like the Germans have shame for theirs during World War II?	Why don't Japanese history books and school books tell of their war crimes in World War II?	0
+How do I promote a new website?	What should I do to market for my new website?	1
+"""What does """"turning the ship slowly"""" mean?"""	Everybody knows that just turning off fear isn't a good idea. Some people say that we should control it. What do they mean and how does this help?	0
+Which martial arts is good for beginners?	What is the best martial arts to begin studying?	1
+Who is good for India, Trump or Clinton? And Why?	Whose win will be beneficial for India-Donald Trump or Hillary Clinton?	1
+Did time machine exist?	Can a dragon possibly exist?	0
+Why is the base region least heavily dipped in BJT?	Why do electrons move from depletion region to cathode in photodiodes and depletion region to base in the base-collector junction of phototransistors?	0
+What is a suitable amount of money you should give in a Bar Mitzvah?	I'm 14 year-old boy and my vocal range is F2 - A4 what voice type am I?	0
+What is the difference between an UberX, Uber Black and Uber Taxi?	Do Uber taxis not run really early in the morning (like 3 AM)?	0
+Are peanut butter and jelly sandwiches bad for you?	Are peanut butter and jelly sandwiches healthy?	1
+What are the absolute best sites for airfare?	Where can I find the best deals on airfare?	1
+Can one tell who viewed my Instagram videos?	How can I see who viewed my Instagram video?	1
+How do I connect my bluetooth headphones with my laptop?	How do you connect Bluetooth headphones to PS4?	0
+How do I stop hating a person?	Can you stop hating a person that you really hate?	1
+What are the marker less augmented reality example using c++?	What is the best OS environment for Android app development?	0
+I have to dress up as a punjabi girl in school. I am a guy can you tell me what things I need to wear ?	I need to buy a laptop. I am into performing modeling and simulation and I need to spend my dollars wisely. What do you guys/girls suggest me?	0
+How will humans be 100 years from now?	Will humans be extinct in 100 years?	0
+How do I know Jesus is talking to me?	How do you know Jesus is the only way to heaven?	0
+How much amount to fill in amount of transaction column of form 60/61?	How much money will amount to rupees 560 in 3 years at 4% per annum.?	0
+How does Docking and berthing of spacecraft work?	What is the difference between docking and berthing at the ISS?	1
+How do I reduce belly and chest fat?	What should I eat to get rid of belly fat?	1
+How do I start up a new cafe?	What are requirements I would need to start my own cafe?	1
+How do I gain weight to build muscle?	How can I gain weight and build muscles?	1
+How does one explain the difference between object-oriented and procedural programming in layman's terms?	What is the difference between procedural and object oriented programming?	1
+Is it possible to know which device is using most of data when connected to Wifi?	Is it possible to use WiFi connection that is too far from my laptop?	0
+I am 13 and 5'. How much should I weigh?	Am I short? My height is 5,5. My mom height is 5,2.dad is 5,8.13 year old boy. How taller will I be?	0
+Which countries have the best education system and why?	Which country in the world has the best education system and why?	1
+Do employees at Home Properties have a good work-life balance? Does this differ across positions and departments?	Do employees at Cousins Properties have a good work-life balance? Does this differ across positions and departments?	0
+What are some of the creepiest pick-up lines?	What are some good pick-up lines for biology majors?	0
+Who become 1st in auv national level competition 2017 at niot, Chennai?	What industrial training in Power Electronics will be helpful to have a hands-on experience?	0
+What is Australia's point of view on the Tribunal by the Hague Permanent Court of Arbitration (PCA)?	"""Why do Australia say the PCA """"have no jurisdiction over maritime boundaries""""?"""	0
+Is it true that there is life after death?	Is it true that there is 'life after death'?	1
+How do I check the status of work permit visa for Germany?	I molested my best friend and I'm really sorry for that. I'm really sorry for what happened and I want to make things right. help me?	0
+How should one improve one's presence of mind?	I feel numb at important situations, I am unable to think smartly. How can I improve by presence of mind?	1
+How do you determine the value of a 1918 half penny value?	How do you determine the value of a 1940 penny?	0
+When the other woman tells your girlfreind about the affair?	What is salary for cma for month in india?	0
+What is the difference between offense and defense?	What is the difference between being defensive and being offensive?	0
+Which is the best SEO ‪Company‬ in ‪Delhi‬?	Which are the best seo companies in Delhi/Ncr, India?	1
+Which is more preferable Conversion-focused landing pages OR SEO-focused landing pages?	Why will Theresa May not trigger Article 50 to start the proceedings for the UK to leave the EU until early next year?	0
+What is the best gadget for your phone?	What are some of the best phones gadgets?	1
+Which one is better camera ..Nikon coolpix a100 or Sony cybershot w830?	Is the Apple TV capable of increasing the resolution of a video to 1080p if that video is sent to it via AirPlay in less than a 1080p resolution?	0
+What is the best way to discipline a 3 year old kid?	What is the best way to discipline a child?	1
+Which is the best college for M.Sc in maths?	Which is the best college for M Sc in Maths in Maharashtra?	0
+How do I reset my Outlook password?	How do I reset Outlook password?	1
+what is the value of m for this function?	What is value of m here?	0
+What are some of the best car gadgets technology available?	What are some of the best car tools?	1
+What is the best iPod video converter?	What is the best video converting software?	0
+How do you think you can change your destiny?	How can I change my destiny?	1
+What are the best books on Joseph Goebbels?	Are there any really, really interesting books on Joseph Goebbels?	1
+What is the concept of a smart city?	Is anyone familiar with the concept of smart cities?	1
+How can I get a list of my Gmail addresses?	How do I find all my Gmail accounts?	1
+How do you find out if someone is active on dating websites?	How do you find out if your boyfriend is on dating websites?	1
+If everyone over 18 died, what would happen?	If everyone over the age of 18 died today, how might the remaining population respond, and what could they do to survive?	1
+What are some examples of social values?	What are some examples of social mores?	0
+Young Entrepreneurs: I want to start a business , but I don't know what kind of business to do?	I want to start a logistic transportation company. What are the things I need to know? I don't have any previous experience of business	0
+What are the benefits of privatizing any public sectors?	What are the benefits of privatizing public sectors?	1
+What are some cool psychological hacks?	What psychological tricks and hacks are useful to know?	0
+What do you do when you feel alone or lonely?	What will you do when you feel alone?	1
+How do feel about the new Google inbox design change?	What is new about 'Pixel' by Google?	0
+How long before electric cars become the norm?	When will electric cars be the norm?	1
+How can you tell if you are a narcissist?	How can you tell if someone is narcissistic?	1
+How do I download unacademy.in videos?	How do I download videos from oliveboard.in?	0
+Where can you hire the best PHP, ASP.NET and iPhone apps developer at a low cost in India?	Where can you hire the best PHP, Asp.net and mobile apps developer at a low cost in India?	0
+Given [math]A[/math], What is the general formula of [math]A^n[/math]? If [math]A=\begin{pmatrix} -2 &4 \\ -5& 7 \end{pmatrix}[/math], what is the [math]A^n[/math]?	What are some substitutes for chicken stock in recipes that call for it?	0
+Why are cisgender women shamed and mocked for wanting cosmetic enhancements but trans women applauded by feminists/liberals?	If feminists ask for equality, why don't they oppose atrocities on men by women through law misuse and advantages women get due to their gender?	0
+How did you develop a passive income stream?	What are some ways to create passive income streams?	1
+What will the Trump presidency mean for us and the world?	What will a Trump presidency mean for the rest of the world?	1
+Why do so many people support Donald Trump?	How can people actually support Donald Trump?	1
+Does Gary Johnson stand a chance in the 2016 election?	What are the chances Gary Johnson will be our next president?	1
+What does Gary Johnson have to do to have a chance of winning in November?	What would be required for Gary Johnson to win?	1
+What is the best laptop in price range 50000 - 60000 for 2016?	Which is best Laptop to buy in around 60000 Rupees, with best configuration?	1
+Do you believe in life after death?	Do you think there is life after death?	0
+What are some of the most interesting little-known things?	What are some little known facts about McDonald's?	0
+What is the safest city in the United States?	What are the safest cities in the United States?	1
+What is your review of Video Recording?	What is your review of Video Recorders?	1
+How do I start preparing C or C++ for placement in TCS?	How do I start preparing for my placement?	0
+What is the financial market?	What are financial markets?	1
+What do you think of the the movie Fantastic Beasts and Where to Find Them? How did it appeal to you?	What do you think about Fantastic Beasts?	1
+What is the appraisal process in Accenture? If someone got a top rating, how much (in percentage) can he/she get?	What is the appraisal process in Accenture?	1
+Which is a suitable solar panel installation provider near Huntsville, Alabama AL?	What is a good solar panel installation provider in Huntsville, Alabama AL?	1
+After a US President serves two four-year terms, can they run again after four to eight years being out of office?	If the vice president of the U.S. finishes out a president's term, can he/she still run for two more terms?	0
+What is the sole purpose of our existence?	Is there a commonly shared, grand purpose to our existence as a human species?	1
+Why nitrogen gas is found 78% in atmosphere?	How can I be a navy officer in Bangladesh?	0
+Why were US carriers absent from Pearl Harbor on December 7, 1941, yet all the older, slower battleships were still there?	What would have happened if the Japanese had not attacked Pearl Harbor? Would the U.S. have still gotten into the war with Germany?	0
+Is Pok part of India or Pakistan?	What if Pakistan is the part of India?	0
+How do I buy used car in India?	Which used car should I buy in India?	0
+I am unable to tag people on Instagram. Why?	What tags do users who like to read search for on instagram?	0
+Is internal hard drive a primary storage device or secondary storage device?	What are some Nordic facial features, and how do they differ from Arabic facial features?	0
+Is sitting cross-legged or kneeling bad for your knees?	Why can't I cross my legs knee over knee? What exercises can I do to stretch any tight muscles which may be preventing me from this?	0
+What is the scariest or creepiest movie you have ever seen?	What's the scariest horror movie you've watched?	1
+Were dinosaurs real?	Did dinosaurs really exist?	1
+Why should I stop watching porn?	Should I stop watching porn?	0
+Why isn't Hillary Clinton in jail?	Is Hillary Clinton going to go to jail?	1
+In what way education changes an attitude of a person?	What is an education? In simple, and complex form, what does it mean to be a highly educated person?	0
+Does M.S. in electrical engineering from U.S. have good scope in India?	Does an M.S. in electrical engineering from U.S. have a good scope in India?	1
+How can I check if my Android phone is being tracked or tapped? If so, will encrypting the device help, hurt or make no difference after the fact?	Is there a phone number I can call to see if my phone tapped?	0
+What are some new inventions in electrical engineering all the engineers of the related field must be aware of?	How hard is electrical engineering?	0
+What is it like to attend Harvard Business School?	How smart are students at Harvard Business School?	0
+What is the scariest code you had ever seen?	What is the scariest insect you have ever found crawling on or near you?	0
+How does the ban on 500/1000 denominations affect various domains of the Indian economy?	How will the ban on Rs. 1000 and Rs. 500 notes impact Indian economy?	1
+How hard is it to convince your subordinates to follow the decisions that were made on a high level of management? What should be done and how?	How hard is it to convince your subordinates to follow the decisions that were made on a high level of management?	1
+If you ask someone to kill you, is it suicide?	If I ask someone to kill me, is it a suicide?	1
+My Instagram is private and all my following requests have disappeared. Why did they disappear?	Why did some of my sent Instagram direct messages disappear? They were on Instagram for days and suddenly disappeared although I didn't delete them.	0
+Why is it that you die when you cut some arteries (or vein) of your hand, but you don't die when your arm is cut?	How long would it take to bleed out if you cut your hepatic artery?	0
+Which is the best phone under 20000?	What IS the best mobile under 20,000?	1
+How do I find right person for me?	How do you find the right person?	1
+How do the police go about handcuffing / restraining a person with only one hand?	How does a police officer handcuff a person with only one wrist?	1
+Who would win a fight Bruce Lee or Muhammad Ali?	Would Muhammad Ali beat Bruce Lee?	1
+What is that one thing Indians are doing completely wrong?	What are the things does indians collectively doing wrong?	1
+I have scored 410 marks in NEET 2016. Which private colleges should I apply for?	I have scored 460 marks in NEET 2016. Which private colleges should I apply for?	0
+How do I control your thoughts?	What is the best way to control your thoughts?	1
+What is a good explanation of Labeled LDA?	Can anyone give a simple explanation for LDA input and output? What does co-occurrence mean?	0
+What is funniest video you have ever watched?	Which is the funniest video according to you?	1
+How do I get my friend to take a shower without offending her?	Is e-Aadhar card a valid proof for an IRCTC e-ticket to travel on the train?	0
+How too fall out of love?	How does one simply fall out of love?	1
+What will be the effects of demonitizing 500 and 1000 rupees notes in Indian economy?	How is banning 500 and 1000 INR going to help Indian economy?	1
+Are Hillary Clinton's health issues more complex than simply Deep Vein Thrombosis?	Does Hillary Clinton have health issues we, as voters, should be concerned about?	0
+I have offers from Accenture for the position of ASE & HPE for graduate engineer trainee.. Which is better n why?	Why do I want to escape reality and go to another world so much?	0
+How can I watch any clip4sale video without paying?	Can I use an old game that is now free in a video without paying royalties?	0
+How do you remove scabs in dogs ears?	How do you treat scabs in dogs ears?	1
+What is a meaning of life?	What is the exact meaning of life?	1
+Which is the site to start my blog for free and earn money from it?	Which is the best site to start my blog for free?	1
+What is the function of the umbilical artery and vein?	What is the function of the umbilical vein?	0
+How do ballistic missiles aim and change direction?	How do missiles aim and change direction?	0
+How should I prepare for IBPS PO prelims?	How can I prepare for the IBPS PO 2017?	1
+What is the best phone under 10k in India?	Which is the best smartphones under 10k in India?	1
+Does adjusted EBITDA usually include stock-based compensation? In the annual filing, some includes and some does not?	Should I include 3.57 GPA in my resume for Finance/Accounting?	0
+Why do people ask questions on Quora while They can get all the answers by Googling?	Why do people ask stupid questions on Quora that could be easily answered by Google?	1
+How can it be proved with graph/calculus that the substitution effect must always be negative?	Why is the substitution effect always negative?	1
+Which is the best coaching institute for UGC-NET preparation in Delhi?	Which coaching institute material is best for NET JRF?	0
+Why can't you wear contact lenses in the shower?	Is wearing contact lenses comfortable?	0
+My family and other friends judged him for acting gay.I do love him and so does he love me. What should I do?	I'm in love with my gay best friend but he has a boyfriend. How can I stop loving him?	0
+How do l study efficiently?	What are some tricks to study effectively?	1
+What is the D class time table for DAC at Sunbeam Pune?	How do I make a time table for class 9TH?	0
+Are there academic journals for high school students to publish in?	Are there any respectable, peer-revised journals in which a high school student can publish a journal comparing different East Asian philosophies?	1
+Should people over 98 not be allowed to vote?	Should people over 97 not be allowed to vote?	1
+How can you add an article about yourself on Wikipedia?	How can I publish an article about my life and dreams in Wikipedia?	1
+Can you walk across the Canadian-US border?	Are there really parts of the US–Canada border that are unprotected, such as this one?	0
+Where can I get necessary legal advice and services in Sydney for property transaction?	Where can I get very friendly property transactions services in Sydney?	1
+Are male Trump-critics just closet misogynists who think women are weak?	Are there any Indian women who find misogynistic men, appealing?	0
+What are the differences between common law and statutory law and what are some examples?	What are the differences between case law and statutory law? What are some examples of both?	1
+Do waist trainers work?	Does waist training work?	1
+I generated bar code by giving the details of Punjab can I get sim in Andhra Pradesh?	At 30, am I too old to become the person I want to be?	0
+How do you find the instantaneous rate of change?	What is an instantaneous rate of change?	0
+How can I create the most popular question on Quora?	Which are the most popular questions on Quora presently that also create the most discussions?	0
+How can I meet Narendra Modi?	How can I meet our Prime Minister Mr. Narendra Modi in person?	1
+What are the five best pieces of advice you have received?	What is the best piece of advice you have ever received?	1
+How do you find the right person?	How do I find the right one?	1
+Why do you open presents on Christmas Eve and what is the origin of this tradition?	What is the best Christmas gift you've ever received?	0
+What are things that make Indians happy?	Why shouldn't we as what are the things that make Indians happy?	0
+Which is the best IELTS coaching center in Chennai?	Which is best IELTS coaching centre in Chennai?	1
+Which books are a must read for an English literature student?	What are the must-read books for a literature student?	0
+If the father carries blood A and a mother carries blood group o what is the blood group of the child?	How does the blood group of a child differ from the mother or father?	0
+How should I start learning Python?	I have just finished Learn Python The Hard Way. Is it useful to start learning Pygame?	0
+How does Hopeless to Harvard work?	What are the pros and cons of Harvard vs. Stanford?	0
+What is the best massage oil blend for massage quality, feel, popularity among therapists, and skin? (example Grapeseed 75%, Apricot 15%, Jojoba 10%)	What do cops think of the BLM movement?	0
+What are the best places to visit in Kerala?	Which is the best tourist place in Kerala?	1
+What is Learning to Rank in machine learning?	What is learning to rank?	1
+Which is the top e-commerce companies in India?	Which e-commerce company is on top in India as of now?	1
+How likely is getting an offer from Facebook after passing technical phone interviews for a software engineering job and preparing for an onsite interview?	How should I prepare for a software engineer interview at Facebook?	0
+I lost my phone and got a new SIM with the same number. Can I activate the old Viber account on the new phone with the same number, and can I get the lost contacts through Viber on the new phone?	I changed my sim card but use the same phone. Will the new Viber account from my latest sim card overwrite my previous Viber accounts data? Can I recover it using a third party app?	0
+"""What is the true definition of """"introvert""""?"""	What is your definition of an introvert?	1
+Why do developers at Google use Ubuntu over something like Windows or Mac OS X?	Why one should use Ubuntu over Windows for web development?	1
+What are some of the Google Voice features?	What does Google Voice do?	1
+How could someone survive three heart attacks?	Can we survive a heart-attack?	0
+What camera does Charles Trippy use?	How do I boost my youtube videos with 5000 YOUTUBE views?	0

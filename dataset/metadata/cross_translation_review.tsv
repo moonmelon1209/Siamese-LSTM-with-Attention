@@ -1,0 +1,3 @@
+_dataset	idx	question1	question2_original_english	question2	is_duplicate
+cross_en_ko_train	177446	Which book will good for special theory of relativity for JAM PH?	How would you evaluate for [math]f(x) = 1.5\times 5^{x}[/math] for [math]x=0[/math]?	[math]f(x) = 1.5\times 5^{x}[/math] for [math]x=0[/math]?	0
+cross_en_ko_train	191685	How can I reship to my house using fake amazon.com packaging (or a similar type of service for camouflage)?	How can one use Amazon Web Services for a platform similar to Coursera?	How can one use Amazon Web Services for a platform similar to Coursera?	0
