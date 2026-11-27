@@ -6,7 +6,8 @@ import numpy as np
 
 
 RESULTS = Path(__file__).resolve().parent
-MODELS = {"A": "english_baseline", "B": "multilingual", "C": "multilingual_attention"}
+MODELS = {"A": "english_baseline", "B": "multilingual", "C": "multilingual_attention",
+          "B100": "multilingual_full_100", "Half100": "multilingual_half_100"}
 LANGUAGES = {"english": ("en", "en"), "korean": ("ko", "ko"), "cross_en_ko": ("en", "ko")}
 
 
@@ -62,9 +63,11 @@ def interval(draws):
 
 def main():
     rng = np.random.default_rng(42)
-    differences, resamples = [], []
+    multilingual = ["B", "C", "B100", "Half100"]
+    contrasts = [("C", "B"), ("B100", "B"), ("B", "Half100")]
+    group_scores, group_draws = [], []
     for group, languages in LANGUAGES.items():
-        names = ["B", "C", "A"] if group == "english" else ["B", "C"]
+        names = multilingual + (["A"] if group == "english" else [])
         rows = read_predictions("B", group)
         keys = ("row_id", "question1", "question2", "is_duplicate")
         predictions = []
@@ -83,15 +86,21 @@ def main():
             sample = rng.integers(len(clusters), size=(100, len(clusters)))
             draws.append(macro_f1(counts[sample].sum(axis=1)))
         draws = np.concatenate(draws)
-        delta = observed[1] - observed[0]
-        paired = draws[:, 1] - draws[:, 0]
-        resamples.append(paired)
-        differences.append(delta)
         scores = "  ".join(f"{n}={v:.4f}" for n, v in zip(names, observed))
-        print(f"{group} (n={len(rows)}): {scores}  C-B={delta:+.4f}  95% CI {interval(paired)}")
-        if group == "english":
-            print(f"  C-A={observed[1] - observed[2]:+.4f}  95% CI {interval(draws[:, 1] - draws[:, 2])}")
-    print(f"Mean C-B={np.mean(differences):+.4f}  95% CI {interval(np.mean(resamples, axis=0))}")
+        print(f"{group} (n={len(rows)}): {scores}")
+        for newer, older in contrasts + ([("C", "A")] if group == "english" else []):
+            i, j = names.index(newer), names.index(older)
+            print(f"  {newer}-{older}={observed[i] - observed[j]:+.4f}  "
+                  f"95% CI {interval(draws[:, i] - draws[:, j])}")
+        group_scores.append(observed[:len(multilingual)])
+        group_draws.append(draws[:, :len(multilingual)])
+    means = np.mean(group_scores, axis=0)
+    mean_draws = np.mean(group_draws, axis=0)
+    print("Mean Macro-F1: " + "  ".join(f"{model}={score:.4f}" for model, score in zip(multilingual, means)))
+    for newer, older in contrasts:
+        i, j = multilingual.index(newer), multilingual.index(older)
+        print(f"Mean {newer}-{older}={means[i] - means[j]:+.4f}  "
+              f"95% CI {interval(mean_draws[:, i] - mean_draws[:, j])}")
 
 
 if __name__ == "__main__":

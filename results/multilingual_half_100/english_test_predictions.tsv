@@ -1,0 +1,701 @@
+row_id	question1	question2	is_duplicate	score	prediction
+0	What is the best way to request a letter for a school admission?	How do I write a requisition letter for school admission?	1	0.8092981576919556	1
+1	Who provide the best carpet cleaning services in New York?	What is a good carpet cleaning and repair service in New York City?	0	0.6603775024414062	1
+2	Which is the best restaurant in the world?	What are the best restaurants in the world?	1	0.8482905626296997	1
+3	Why are two bronze medals given in Olympics boxing competition?	Why are two bronze medals given in Olympic boxing competitions?	1	0.8915950655937195	1
+4	Is the mind separate from the body?	Are the brain and the mind separate from one another?	1	0.5826193690299988	0
+5	What are the positives and negatives of restorative justice?	Is Vengence and Justice opposite?	0	0.5953282117843628	0
+6	What is conversion rate optimization?	What is CRO? Why do I need CRO? Is the conversion rate optimization a must for an online business?	1	0.588824450969696	0
+7	What type of language is C#?	What are typed language?	0	0.6326504349708557	1
+8	Does honey go bad?	Why doesn't honey go bad?	1	0.7868436574935913	1
+9	What are some clever names for thrift stores?	What are some good names for a thrift store business?	1	0.7267731428146362	1
+10	Is it possible to switch from a service based company to a product based company?	Is it possible to switch from service based to product based companies?	1	0.6782621145248413	1
+11	Why is Pokemon go not working in India currently?	Has Pokémon GO stopped working in India?	1	0.6877210736274719	1
+12	Money: What would a world without money be like?	What would the world be like if money didn't exist?	1	0.7592378258705139	1
+13	What is football's best formation and why?	In soccer, is the most aggressive formation 4-2-3-1? Is 3-5-2 or 3-4-3 more aggressive?	0	0.6487023830413818	1
+14	My classmate has an incredible high school resume - and being the academically competitive person I am - I've constantly felt jealous. Any advice?	Jealousy is one of my worst traits, how can I use it to my advantage instead of always letting it control me?	0	0.42573079466819763	0
+15	Do IAS officers get holidays?	Do IAS officers have holidays like other government officers do?	1	0.5864959955215454	0
+16	How do I prepare for RBI grade B exam 2017?	How should I prepare for RBI grade B exam 2017?	1	0.9580708146095276	1
+17	How do I temporarily deactivate my WhatsApp account on an iPhone?	How do I move my WhatsApp account from an Android to an iPhone?	0	0.7682408094406128	1
+18	Who would win a fight between a lion and a grizzly bear?	Who would win a fight between a grizzly bear and a rhino?	0	0.7006110548973083	1
+19	Which lens is good, 18-135 or 55-250?	Which camera lens should I buy next? I have a Canon 700D with 18-135 stm lens and I wish to add/upgrade.	0	0.486162006855011	0
+20	What is that sound like a bell that seems to come from nowhere?	What is this strange beeping sound coming from nowhere?	1	0.605986475944519	0
+21	What are the most common scientific myths?	What's are some of the most common myths?	0	0.7400811910629272	1
+22	Are protests a form of terrorism?	Is terrorism a form of protest?	1	0.6779108643531799	1
+23	How difficult is it to transfer to the UCs for undergrad from a CA community college?	Will UC or CSU have any type of access to Community College-A records if you didn't transfer from A to B?	0	0.10663720965385437	0
+24	What is the best online English dictionary?	What's the best free online English dictionary thesaurusus?	0	0.7180635333061218	1
+25	What is the ideology motivating the Islamic State?	What are the motives of Islamic State?	1	0.8866893649101257	1
+26	What universities does Bridgehampton National Bank recruit new grads from? What majors are they looking for?	What is better 0%coinsurance or 100%coinsurance?	0	0.40858790278434753	0
+27	What are some best classified websites?	What are the top classified site?	1	0.7107410430908203	1
+28	What would be your New Year resolutions for 2017?	What can be my new year resolution for 2017?	1	0.8142733573913574	1
+29	Is the scare mongering about humanities destructive, fatalistic future no more than a toddlers caution over learning to walk?	What movies cause claustrophobic people to have nightmares?	0	0.5093254446983337	0
+30	Do you know of any psychopaths who have any religious beliefs?	Do you know of psychopaths who are religious?	1	0.7109279036521912	1
+31	What does it cost the Indian government to print a Rs 2000 note?	What is the total cost of printing and circulating of the new Rs 500 and Rs 2000 notes?	1	0.60805743932724	0
+32	What is the difference between CDMA and GSM handsets?	What are the technical differences between CDMA and GSM?	1	0.7298471927642822	1
+33	How can we recover our Gmail password online?	Computer Security: How is a Gmail password recovered?	1	0.6106897592544556	1
+34	How do I not look flaky in a concealer?	What is the best under-eye concealer?	0	0.646540105342865	1
+35	Can I change jobs 6 months after I-140 approval (first step for a green card)?	I am in my 6th year with my H1-B. My I-140 was approved in September 2014 and my new visa is valid until December 2017. Can I change my job and not choose to file for a new PERM/I-140 since I intend to go back to my country after 2 years for good?	0	0.43761759996414185	0
+36	Google Pixel Vs iPhone 7. Which one will conquer the market?	Which one will you opt for amongst Google Pixel & iPhone 7 and why?	1	0.716934084892273	1
+37	Which iPhone should I buy between iPhone 5s and 6?	Which iphone should I buy, 5S or 6?	1	0.7374194264411926	1
+38	How would one bring gaming to television as a channel?	What is a good gaming news YouTube channel?	0	0.6749136447906494	1
+39	How can I self-publish a book in Korea?	How can I self-publish a book in South Korea?	1	0.7630165815353394	1
+40	If Donald Trump wins, how would it affect India?	What Can happen to India if Donald Trump becomes president?	1	0.7648311853408813	1
+41	What is the function of nucleoid in a bacteria?	What is the function of a nucleoid in a bacteria cell?	1	0.6306100487709045	1
+42	"""I smoked a bowl of crystal meth on Friday. I'm 5'4"""" and 187lbs. Will I be able to pass a urine drug test on Wednesday for drug court?"""	If I smoke meth on Fri 12pm will I pass a urine test Wednesday morning?	1	0.30656829476356506	0
+43	How can I become a better problem solver? What mindset should I cultivate?	How can I become more creative/interdisciplinary in my problem solving?	1	0.6738328337669373	1
+44	How can I decrease stress on my mind?	How we decrease the stress on mind?	1	0.9104421734809875	1
+45	Will you vote for Donald Trump if he wins the nomination?	Why should I vote for Trump?	0	0.57118821144104	0
+46	What career advice would you give to someone who wants to become a accountant?	What career advice would you give to someone who wants to become a loan manager?	1	0.6766917109489441	1
+47	Why do poor people become poorer and the rich get richer?	Why do the rich become richer and the poor become poorer?	1	0.6893630623817444	1
+48	What would be the best name for a cartoon studio that makes fantasy novels into wacky and zany animated movies?	What would be the best name for an animation studio that makes books into movies?	1	0.6171789765357971	1
+49	What are the pros and cons of spiritual awakening?	What are the pros and cons of spiritual enlightenment?	1	0.7601909041404724	1
+50	How can you resolve the problem of accounting software tool by quickbooks technical support number?	Which is the best QuickBooks Tech Support Number?	1	0.6646720170974731	1
+51	How do people join ISIS?	Islamic State of Iraq and Syria (ISIS): Why are people joining ISIS?	1	0.5176391005516052	0
+52	One of my molar teeth is starting to break should I leave it?	Is learning history more or less important than it was 50 to 100 years ago?	0	0.45398014783859253	0
+53	How is metallic bond similar to both ionic and covalent bond?	What is the difference between metallic bond and covalent bond?	0	0.7308384776115417	1
+54	Which is best buy HP laptop under 50,000?	Which HP laptop should I buy for good performance under50,000?	1	0.6237211227416992	1
+55	What is the best theory on flat earth?	How in the world did Flat Earth become a theory again?	1	0.5875787138938904	0
+56	Why do people ask questions on Quora that can easily be answered by Google?	Why do folks ask questions on Quora that a Google search could answer faster and more accurately?	1	0.7065342664718628	1
+57	Does the MacBook Pro come with an optical drive?	Will the next MacBook Pro still have an optical drive?	1	0.6869685649871826	1
+58	What should your annual income be to fly first class?	Is it possible to fly in first or business class frequently if you are not that rich?	0	0.5343634486198425	0
+59	What is the co relation between temperature, relative humidity and rainfall?	Why most of the bomb are made from nitrogen?	0	0.49869897961616516	0
+60	What happens when you achieve your ultimate goal in life?	What happened when you achieve your goals in life?	1	0.8279691934585571	1
+61	Why don't good stocks ever reach low prices ($1-$5) during plunges like they did in the second half of the 20th century?	Why don't good stocks reach low prices ($1-$5) during plunges like they did in the second half of the 20th century?	1	0.8044257760047913	1
+62	How can a Singaporean find a job in Hong Kong?	How do I get a job in Hong Kong?	0	0.9131448864936829	1
+63	How can I copyright my book?	How do I copyright my books?	1	0.8091045022010803	1
+64	How do working women differ from working men? Should women be treated equally in society and at home?	Can Rahul Gandhi uplift 70, 00, 00, 000 Women lives in India from various atrocities imposed from Men, Society and Fatwa from Scholarly Living-beings?	0	0.31466320157051086	0
+65	How would India be if Arvind Kejriwal were to become the next PM?	What will be India if Arvind Kejriwal become the PM of India?	1	0.6476119160652161	1
+66	How can I jailbreak my iPhone 4 on my own?	How can I jailbreak my iPhone 4?	0	0.7544586062431335	1
+67	What are the pros and cons of gargling hydrogen peroxide?	What are the benefits from gargling with hydrogen peroxide?	1	0.7733975052833557	1
+68	What are good substitutes for vegetable oil?	What is the best substitute for vegetable oil? Why is it considered to be the best?	1	0.6727748513221741	1
+69	What are good places to publish poetry?	What are great websites to publish poetry?	1	0.7835603952407837	1
+70	What is your reaction about the ban on Rs. 500 and Rs. 1000 notes? Won't it create a chaos and harm the economy?	What do you think about Modi's new policy on the ban of Rs 500 and Rs 1000 notes?	1	0.756294846534729	1
+71	If I don't opt maths in class 11th can I still give SAT exam?	Why does my iPhone 6s Plus make a rattling noise while vibrating?	0	0.5841121673583984	0
+72	Can stimulants increase Intracranial pressure?	Neurology: What non-invasive intracranial pressure monitoring methods are there?	0	0.5994758009910583	0
+73	Has Groupon ever sued a merchant?	What does Groupon do?	0	0.5555630922317505	0
+74	What is the best answer when we are asked by interviewers why should we hire you?	"""What are the best answers for """"Why should I hire you""""?"""	1	0.8302739262580872	1
+75	How do you develop meaningful relationships in life?	How do I have meaningful relationships with people?	1	0.6979793310165405	1
+76	How do I help a family member who is becoming increasingly depressed?	What is the best way of dealing with a family member with depression	1	0.6062745451927185	0
+77	Which is the best 100cc scooter of India?	Which is the best bike 100cc in India?	1	0.8272966146469116	1
+78	What would Ryan Lochte have to gain from lying?	What did Ryan Lochte do wrong in Rio?	1	0.519027054309845	0
+79	I'm planning on starting a YouTube gaming channel but I lack Confidence, do you have any words of encouragement or helpful tips, including experience?	I plan on starting a YouTube channel but lack confidence, any words of encouragement or helpful tips, including your own experiences?	1	0.5850428938865662	0
+80	What is the relationship between variance and standard deviation?	What is the difference between variance and standard deviation?	1	0.8264867067337036	1
+81	Do you think life in abroad is better than India?	Do you think life abroad is better than in India?	1	0.919001042842865	1
+82	How do you spam someone's phone?	What is the easiest way to email bomb someone?	0	0.6607586145401001	1
+83	What is the best business to start with 5 lakhs?	Which business can I start with a budget below 5 lakhs?	1	0.7776970267295837	1
+84	Which are the great examples of presence of mind?	What are some great examples of presence of mind?	1	0.9529895782470703	1
+85	Where do I find a simple to understand solution on how to lose weight?	What are the best was to lose weight?	1	0.8296617269515991	1
+86	How can I earn money through YouTube?	How do I make money with YouTube?	1	0.7830443382263184	1
+87	Are you free to believe in free will?	Do you believe you have free will?	0	0.7577807903289795	1
+88	What are the most desired and niche skills in IT today?	What are the most popular niches on Instagram that you can profit from?	0	0.6655258536338806	1
+89	Buying life insurance at age 60. What should I be careful for?	Business /Trade Frauds: KYC your borrowers past history?	0	0.6269705295562744	1
+90	What represents typical account fees?	What is stamp fees?	0	0.6681426763534546	1
+91	Which sector (i.e. primary, secondary, tertiary) contributes the most to the GDP of India? Why?	How has primary activity contributed to India's gdp?	0	0.6681238412857056	1
+92	How does one avoid existential depression?	How do I overcome existential depression?	1	0.7705550789833069	1
+93	As expats and foreign observers, what has disappointed you the most about developments in China during recent years?	What can you say (based on some facts and statistics), about the quantity of production transferred from the US to China? Has it decreased within the last year? If it has, then why?	0	0.29223501682281494	0
+94	What are great examples of absent mindedness?	What are some of the great examples of absence of mind?	1	0.6470731496810913	1
+95	Why do so many people ask questions on Quora that can be found in a Google search?	Why do people ask basic questions instead of searching them?	1	0.6815276145935059	1
+96	Why do so many people ask questions on Quora that can be found in a Google search?	Why do so many people ask google-able questions on Quora?	1	0.7340996861457825	1
+97	Household income $280K and able to pay $130K down payment, can I buy a house in San Francisco?	Should I buy a house in San Francisco Bay Area right now?	0	0.39200133085250854	0
+98	What are your favorite healthy snacks?	What is your favorite healthy snack?	1	0.7432887554168701	1
+99	How do you start to write a song?	How do you write a song?	0	0.8399859070777893	1
+100	I have forgotten my RRB roll number. How do I get the roll number back?	I am filling up the form for Mumbai University. I want to know whether the examination seat number is the same as 10th or 12th board roll. Is it?	0	0.4273129999637604	0
+101	What are good gifts for a foreign visitor to bring when they're invited to someone's home in Croatia for the first time?	What are good gifts for a foreign visitor to bring when they're invited to someone's home in Philippines for the first time?	0	0.7418602705001831	1
+102	What is the expected cutoff for the KVPY 2016?	How was KVPY SA 2016?	1	0.6374884247779846	1
+103	Is religious teaching of abstinence actually worse for fighting STDs and pregnancy?	Would you fight in a religious war where you are the aggressor?	0	0.7187327742576599	1
+104	What do people think of new MacBook Pro with Touch Bar?	What do you think of the new MacBook Pro Apple announced in 2016?	1	0.6463824510574341	1
+105	Can energy be converted back into mass? Is it practically possible?	Is it possible to convert energy into mass?	1	0.6111608147621155	1
+106	Should I stop trying to be with him?	Should I stop trying?	0	0.626619815826416	1
+107	Why does feminism have a negative connotation in the US?	Why has modern feminism garnered such a bad name?	0	0.553507387638092	0
+108	Would a decent AMD quad-core processor be good for electronic in-the-box music production?	Would a decent quad-core AMD desktop processor be good for electronic in-the-box music production?	1	0.8826887607574463	1
+109	How do I a stacked bar plot like this in R? (including the values of each bar)	How can I add the values so they appear above the bar and display subgroups in making R histograms?	0	0.6104878187179565	1
+110	What is the best way to learn and write a AI Chat bot?	What are the best bot platforms today?	0	0.49850013852119446	0
+111	What's causing my car windows, on the inside, to keep getting dirty? It's not dirt but almost like a slime that resembles condensation.?	Is india's law good?	0	0.3075021803379059	0
+112	Is time travel possible after the discovery of gravitational waves?	It is possible to travel by time?	1	0.5490708947181702	0
+113	My wife's cat is old and does not use the litter box any more. Is it right to consider putting her down?	I got myself a newborn kitten. She has had no other interaction with other cats yet. When using the kitty litter she always covers her poop. How does she even know cats do this?	0	0.5119656324386597	0
+114	What are some free encrypted e-mail services like ProtonMail?	How long do E-mail services like AOL and Gmail store messages?	0	0.5151396989822388	0
+115	How can I trade forex in India legally?	How do I trade Forex legally from India?	1	0.7946361303329468	1
+116	Has it been proven that God or a higher being does not exist?	Belief and Beliefs: Can the existence of a god be proven or disproven?	1	0.6017450094223022	0
+117	How do I decrease poor eye sight?	How do I get better eye sight?	1	0.7832661271095276	1
+118	How do I get started for cds exam 2016?	How I can apply for cds exam 2016?	1	0.7141144275665283	1
+119	Why do cats hate cucumbers?	Is it true that cats are afraid of cucumbers?	1	0.7620030045509338	1
+120	What are some of your best sexual experiences?	What are your best sex experiences?	1	0.7881982922554016	1
+121	My dad is a Brahmin and my mom is Forward caste. Am I considered Brahmin, semi-Brahmin or non-Brahmin?	Why are most Hindu vegetarian?	0	0.4800471365451813	0
+122	What is the best way to learn how to draw?	How do you learn to draw?	1	0.8569731116294861	1
+123	Is Donald Trump racist?	Why do some people consider Donald Trump Jam racist?	1	0.6887227296829224	1
+124	How do I build a social circle from scratch?	How do I start my social life from scratch?	1	0.7339205145835876	1
+125	Why is my Yorkie/Corgi mix afraid of cats?	Why is my puppy afraid of cats?	1	0.8402989506721497	1
+126	Will the value of Indian rupee increase after the ban of 500 and 1000 rupee notes?	How will our economy will be affected by demonetizing Rs 500 and Rs 1000 notes?	1	0.6476662755012512	1
+127	What is the best book (in English) about the history of Japan?	What is the best English language book store in Tokyo?	0	0.5988930463790894	0
+128	Is World War 3 closer than it has ever been?	Is a third World War imminent?	1	0.7170363664627075	1
+129	What is my PUK code number and where can I find it?	Where do I find the PUK number for my Safelink phone?	1	0.6187921166419983	1
+130	What is the difference between a Systems Engineer and a Systems Administrator?	What the best Linux system to learn system Linux administration?	0	0.5298134684562683	0
+131	Why do so many people ask questions on Quora instead of searching the answers on Wikipedia?	Why do people ask stupid questions on Quora that could be easily answered by Google?	1	0.559307336807251	0
+132	What is the best way to restore an iPhone back to factory settings?	How do you restore an iPhone to factory settings with iTunes?	0	0.6945521831512451	1
+133	How do I find the real time location of a cell phone number?	How can I locate a cell phone location?	1	0.6187811493873596	1
+134	What should I learn for game programming?	What programming languages should I learn for video game development?	1	0.6435685753822327	1
+135	Is the Shri Shikshayatan college good enough?	BA (Hons) Journalism and/or Mass Communication in Bhawanipur Education Society College vs Shri Shikshayatan College? Please help.its really urgent.	0	0.3765876293182373	0
+136	How the way to speak english fluently?	How can you speak and learn fluent English like Karan Johar?	1	0.5936228632926941	0
+137	Is there are some apps that work like that features in Interviewbit of maintaining your streak daily that can help us in our day to day life?	What’s the diameter of the biggest known black hole?	0	0.46115416288375854	0
+138	Do girls really like tall guys?	Do girls like tall guys?	1	0.9246532917022705	1
+139	What are some high paying jobs that involve a civil engineering degree?	What are some high paying jobs that involve a mechanical engineering degree?	0	0.8130691647529602	1
+140	What are the branches of Civil Engineering?	What are the branch of civil engineer?	1	0.7804816961288452	1
+141	Is NYU Tandon School of Engineering a good school for MS in industrial engineering taking jobs and internships into consideration?	Is the name change of Polytechnic University in Brooklyn, NY, to the NYU Tandon School of Engineering a further sign of Brooklyn's gentrification?	0	0.043009307235479355	0
+142	How I can start competitive coding?	When should I start with competitive coding?	1	0.7868918776512146	1
+143	Why one shouldn’t watch movies?	How should I avoid watching movies?	0	0.777550995349884	1
+144	What is your view/opinion about Akhilesh Yadav being expelled from Samajwadi Party?	What is the reason behind suspension of Akhilesh Yadav from Samajwadi Party?	1	0.8633469343185425	1
+145	Which answer is the most voted one in Quora?	Which is the most upvoted answer of Quora?	1	0.760157585144043	1
+146	Should I buy Nikon D5200 / D3300 or a Canon 1300D /700D?	Should I buy Panasonic FZ300 or Nikon D5200?	0	0.6854150891304016	1
+147	Can I see who viewed my videos on Instagram?	How can I see who viewed my video I just posted on Instagram?	1	0.8120940923690796	1
+148	How effective is Mossad?	How powerful is Mossad?	1	0.8404805064201355	1
+149	Are there any MSI service centers in India?	Does MSI have any service center in India?	1	0.8255641460418701	1
+150	Does smoking weed cause cancer?	Does weed give you lung cancer?	1	0.699752151966095	1
+151	What is to like to work as an SAP end user in a startup? And what are the future opportunities?	How will be the opportunities for a fresher in future who is currently working in a startup company?	0	0.02995682694017887	0
+152	Why apple is so expensive?	Are Apple products overrated and overpriced?	1	0.57973712682724	0
+153	If scientists invent a mechanism for humans to communicate in the language of animals, birds, plants & vice versa, then how would life be different?	How would the world be if scientists invented a mechanism for humans to communicate with all animals, plants & vice versa?	1	0.6285629868507385	1
+154	What are the advantages of animals for the economy, environment, and medicine?	What are the advantages of living in India over living in the U.S.?	0	0.581898033618927	0
+155	What is it like to attend Yale Law School?	What it's like to attend Yale law school?	1	0.9376543164253235	1
+156	What is the difference between a marketplace and a platform? Examples are great!	What is a great cross platform VisualBasic IDE?	0	0.6409881711006165	1
+157	Is there any explanation for Why gay guys are more creative and artistic than straight guys?	Are gay people more creative than straight people?	1	0.6307509541511536	1
+158	How many times a day do a clock’s hands overlap?	How many times does the hands of the clock overlap in a day?	1	0.7377253174781799	1
+159	How do I get rid of my negative alter ego?	How do you get rid of your negative alter ego?	1	0.8910380005836487	1
+160	What does Ezekiel 18:20 mean and why or is Adam and Eve's sin imputed to latter humans?	What does Ezekiel 18:20 mean and is or why Adam and Eve's sin imputed to latter humans?	1	0.986393928527832	1
+161	I'm looking to lose weight (for some obvious reasons); I'm currently 5ft5 and 172 pounds. Any diet plans or weight loss exercises that could help me?	I'm a latina 23 years old woman (Pear body) ... I've been gaining weight the last months and I want to start losing it, to feel confident and also for my health (I have diabetic people in my family), is there any diet and exercises that I could try?	0	0.5563795566558838	0
+162	How do you explain being in prison to your children, both when you leave and when you return?	What are some advanced concepts in mathematics that can easily be explained to young children?	0	0.4668489694595337	0
+163	What is the funniest thing you have ever heard?	What is the funniest thing you have ever heard/seen?	1	0.750034749507904	1
+164	How we start preparation for IAS?	How do start preparation for IAS?	1	0.9209181666374207	1
+165	What are the symptoms of being under depression?	What are symptoms of depression?	1	0.7730302810668945	1
+166	How do i get along with my roommate?	How do I get along with a roommates that are strangers?	0	0.6623396277427673	1
+167	Which is the best place in India to visit?	What is the best places in India to travel?	1	0.745003879070282	1
+168	How can we score excellent marks in class 12th board exams?	How can I score well in the 12th class CBSE boards?	1	0.6521577835083008	1
+169	What are some simple things you do every day to slow down/prevent aging?	I'm 16. I have a medical condition (personal). I'm going to die in 7 days (give or take 1-2 days). How should I spend them?	0	0.3810516595840454	0
+170	Should I go for computer science and engineering at UCLA or computer engineering at UIUC?	I was admitted to UIUC, UCLA, UVA and UC San Diego for Computer Science. Which one has the best CS undergraduate program and quality of students?﻿	0	0.36502256989479065	0
+171	Where can I find the solutions to Marsden's and Tromba's Vector calculus?	Is there any book like Marsden/Tromba's Vector Calculus?	0	0.8688850402832031	1
+172	What percent of engineers are at staff level or above at Google?	What percentage of Google software engineers are Staff Software Engineers?	1	0.4402737021446228	0
+173	Is underage drinking okay if it's in a private setting like at home and parents approve?	Underage Drinking: I am 16 from Sweden and I drunk alcohol. Will I go to jail because of it?	0	0.578923225402832	0
+174	Can Donald Trump still win the 2016 U.S. Presidential Election?	Did Trump win the election?	1	0.7138316035270691	1
+175	What is the relation between phase and line voltage?	What is the difference between phase and line voltage?	1	0.8970171809196472	1
+176	What should I do to earn money online?	How can I earn money part time online?	1	0.7961788773536682	1
+177	Non-Disclosure Agreements: How long is an NDA valid?	Non-Disclosure Agreements: For how long is the average NDA in effect?	1	0.6786075234413147	1
+178	How do I decorate a bedroom with a 1980s theme?	How do I decorate a bedroom like it's the year 1980?	1	0.6302728652954102	1
+179	How can I make my hands soft?	What do I do to make my hands fair and soft?	1	0.8005426526069641	1
+180	What would be the last thing you do before you die?	What is the one thing you will definitely do before you die?	1	0.7994452118873596	1
+181	How does Trump's win affects Indian students planning for graduate studies in United States?	What will be the impact of Donald Trump’s win on Indian students, who are planning to study in the United States?	1	0.5337773561477661	0
+182	What are the easy ways to earn money online?	What is make money online?	1	0.7453159689903259	1
+183	How has social media changed the world?	How is social media changing the world?	1	0.8390899300575256	1
+184	If Black people want segregation, then WHY should they expect white people to care about their problems?	If Jesus was supposedly white, then why would there be black, brown and yellow people?	0	0.3897936940193176	0
+185	What is an ambivert?	What do you mean by ambivert?	1	0.6833006739616394	1
+186	What should I do to get away from boredom?	How can I overcome boredom?	1	0.7187052369117737	1
+187	Is there any problem with using 0 diopter lens glasses for patient with repaired RD?	Are there any problems in Android Lollipop 5.0 like with the battery backup motherboard?	0	0.49597907066345215	0
+188	How do you know your IQ?	What is the easiest way to know my IQ?	1	0.7946118712425232	1
+189	What are some good Malayalam books to read?	What are the top 3 Malayalam books for teenagers?	1	0.6559746265411377	1
+190	How can you lose weight really quick?	What are the best ways to lose a lot of weight as quickly as possible?	1	0.6205228567123413	1
+191	How does sex feel like for the first time?	How does first time sex feels like?	1	0.7566290497779846	1
+192	What are your views on ban of 500 and 1000 rupee notes in India?	What do you think about banning 500 and 1000 rupee notes in India?	1	0.9617598652839661	1
+193	How do elections uphold the principle of Popular Sovereignty?	What is the principle of popular sovereignty? How do elections uphold the principle of popular sovereignty?	1	0.8634317517280579	1
+194	What is your opinion on the new MacBook Pro Touch Bar?	What do you think about the OLED touch bar on the new MacBook Pro?	1	0.7098965644836426	1
+195	Get vicodin in Pune?	Where can I get Vicodin in Pune?	1	0.8335332870483398	1
+196	What is the one question you should not ask yourself?	What is the only question you cannot ask yourself?	0	0.8736345767974854	1
+197	How do I get an internship from Google?	How can I apply for internship at Google?	1	0.7837495803833008	1
+198	What is difference between PGDM and MBA?	What is the difference between core MBA and PGDM?	1	0.7445682287216187	1
+199	Can anyone summarise the plot so far after Carter's death in Person of Interest?	Person of Interest (TV series): Why machine talks to root?	0	0.41546839475631714	0
+200	What is it like feeling your baby move at 15 weeks?	While pregnant, what does it feel like to have a baby move inside of you?	1	0.6175165176391602	1
+201	How do I hack WhatsApp messages without using target's Andriod?	Can I hack anyone’s Whatsapp remotely?	1	0.6345402598381042	1
+202	What was your experience of interacting with Mr RaGa? He is really dumb as portrayed in social media?	Who are some people who criticized something that was essential to their in-group’s way of life? (Like Jefferson on slavery)	0	0.4695518910884857	0
+203	What is the dumbest question you've seen on Quora?	What is the dumbest question you have seen on here?	1	0.7284725904464722	1
+204	What is the Bing Bang? What caused this to happen?	What force caused the Big Bang?	1	0.6109438538551331	1
+205	How can I get rid of under eye dark circles?	How do I remove under eye dark circles?	1	0.874602198600769	1
+206	How do I stop being desperate for a relationship?	How can I stop being so desperate to have a girlfriend in India?	1	0.6686505675315857	1
+207	What are some ways to handle my extreme feelings of loneliness?	How do you get over feelings of extreme loneliness?	1	0.8264787793159485	1
+208	Is it odd to be prideful or show interest in a nation you have no connection to ethnically or otherwise?	Did the Macedonians or Successors construct forts defences, permanent or temporary, outside of cities and settlements?	0	0.49474307894706726	0
+209	What does ad hoc mean?	What is the meaning of ad hoc?	1	0.6287697553634644	1
+210	What is the solution of this math problem?	How to find the solution of this math problem?	0	0.8851509094238281	1
+211	Why do dogs bark in their sleep?	Why do dogs bark and growl in their sleep?	1	0.8735945224761963	1
+212	Can I recover a deleted snapchat account?	How do I recover my snapchchat account?	1	0.7199195027351379	1
+213	If Hillary Clinton broke the laws on the email scandal why is that she was not indicted?	Why is Hillary protected by the USA Judicial System? Will she ever be indicted?	1	0.4352946877479553	0
+214	What is the best computer programming language to learn? By keeping present and future market in mind.	Which computer language is the best to learn for the future?	1	0.6798591017723083	1
+215	Why are 500 and 1000 notes being banned in India?	What could be the strategy behind banning 1000 and 500 denominations in India?	1	0.7679527997970581	1
+216	When did humans start naming themselves? What's the history behind names? Do non-human species use names?	When in history did we start giving people names?	1	0.32548290491104126	0
+217	How do I learn more English vocabulary?	What is the best way to learn English vocabulary?	1	0.8830656409263611	1
+218	Can a non-US citizen start a business in the US?	How can a non-US citizen start a business in the US?	1	0.9573842287063599	1
+219	From where can I pursue digital marketing course?	Which are the best online courses on digital marketing in India?	1	0.7757736444473267	1
+220	How many medals did India win in the Olympics?	How many medals India won in Olympics?	1	0.8538914322853088	1
+221	How are black holes born?	How black holes are formed?	1	0.603539228439331	0
+222	Why am I bad at math?	Why am I so bad at Maths?	1	0.7008787393569946	1
+223	What brand of socks is this?	What brand of socks are these?	0	0.6675812602043152	1
+224	How might Hurricane Matthew affect the elections in 2016?	How will Hurricane Matthew affect the presidential election as Florida is a key state?	1	0.5882577896118164	0
+225	What are the top 5 emotional movies?	What are the best emotional movies?	1	0.8404988646507263	1
+226	How can a 14 year old invest money?	How can I invest money as a 14 year old?	1	0.6722188591957092	1
+227	What are ways to make money online at home?	What are ways of earning money online?	1	0.7252907752990723	1
+228	How can I start a real estate business with no money in my pocket?	What ways could I raise enough money to buy a house so I can start a real estate business?	0	0.6470572352409363	1
+229	How does a person detect if their weed was laced with rat poison?	How rat poison kill humans?	0	0.6099151372909546	0
+230	"""In Google Analytics - Custom report set with the metric """"page/sessions"""" and the dimension drilldowns """"page"""", what exactly does it measure?"""	"""What's with the new """"Sorry! Page not found"""" page in Flipkart? Why can't I go back to the previous page after clicking back from this page?"""	0	0.05902748182415962	0
+231	Why does my pee smell like fish?	Why does urine smell like fish?	1	0.6993599534034729	1
+232	What it is like to touch the boobs of a woman for the first time?	"""Is it bad for a woman to """"adjust"""" her boobs in public?"""	0	0.6061665415763855	0
+233	Who are some good dentists in Pune?	Who is the best dentist in Pune?	1	0.9018387794494629	1
+234	Which is the best laptop to buy under INR 50K?	What is the best laptop around 50k?	1	0.6743952035903931	1
+235	What are some good places to find erotic services online now that they're banned from Craigslist?	Can selling items directly from your home on craigslist expose you to burglars?	0	0.6269959211349487	1
+236	What is the time now?	What's the time just now?	1	0.7804585099220276	1
+237	What is Jonathan Ive's email address?	What is Trevor Jackson email address?	0	0.7798432111740112	1
+238	Why don't Cows give birth to twins?	What questions to be consider while starting own Tution classes?	0	0.4795290529727936	0
+239	Given that Donald Trump ruthlessly bullied his way to the presidency, if he becomes a good president, does it make up for it? Would you forgive him?	Will Donald Trump make good on all his ideas once he is sworn in as President? Will he be able to?	0	0.6987733244895935	1
+240	How do you make chocolate chip cookies?	What is the best chocolate chip cookie recipe?	1	0.6967942714691162	1
+241	What are some additional important courses to do for a mechanical engineer?	What are the best additional courses for mechanical engineers for getting job?	1	0.6480920910835266	1
+242	What is the full form of RBL Bank Limited?	What is Full form of RBL?	1	0.6464425325393677	1
+243	What are some of the high salary income jobs in the field of biotechnology?	What are some high paying jobs for a fresher with an M.Tech in biotechnology?	1	0.3147772550582886	0
+244	What are the requirements of being a high frequency trader?	What are the qualifications for a high frequency trader?	1	0.8974027633666992	1
+245	What is the shape of market demand curve? It is not linear.. Bt then also we call it a linear why?	18 in a couple of months, I am soon eligible to get money from AdSense, but I made a account under a fake age, what should I do?	0	0.37621307373046875	0
+246	Is temporarily disabling Instagram safe? Will I lose pictures or am I at risk of losing my account all together due to some bug?	Due to some bug, I lost all my inbox chats in WhatsApp. Should I reinstall the app to retain my previous chats (contacts are safe)?	0	0.4959224760532379	0
+247	What is the best platform to enter in quiz competitions and earn?	Is the syllabus of gate is similar for all branches?	0	0.5848216414451599	0
+248	What would happen if Trump was elected, then impeached?	If Trump got elected and then impeached, how might things be under Mike Pence?	0	0.6455849409103394	1
+249	If you had the opportunity to have dinner with anyone who would it be and why?	Who would you like to have dinner with, anyone from history?	1	0.6172674894332886	1
+250	What common mistakes do people make when choosing a life partner?	What are the biggest mistakes people make when choosing a partner for marriage?	1	0.6731101274490356	1
+251	What is the best path I should take to improve my English?	How can I improve my communication skills in English?	1	0.7584633231163025	1
+252	What are similar sites like Quora?	Are there any website like Quora?	1	0.7508862018585205	1
+253	How can I be like Tai Lopez?	Is Tai Lopez on Quora?	0	0.736412525177002	1
+254	What was Sundar Pachai's MBA major/specialization?	What was Sundar Pachai's MBA major/specialization in Wharton?	1	0.8207754492759705	1
+255	How did Donald Trump become such a racist?	Why do some people say that Donald Trump is racist?	1	0.739456057548523	1
+256	What are the chances of a civil war breaking out if Hillary Clinton becomes President?	What are the chances of a civil war breaking out if Donald Trump loses the election?	1	0.7033953070640564	1
+257	How do I hack my husband devices?	How can I hack my husband WhatsApp?	1	0.7083213329315186	1
+258	How did you learn computer programming? Any advice for a beginner?	How did you learn programming when you were a complete beginner?	1	0.6579650044441223	1
+259	Is LinkedIn a good acquisition for Microsoft?	Will Microsoft's acquisition of LinkedIn prove useful for Microsoft? If so, what will 'useful' look like?	1	0.6455106139183044	1
+260	What is a social justice warrior?	What does it mean to be a social justice warrior and what are the goals they are attempting to achieve?	1	0.6055490374565125	0
+261	What is the significance of gamma and beta functions?	What is exactly beta and gamma functions and why we need it?	1	0.6920204758644104	1
+262	What are some examples of societal stereotypes?	What are some examples of stereotypes?	0	0.9107556343078613	1
+263	Why is my period four days late?	What could cause your period to be 14 days late other than pregnancy?	1	0.5712813138961792	0
+264	Do you understand this sentence?	Can you understand this sentence?	0	0.9377437233924866	1
+265	What is non-fiction?	What are some must read non-fiction books?	0	0.6284836530685425	1
+266	Why do humans fart?	How can I hack someone's WhatsApp account if I just have his WhatsApp account number?	0	0.41094541549682617	0
+267	Which are the best universities for MS in mechanical engineering in Germany?	Which is the best university for MS in Automotive Engineering in Germany?	0	0.8639228343963623	1
+268	How are the Indians affected if Donald Trump wins the presidential election in the US?	What might be the implications and repercussions on India if Donald Trump wins US Presidential elections?	1	0.7424042820930481	1
+269	How do I know if my iphone has ever been jailbroken?	How do I know if my iPhone is jailbroken?	1	0.8286486268043518	1
+270	What are the sites through which I can earn Rs. 500-600 on weekends?	Is there any way in which I can earn 5000 rs on weekends?	1	0.7750304341316223	1
+271	Why does cast iron cast in soil?	Why can't cast iron be casted?	0	0.6231476068496704	1
+272	What order do you have to watch and read Naruto?	How do I read Naruto manga online for free?	0	0.599865198135376	0
+273	How many girls loose virginity before marriage?	How many girls are virgin before marriage?	0	0.7707036137580872	1
+274	How can I cure my disease of act like a ruminant?	How can I cure my disease of acting like a ruminant?	1	0.8126829862594604	1
+275	What is market demand schedule?	Why will Hillary Clinton never be as good as Golda Meir?	0	0.43948277831077576	0
+276	Is it true that nothing can travel faster than light? Or was that idea made up?	Why can you not accelerate to faster than light?	1	0.3919470012187958	0
+277	How can I hitchhike through Europe?	How do I hitchhike in Europe?	1	0.7981709241867065	1
+278	Is there any smartphone app to measure weight?	"""What are the top 10 """"must download"""" apps for any smartphone?"""	0	0.5586777329444885	0
+279	Has the T20 format completely washed away the love for ODI and Test Cricket from the brains of Indian people?	What are the funniest moments in Cricket in 2015? (Test + ODI + T20 + IPL, any type of format)	0	0.5374696254730225	0
+280	What are the safety precautions on handling shotguns proposed by the NRA in North Carolina?	What are the safety precautions on handling shotguns proposed by the NRA in Minnesota?	1	0.6782511472702026	1
+281	Why is GST amendment a gamechanger for Indian Economy?	What are the advantages of GST for the Indian economy?	1	0.713937520980835	1
+282	What are some rare photos of world history?	What are the some rare photos of world history?	1	0.9718466401100159	1
+283	Is it possible to stop masturbating?	How can I stop masturbation?	1	0.757114589214325	1
+284	How will the scrapping of Rs 500 and Rs 1000 notes help in reducing black money and corruption?	How the black money be recovered by simultaneously demonetising 500, 1000 notes and introducing 500 , 2000 notes?	1	0.43178850412368774	0
+285	What are the differences between data analytics and data science?	What is the difference between working in analytics and data science?	1	0.7840365767478943	1
+286	How do you feel about Donald Trump being elected president?	How do you feel about trump winning so far?	1	0.6596876382827759	1
+287	How does one discover his destiny?	How should one discover his destiny?	1	0.8776196241378784	1
+288	What are the mind games women play on women?	What does playing mind games with people mean?	0	0.4041805863380432	0
+289	Where can I get Gta 4 full version free?	Where can I get GTA 4 full version free link?	1	0.5250853300094604	0
+290	What is a good multivitamin?	Which brand has a good multivitamin?	1	0.7183927297592163	1
+291	What is the best share to buy?	What are the best shares to buy?	1	0.8471116423606873	1
+292	What was the happiest day of your life?	What’s the happiest day of your life? Why?	1	0.799909234046936	1
+293	What's the best pickup line you have heard?	What are the best pickup lines you've ever heard?	1	0.8278032541275024	1
+294	Why do some question and answers on Quora get so much more attention than others?	Why do my awesome questions never get more than 2 or 3 answers when some others get 50 or more?	1	0.4701552093029022	0
+295	How do you get rid of dry or sore throat?	How do you get rid of a sore throat?	1	0.8232829570770264	1
+296	Why should one choose IPS over IAS?	How Ips can be better than IAS?	1	0.7281204462051392	1
+297	How old do you have to be to become President of the United States?	If the United States has a female president, will her husband be called the first gentleman? What will Bill Clinton be called if Hillary is elected?	0	0.46669483184814453	0
+298	In Gattaca, what did the lock of hair at the end represent?	What parts of Gattaca could become reality?	0	0.4918626546859741	0
+299	How can I speak English more fluently?	How can I improve my fluency in English to face a more confortable job interview?	1	0.6488401889801025	1
+300	Which car services are available in Kitchener, ON? How good are they compared to taxis and relative to each other?	Which car services are available in Bronx? How good are they compared to taxis and relative to each other?	0	0.939497709274292	1
+301	How do I answer this multiple choice question?	Which is the correct opt. She did not pass the exam. Being a good student, she _______. -shouldn't have failed. -mustn't have failed.?	0	0.6749482154846191	1
+302	Is eating bread good for health?	Why is bread bad for your health?	1	0.8356274962425232	1
+303	How many faces would you have if you were given the choice?	How many face would you have if you were given the choice?	1	0.9293258786201477	1
+304	What technology does ting mobile use for theri OTT voip?	Is MS in MIS from TAMU a STEM course?	0	0.5136047601699829	0
+305	How should India respond to uri attacks?	What are the possible options for India to deal with Uri terror attack?	1	0.6806612610816956	1
+306	What do girls wish that guys knew?	What do women wish men knew?	1	0.7326227426528931	1
+307	What is fajan's rule in chemistry?	My new husband has started setting rules for me. Should I be worried?	0	0.4790501296520233	0
+308	"""How do I write a script for """"street play"""" in Hindi?"""	How can I write Street play script based on railway station?	0	0.5666601061820984	0
+309	How do I find the center of concrete column thats already been casted at site?	Why did Agamemnon sacrifice his daughter according to history?	0	0.480309396982193	0
+310	What is the rationale behind introducing 2000 rupee note by India Government?	What's new about the new 2000 rupee note that will help curb black money?	1	0.5911803841590881	0
+311	Why is democracy considered the best form of government?	Is democracy the best form of government?	1	0.902466893196106	1
+312	Why do ancient Greek sculptures and statues all feature small penises?	Why do all Greek statues have such small penises?	1	0.7187001705169678	1
+313	What exactly is Dragon Ball Kai and how was it produced compared to Dragon Ball and Dragon Ball Z?	How does Dragon Ball Z Kai compare to Dragon Ball Z?	1	0.5779751539230347	0
+314	When might verbal communication be a better choice than written or electronic communication because of the emotions involved?	How can I get an internship? I'm pursuing BCA 3rd year. Interested in web and Android development	0	0.3259970247745514	0
+315	What are the different fields of employment in ‪#‎BigData‬?	I had an Uber ride today, but the driver was not the same as I saw on my phone? Should I hold Uber legally responsible and file a case against them?	0	0.4918005168437958	0
+316	How do I manage to tidy up my dad's place and make it more livable when I am so depressed?	What are the differences between fluency, eloquence, and articulateness?	0	0.5072729587554932	0
+317	Do employees at NCR have a good work-life balance? Does this differ across positions and departments?	Do employees at On Assignment have a good work-life balance? Does this differ across positions and departments?	0	0.6277741193771362	1
+318	How do I get rid of moles naturally?	How do you get rid of a mole?	0	0.6502331495285034	1
+319	What does the latest official update of samsung s3 neo contain?	What are the best ROMs for a Samsung S3 Mini?	0	0.5982659459114075	0
+320	What are the fees for MIT?	What is the fee of MIT?	1	0.7548649311065674	1
+321	Is it illegal to download from torrent?	Is it illegal to download from torrent now?	1	0.7473017573356628	1
+322	Without naming his opponent, what are 5 reasons to vote for Trump?	What are your reasons for voting for Trump?	1	0.6702655553817749	1
+323	How does Fitbit figure out that I'm sleeping?	What happens when I forget to hit 'STOP' on the fitbit one night, but remember to do it the next night before sleeping?	0	0.4730477035045624	0
+324	What's your 2017 new year resolution?	What would be your New Year resolutions for 2017?	1	0.6993823051452637	1
+325	How would you spend the last 24 hours in your life?	If you had only 24 hours left to live, what would you do?	1	0.5889261960983276	0
+326	Which is the best phone under 15000 Rs.?	Which is the best phone below 15000?	1	0.7190179824829102	1
+327	Is CPEC deficient in any respect? Give a list of arguments.	Is CPEC deficient in any respect? Give a list of arguments. Pakistani writers views	0	0.6469460129737854	1
+328	Where can I get very cost-effective envelope printing service in Sydney?	Where can I get very professional and reliable envelope printing service in Sydney?	1	0.785182774066925	1
+329	What is it like having no friends?	What is it like having no friends at all?	0	0.7125511169433594	1
+330	What movie have you watched that made you think it's life changing?	Which movie had changed your life completely?	1	0.6508932113647461	1
+331	Does the plot of Game of thrones have a lot of holes?	What are some plot holes in Game of Thrones?	0	0.6741135716438293	1
+332	Can we defeat terrorism?	How can we defeat terrorism?	1	0.8973215818405151	1
+333	Which is the best smartphone I can buy under 15000 in july 2016?	Which is the best Smartphone under INR 15000 ?	1	0.7194687724113464	1
+334	What's the first thing you do after you wake up?	What's the first thing you do when you wake up every morning?	1	0.5925306081771851	0
+335	Where is the United States?	What did it feel like after someone catches you masturbating?	0	0.5511886477470398	0
+336	Work culture in sensen networks?	Rank actor's performances in Suicide Squad.	0	0.3867832124233246	0
+337	What are the best things you can do in internet?	What is the best thing to do on the internet?	1	0.8399972915649414	1
+338	How do I use Google Earth Pro?	What are some interesting uses for Google Earth?	0	0.7175654172897339	1
+339	How do I create linkedin account?	How do I register a new LinkedIn account?	1	0.79710853099823	1
+340	Is Chicago turning into another Detroit?	Is Chicago in danger of becoming Detroit?	1	0.7300124764442444	1
+341	Who is the world’s richest person?	Who is the richest man?	1	0.7606223225593567	1
+342	How was education during the Japanese occupation like in Singapore?	How was education in Singapore during the Japanese occupation?	1	0.6820617318153381	1
+343	Why are women sensitive about age?	Why are girl and women so sensitive about age?	1	0.7602010369300842	1
+344	Why do some people only wear black? What does it mean?	Why does Steven Seagal only wear black in all his movies?	0	0.4804776608943939	0
+345	How fast are greyhounds?	How fast is a greyhound?	1	0.8148422241210938	1
+346	If God created the world, who created God?	Who created god if god created the Universe?	1	0.7557519674301147	1
+347	What type of porn do you like?	What category of porn do girls like the most?	0	0.6660140156745911	1
+348	Where can I get the best digital marketing course (online & offline) in India?	Digital Marketing colleges in India?	1	0.7199522852897644	1
+349	What are the dumbest questions ever asked on Quora?	What is the most stupid question asked on Quora?	1	0.8824478387832642	1
+350	Why is the Pakistan government unable to control terrorism?	Why can't Pakistan control its inner terrorism?	1	0.7405930757522583	1
+351	Why do we put a dash and two dots in our signatures?	Are hand signatures accurate?	0	0.5939462184906006	0
+352	Who is the best public speaker in your opinion,Why?	Who is/was the best public speaker?	1	0.7077833414077759	1
+353	What is Linux? What is its use?	What is the use of Linux?	1	0.6828676462173462	1
+354	What is the easiest way to use the Law of Attraction?	How can I use law of attraction to improve my study?	1	0.5797891020774841	0
+355	What are some tips on making it through the job interview process at First Merchants?	What are some tips on making it through the job interview process at Premier?	0	0.6953014731407166	1
+356	What are all the Jeff Dean facts?	Who is Jeff Dean?	0	0.7315197587013245	1
+357	Which online shopping website is best for the handicraft products?	Which is the best Online shopping site for buying crafts products?	0	0.8615535497665405	1
+358	What is your favorite color? Why?	What's your favorite color?	1	0.7821101546287537	1
+359	Can you buy youtube subscriber?	On applying the equal force on the thick and thin wire if the same length in which wire the more frequrncy will be produced and why?	0	0.5358577966690063	0
+360	If you had $200 billion what would you do?	What would you do if you had $10 billion?	0	0.6858318448066711	1
+361	How do I stop masturbation permanently?	How can I stop masturbating daily?	1	0.6377120018005371	1
+362	How do I register a mobile in SBI for OTP services?	How do I change/update my mobile number for both SBI online banking and SMS alerts?	0	0.5685482025146484	0
+363	Do you really have faith in humanity?	Do you have faith in humanity?	1	0.9452866911888123	1
+364	How does the HP OfficeJet 4620 Airprint compare to the HP LaserJet Enterprise 700 Printer M712dn?	How does the HP OfficeJet 4620 Airprint compare to the HP LaserJet Enterprise M606x?	1	0.5183192491531372	0
+365	Which url has to be used to create a blog on Quora?	How do I create a URL on Quora blogs?	1	0.7174353003501892	1
+366	How do I train my dog?	What are some tips and hacks for raising a dog?	0	0.7268626093864441	1
+367	My employer asked me to delay my Paternity (FMLA) Leave for my to-be-born baby. What should I do?	In India if my employer/boss refuses to give me leave (even though I asked before a month) can I sue him? If not, what can I do?	0	0.5510222911834717	0
+368	Which is the best bank for a student in Nepal?	Which is the best bank in Nepal for students?	1	0.7296191453933716	1
+369	What is instant print?	What is instant prints?	1	0.728015124797821	1
+370	What should I do when I often feel bored and aimless?	What should I do when I feel bored?	1	0.801516592502594	1
+371	How much would be my take home pay with 140k Salary in San Francisco?	How much will be the take home pay for 220K salary in San Francisco?	0	0.8806732892990112	1
+372	If your parents hated your partner you currently loved would you ditch him or carry on with him despite the protests?	If your parents hated a partner you currently loved, would you ditch him/her or carry on with him/her despite the protests?	1	0.6802173852920532	1
+373	What are social graces? Why are the important?	Why are social graces important?	1	0.8715859651565552	1
+374	Why are common cold symptoms worse in the morning and at night?	Why do colds and viruses get worse in the morning and at night?	1	0.7626088857650757	1
+375	If I am use one day 1gb data or extra in Jio so it is chargeable for that?	Can we use more than one Jio sim in a 4G mobile?	0	0.4862714409828186	0
+376	What are some of the most important thought experiments to have happened in physics?	What is your heart like?	0	0.5225266814231873	0
+377	Are marks of pre-board exams added up to calculate the CGPA of X class?	Who sets Class X SA1 exams? Is it CBSE or some private school boards?	0	0.4183831214904785	0
+378	I am starting a gaming channel on YouTube. What is a good name for my channel?	What should be the name of gaming channel on YouTube?	1	0.7066894173622131	1
+379	Can long distance relationships work out?	What is the secret of keeping a successful long distance relationship?	1	0.5430636405944824	0
+380	Which is your favorite bollywood movie in 2016?	What is the best Bollywood movie of 2016?	1	0.7953028678894043	1
+381	How do I change gender in booked IRCTC e-tickets?	I booked e-ticket from IRCTC but , My gender is wrongly registered , how can I change it?	1	0.438377320766449	0
+382	How do I learn hacking from beginner?	How can I learn hacking for security purposes?	1	0.6419351696968079	1
+383	What will be the effect of banning 500 and 1000 Rs notes on real estate sector in India? Can we expect sharp fall in prices in short/long term?	How will the ban on 500 and 1000 rupee notes effect land/house rates?	1	0.5694953799247742	0
+384	How do I grow hair close?	What are some tips for growing strong hair?	0	0.6600458025932312	1
+385	How do you know when your partner is cheating?	How can I know if my spouse is cheating?	1	0.7684913277626038	1
+386	Why is algebra important?	What is algebra and why is it important?	1	0.820094645023346	1
+387	Why do some people believe that the world is flat?	Why do people still believe in flat earth?	1	0.690706193447113	1
+388	Did you cheat on the SAT?	How can you cheat on SAT?	0	0.8350617289543152	1
+389	Is it possible to spy on cell phones?	How does one spy on a cell phone?	1	0.7854416370391846	1
+390	Can a tenor ukelele be tuned like a baritone ukelele?	Can you tune a tenor ukelele like a baritone ukelele?	1	0.9176549315452576	1
+391	How did the classical mechanics fail?	What is the failure of classical mechanics?	1	0.716547966003418	1
+392	How do you write a song?	How can you learn to write a song?	1	0.8848371505737305	1
+393	How do you make Yahoo your homepage?	How can I make Yahoo my homepage on my browser?	1	0.6731353402137756	1
+394	How did pollsters like 538 and PEC fail to accurately predict the 2016 US Presidential Election?	Why did so many news media, poll pundits and analysts fail to predict the 2016 presidential election?	1	0.8142639994621277	1
+395	What should I do if I feel like everyone hates me? Am I going into a depression? What can I do not to hate myself?	I hate everything about myself. I feel worthless, pointless and I don't want to be seen. I'm starting to feel like I'm going to lose my two best friends and no one really likes me. What should I do?	0	0.4627384543418884	0
+396	What does German sign language look like, and how does it differ from English sign language?	What does German sign language look like, and how does it differ from Portuguese sign language?	0	0.7756361961364746	1
+397	Is there still a way to get paid on Quora?	Is it true you get paid to answer Quora Questions?	1	0.6554928421974182	1
+398	What are your best sex experiences?	What have been your best sexual experiences?	1	0.7990161180496216	1
+399	How much salary do IIT professors get?	How much salary do professors at IIT get?	1	0.8325473070144653	1
+400	What are the reasons for the collapse of Roman Empire?	What caused the fall of the Roman Empire? How would the world be if they were still around?	1	0.5091297030448914	0
+401	What does the ISIS want?	What do ISIS want, what is their ideal philosophy?	1	0.6088938117027283	0
+402	How do I control my love?	How can I control my feelings of love?	1	0.8344767689704895	1
+403	How do I see someone photos on snapchat?	How do I see someone's photos on snapchat?	1	0.892032265663147	1
+404	What would happen if everyone suddenly just went vegetarian?	What would happen if everyone becomes vegetarian?	1	0.7074756622314453	1
+405	What a person should do? Whatever he is expected to do IDEALLY or whatever his HEART says?	Intel m3 m5 and m7, are there efficiency differenceces between them?	0	0.43462708592414856	0
+406	CALL@@@@@### US Talk@AVG^! |! ^1800*@251*@4919 AVG Antivirus Tech Support phone number?	Get Connect# Avg (@! @) 1800@251@4919 Antivirus Tech Support phone Number?	1	0.7795699834823608	1
+407	Could Hillary's pneumonia have been introduced into her system on purpose by someone opposed to her winning (like Trump or Putin)?	If Hillary is indicted during the general election, can Bernie take her place or does Trump automatically win?	0	0.6418591141700745	1
+408	How to get rid of erectile dysfunction?	How do I resolve my problem of erectile dysfunction?	1	0.8580384850502014	1
+409	Where can I get funding for my idea?	How should I go about getting funding for my idea?	1	0.8411807417869568	1
+410	Which one is the best, Linux Mint or Ubuntu?	Which one is better: Linux Mint or Ubuntu?	1	0.8919262886047363	1
+411	How many watts solar do I need to charge a 12v 200ah battery.?	How many watts of solar plates can charge a 200Ah battery?	1	0.730277419090271	1
+412	How was the KVPY 2016 SA paper? What is the expected cutoff?	What is the expected cut off for KVPY SA Aptitude Test 2016?	1	0.6324765682220459	1
+413	Is it possible to get out of the friend zone?	How do I get out of the friend zone with a girl?	1	0.6220380067825317	1
+414	How can I lose weight safely?	How can I lose weight slowly and naturally?	1	0.627642035484314	1
+415	What language is used in Visual Basic? How does it compare to C#?	What language is used in Visual Basic? How does it compare to C++?	0	1.0	1
+416	Which is the best mobile below 15000?	Which is the best mobile under 15000	1	0.7667117714881897	1
+417	How do I know what I want to ask?	How do I know what I have to ask?	1	0.9003487229347229	1
+418	How can we recover our Gmail password online?	My Gmail is hacked. How do I recover the password?	1	0.6548870801925659	1
+419	What are all the available options for government jobs after completing B.Tech in mechanical engineering?	What is the best field for earning money after completing a B.Tech in mechanical engineering?	1	0.8438785076141357	1
+420	How is the future of IT industry?	How is the future in the IT industry?	1	0.8935100436210632	1
+421	What are the attributes of monkeys belongs to cercopithecine monkey Family?	What are the attributes of monkeys belongs to Oreonax-flavicauda monkey Family?	0	0.9275968074798584	1
+422	How can I convert watt to ampire?	How do you convert ohms to watts?	0	0.9297224283218384	1
+423	How do I get a dominant girlfriend?	How can I get a dominant girlfriend?	1	0.941048800945282	1
+424	How can I change my US Visa from B1 to B1/B2?	What is a B1/B2 Visa? How is it different from B1 and B2 Visas?	0	0.8023168444633484	1
+425	Why do we suffer in life?	Why do we have to suffer in life?	1	0.9272719025611877	1
+426	How do I get rid of scalp acne?	How did you cure your acne?	1	0.7384411096572876	1
+427	What is the functions of left and right brain?	What are the functions of the left and right brain?	1	0.9453427195549011	1
+428	How do I unsubscribe from Quora?	How do I deactivate my Quora account? Can it be reactivated later?	0	0.6525110602378845	1
+429	What is the purpose of human life in the world?	What is the purpose of human life or life in general?	1	0.7114845514297485	1
+430	Who do you think will win the 2016 US presidential elections and whom do you want to win and why?	Who will win the 2016 U.S. presidential election and why?	0	0.6827629208564758	1
+431	What are the benefits of a liberal Arts education?	How can I benefit from a liberal arts education?	1	0.8785944581031799	1
+432	How I develop thinking ability?	How can I strenghten my brain thinking ability?	1	0.812940239906311	1
+433	Who won the First Presidential Debate of 2016?	In the 2016 presidential election, who won the first debate between Hillary Clinton and Donald Trump and why?	1	0.6478967070579529	1
+434	How do I get a job abroad?	How can I find jobs abroad?	1	0.8125213980674744	1
+435	Can I lose weight without dieting? If yes, how?	How can we reduce weight without dieting?	1	0.7080134153366089	1
+436	What is your review on How To Win A Cosmic War by Reza Aslan?	"""What is Boehner hoping to accomplish by coming on international TV and criticizing Obama saying """"He doesn't even have a plan to win"""" (the Syria + Iraq conflict / civil war)?"""	0	0.5893057584762573	0
+437	How can I get rid of under eye dark circles?	What's the cause of under eye dark circles and what treatments can help?	1	0.6298004388809204	1
+438	Is midnight 12 o'clock AM or PM?	Is 12pm noon or midnight?	0	0.7199891805648804	1
+439	Is it a bad time to buy a condo or a house in the Bay Area in 2017?	Would 2017 be a good time to buy a house in Bay Area?	1	0.7539544105529785	1
+440	Why should I not hire you?	Why should we not hire you?	1	0.9082247018814087	1
+441	Does the Quran 8:70 imply that Muhammad had captives? How is this possible for the last peophet (for muslims)?	Does the Quran 8:70 imply that Muhammad had captives? How is this possible from the most perfect example for humanity (for Muslims)?	1	0.5532680153846741	0
+442	What conspiracy theories turned out to be true?	Which is the most unlikely conspiracy theory which turned out to be true?	1	0.91214519739151	1
+443	What is a good mother like?	How can I be a good mother?	1	0.667626142501831	1
+444	How does the reproductive system of seahorses work?	How do seahorses have babies?	1	0.5509494543075562	0
+445	Why should we square the distance in the universal law of gravitation?	Why is there square distance in universal law of gravitation?	1	0.8325716853141785	1
+446	What is the anime you have learned the most from? Why?	What anime did you learn the most from?	1	0.844048798084259	1
+447	How do I prepare for SSC CHSL?	How can I prepare for the SSC CHSL?	1	0.9335348010063171	1
+448	Where does our trash go?	Where does all our waste go?	1	0.7342851161956787	1
+449	How many users does myminifactory.com have?	How many users does dailyfeats.com have?	0	1.0	1
+450	What should be done if you feeling totally lost in your life?	What do you do when you feel lost in life?	1	0.8288755416870117	1
+451	What are the best Quora answers?	Which are the best Quora answers one must read?	1	0.7423378229141235	1
+452	What is the best hotel for a coding getaway?	What do you think of the luxury hotels in Haridwar?	0	0.6957165002822876	1
+453	In a plant cell, what is the function of the vacuole?	Within a cell, what is the function of the vacuole?	1	0.6927675008773804	1
+454	What do you see just before you faint?	Who will win armwrestling match between chyna and hhh?	0	0.5550621747970581	0
+455	Are the new 500 rs and 2000 rs Indian currency notes really chip-based?	Is there really a chip embedded in the new Rupees 2000 note?	1	0.6033608317375183	0
+456	If energy is not conserved in an expanding universe, can infinite energy be created? Is it potential energy or potentiality infinite?	Is vacuum energy infinite?	1	0.615439772605896	1
+457	What are the best ways to learn physics?	What is the best way to learn physics?	1	0.9035160541534424	1
+458	What are semaphores?	How semaphore and mutex are implemented?	0	0.7113952040672302	1
+459	Does Obama ever use a body double?	Is Barack Obama the last US President ever?	0	0.6169906258583069	1
+460	Do believers ever curse god?	Do believers curse god?	1	0.872556746006012	1
+461	How can you determine a ratio between two numbers?	How do you calculate the ratio of two numbers?	1	0.7499784231185913	1
+462	What are some interesting C projects for a beginner in programming?	What are some cool C programming projects for a beginner?	1	0.7651028037071228	1
+463	How can one concentrate on work?	How can one concentrate on his work?	1	0.8352440595626831	1
+464	What makes you an Indian?	What makes an Indian an Indian?	1	0.8229175806045532	1
+465	How do you overcome Writer's Block?	As a novice writer, what are some tips to get beyond writer's block?	1	0.6879211068153381	1
+466	What are the tips to prepare for competitive exams?	What is the best way to prepare for any competitive exam?	1	0.7788773775100708	1
+467	How can I make money fast from Youtube?	How do I make money through YouTube?	1	0.8181306719779968	1
+468	Do body wraps work?	Do body wraps made from duct tape make small waistlines?	0	0.5423723459243774	0
+469	What is the meaning or purpose of life?	What is the meanings of life?	1	0.8572884202003479	1
+470	What is shredding?	What can you do with shredded money?	0	0.6600611805915833	1
+471	Which is best Online shopping website to buy home appliances?	Which is the best online shopping website to buy home appliances?	1	0.9817301630973816	1
+472	Do you think Donald Trump will make a good U.S. President?	Why will Donald Trump be a good president?	1	0.7638440132141113	1
+473	How can I deal with an extremely rude friend?	How do I deal with a rude friend?	1	0.8332064151763916	1
+474	Why does India perform poorly in the Olympics and other international sports events?	Why is India so bad at Olympics and football?	1	0.6117855310440063	1
+475	Does Dan Bilzerian pay a salary to all these women that follow him?	What is Dan Bilzerian's daily overhead to hire all these girls?	0	0.7113229632377625	1
+476	What happens to likes if you have a Facebook app ID and a business page? Do they get added together?	Does one have to have a Facebook page to get an ad?	0	0.3975633382797241	0
+477	How can Japanese language benefit me in Canada?	What are the benefits of Japanese language in Canada?	0	0.8217495083808899	1
+478	Will there be a civil war if Trump doesn't become president?	Will there be a second civil war if Trump becomes president?	1	0.8078001737594604	1
+479	What is the importance of money in ones life?	How important is money in life?	1	0.8118334412574768	1
+480	What are some characteristics of Korean Trot singers?	How do Korean parents pick baby names in Korean?	0	0.5760594010353088	0
+481	What is the best martial art to use for self-defense and other practical situations? Why?	What is the best martial art for practical use?	1	0.5784680843353271	0
+482	How do I delete an account on instagram if I can't remember the password or email?	How do I delete my Instagram account when I have forgotten my password and the password to my email?	1	0.692102313041687	1
+483	Can humans control their dreams anytime they want?	Is it true that you can use electromagnetic waves on humans and control their brain?	0	0.6569117307662964	1
+484	How much does LinkedIn Recruiter the corporate recruiting tool cost?	What are the differences between paid levels of LinkedIn including Recruiter Lite, LinkedIn Recruiter, and Talent?	0	0.6029736995697021	0
+485	How do you calculate the weight of topsoil per cubic yard and what are some examples?	How do we start preparing of upsc?	0	0.5522804260253906	0
+486	How do I apply for a job in the Trump administration?	How can I get a job with the Trump Administration?	1	0.8756038546562195	1
+487	How can we look into private instagram account without following them?	How do I see a private Instagram account?	0	0.6926862001419067	1
+488	Who is better, Clinton or Trump?	Is Hillary Clinton really worse than Donald Trump?	1	0.7365739345550537	1
+489	What are lithium ion batteries?	Are Lithium-Ion batteries more flammable when they are charged?	0	0.5836750268936157	0
+490	Why do we need device drivers when we already have firmwares in hardwares?	Why do we need a device driver?	1	0.5771989226341248	0
+491	Will we ever achieve immortality?	Will we ever become immortal?	1	0.7805916666984558	1
+492	Why some north Indians pronounce v as b?	Why is V pronounced as B in North India?	1	0.5769687294960022	0
+493	How can a computer scientist help molecular biology research like the Genome Project?	How a computer scientist can help molecular biology reaserchs like the Genoma Project?	1	0.8156228065490723	1
+494	What did Hillary Clinton mean when she said she short-circuited?	Was Hillary Clinton telling the truth when she said she had a short circuit when she claimed she told the truth about her emails?	1	0.3454107642173767	0
+495	How you make money?	How can I start making money? What are the best ways to make money?	1	0.7603315114974976	1
+496	How can I lose weight safely?	How do I lose 30 pounds?	1	0.6677500605583191	1
+497	What is the funniest joke you ever heard?	Tell a joke that the funniest you have heard?	1	0.8294904232025146	1
+498	How do I solve my problem of not being able to follow through with all the great ideas I have?	How do I solve my problem of not being able to follow through with all the great ideas and aspirations I have?	1	0.803998589515686	1
+499	Can I use my wife's car to drive for Uber if the car is just in her name?	Can I add my wife's car to my Uber account?	1	0.572698175907135	0
+500	How can I find best budget hotels in Haridwar for accommodation in this new year eve pick season?	How can I find best budget hotels in Haridwar for accommodation in this new year eve?	1	0.5945560932159424	0
+501	What happened in 1492 with Christopher Columbus and the Native Americans?	Can somebody explain to me on what happened with Christopher Columbus and the native Americans?	1	0.9456069469451904	1
+502	What should someone do to overcome anxiety?	How does one overcome depression and anxiety?	1	0.7739101052284241	1
+503	Why do I ejaculate when I sleep?	Why do I ejaculate during sleep?	1	0.8090251088142395	1
+504	Can people still see questions that are marked as needing improving?	If Quora doesn't understand my question and marks it as needing improvement, can others still see it?	1	0.682304322719574	1
+505	Will a text message show delivered if blocked on iPhone?	Will a message still say delivered if you were blocked on an iPhone?	1	0.7530235648155212	1
+506	Is it dangerous to eat milk chocolate that has melted to liquid and then been refrigerated again?	How can I make a paella yellow?	0	0.3429713249206543	0
+507	What is your turning point in life?	What was the life turning point in your life?	1	0.8541756272315979	1
+508	Will people vote for Hillary Clinton because she is a woman?	"""Why do some voters intend to vote for Hillary Clinton mainly because she is a woman? What ever happened to """"Don't judge someone just by their gender""""?"""	1	0.6341687440872192	1
+509	How do I gain back my confidence and self esteem?	How do I get rid of my low self confidence and low self-esteem?	1	0.7926036715507507	1
+510	Is homosexuality against the laws of nature?	Is homosexuality natural?	1	0.6176649332046509	1
+511	What are some fun things to do in the summer for teens?	What are some fun things to do in the summer as a teenager?	1	0.7242879271507263	1
+512	Can skipping increase your height?	What is the best and fastest way to increase your height?	1	0.7448506355285645	1
+513	How hard is it to hack someone's cell phone if you just know their phone number?	Can a cell phone be hacked with just a number?	1	0.7376062273979187	1
+514	I'm going to meet a girl for the first time & I'm not a good looking guy (tummy fat). What should I do, to impress her? IDHTT (slang)	I'm going to meet a girl for the first time & I'm not a good looking guy (tummy fat). What should I do, that she should like me? IDHTT (slang)	1	1.0	1
+515	Why would someone get a solid black tattoo?	What do solid black armband tattoos symbolize?	1	0.6501504182815552	1
+516	Are U.S. elections rigged?	Are the US elections rigged?	1	0.8148953318595886	1
+517	Should India go for war with Pakistan?	Should India go through war with Pakistan?	1	0.871589183807373	1
+518	What if I create salary slips to apply for a new job, since I dont have originals anymore	If I have quarelled with my owner, will that affect me during visa verifications?	0	0.5636869668960571	0
+519	How can I get more likes on my Facebook picture?	How do I get more likes on Facebook page quickly?	0	0.6769901514053345	1
+520	Where are the origins of the Ayurveda?	Where are the origins of Ayurveda?	1	0.9168089628219604	1
+521	How do I know who my spouse is texting?	How do I spy on my spouse text?	1	0.6475608944892883	1
+522	I accidentally took my blood pressure medicine twice, will I be ok?	Is 108/60 good blood pressure?	0	0.5099860429763794	0
+523	What's the difference between a programming language and a scripting language?	What are scripting languages and programming languages?	1	0.6207082271575928	1
+524	How has reading made your life better?	Has anything you've ever done made your life better?	0	0.7891296148300171	1
+525	Do successful people drink alcohol?	Do successful people drink less alcohol?	1	0.8412398099899292	1
+526	Who won the first Clinton-Trump debate? And why?	Who won the First Presidential Debate of 2016?	1	0.821099042892456	1
+527	Why China is so rich?	Why is China so rich?	1	0.9291110038757324	1
+528	What's it like to live in Switzerland?	How is life in Switzerland?	1	0.7276646494865417	1
+529	How do I devote 16 hours a day to something?	How do I work for 16 hours a day?	0	0.7570133209228516	1
+530	Different option in gwt way of tally?	Different option in gatwayof tally?	1	0.8629080057144165	1
+531	How do I lose weight?	How do I suck it up and lose weight?	1	0.8713427186012268	1
+532	What is the chemical formula of methane?	What's the chemical formula of Methane?	1	0.8651978373527527	1
+533	I love a girl and so does she. She is a Brahmin and I am not Brahmin. What should I explain to her parents?	Why are Brahmins considered vegans?	0	0.40885233879089355	0
+534	Why does Quora put neither the most upvoted nor the most viewed answer on top?	Is there a way to sort by the most upvoted answers on Quora?	0	0.6298035979270935	1
+535	What are some ways of removing blackheads on thighs?	What is the best solution to the prevention and removal of blackheads?	0	0.6759963035583496	1
+536	How do I increase body height?	What are the ways to gain height?	1	0.7340790033340454	1
+537	Why has Ernest W. Adams disabled comments on his answers?	Specific Quora Users: Why does Ernest W. Adams not allow comments?	1	0.4909740388393402	0
+538	How is the work life at Quora?	How's the work life at Quora?	1	0.9038563370704651	1
+539	What is an easy way to commit suicide?	What is best way to commit suicide painlessly?	1	0.8457886576652527	1
+540	What are some genuine circumstances under which anger is acceptable/appreciated?	For what reasons would a girl smile at a boy?	0	0.5101498365402222	0
+541	How do I convince my parents for a love marriage when they have completely misunderstood my boyfriend?	How can I convince my mom for a love marriage?	1	0.48470965027809143	0
+542	Which is the best laptop under 15,000?	Which is the best laptop within ₹15k?	1	0.7718456983566284	1
+543	How can one break free of pornographic addiction?	How do I break free of a pornographic addiction?	1	0.9107263684272766	1
+544	Is it possible for a self-aware artificial intelligence to fix and update itself?	Is self aware Artificial Intelligence possible?	0	0.6092767119407654	0
+545	What are the differences between external fertilization and internal fertilization? What are their similarities?	What is the difference between external fertilization and internal fertilization?	1	0.6339328289031982	1
+546	What are the most dangerous countries to visit at the present time?	Which are the most dangerous countries to travel to?	1	0.6557943820953369	1
+547	Has Roger Federer ever said anything about Pseudofed?	Is Roger Federer ever going to win again on clay?	0	0.6845576167106628	1
+548	How can I write a program for recording health data?	How do I write a C++ program that stores data while it runs & retrieves data when it starts?	0	0.4920229911804199	0
+549	How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Registan Desert?	How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Simpson Desert?	1	0.6046139597892761	0
+550	What are your thoughts on communism/capitalism?	What are your thoughts on Capitalism?	1	0.8074381947517395	1
+551	What should I learn for proffesional web designer?	What should we study to learn web designing?	0	0.7484695911407471	1
+552	Why can't I pop my neck anymore?	I'm suffering from haemorrhoids. It pains a lot when I defecate. I can't bear this anymore. How can I help myself?	0	0.5099159479141235	0
+553	What is a journal entry of a write-up fixed assets?	What is journal entries for write up fixed assets?	1	0.6096460223197937	0
+554	What is best time to appear in GRE?	When is the best time to appear for GRE?	1	0.8311184644699097	1
+555	Is their anyway to increase height after 23?	Is it anyway possible for man to increase height at or after 23?	1	0.7362164258956909	1
+556	How widely accepted are credit cards at small businesses and restaurants in Armenia?	How widely accepted are credit cards at small businesses and restaurants in São Tomé and Príncipe?	0	0.2582535743713379	0
+557	Which is the best tour provider in Kerala?	Which is the best Kerala Tour operator for Kerala Tour Packages from Delhi?	1	0.4830668270587921	0
+558	What is the most interesting sex stories?	What are some of the best sex stories?	1	0.8828437924385071	1
+559	Do my dating rules help me get a girlfriend?	Will my dating rules help me get a girlfriend?	1	0.9342319965362549	1
+560	What are some rags to riches stories that one can adopt?	How could I get rich?	0	0.6202543377876282	1
+561	Can we use bio thermal plant's wastage as fertilizer for agriculture?	What is the purpose of the seal air fan use in thermal power plant?	0	0.5166375041007996	0
+562	How long do men have sex normally?	How can guys last longer during sex?	0	0.6575782895088196	1
+563	Why did the founding fathers decide to use electoral votes instead of popular votes to elect presidents?	Why do we use an electoral college to elect the President instead of using the popular vote like for Congress?	1	0.6186981797218323	1
+564	What is the funniest movie to watch?	What are some of the funniest movies?	1	0.7445924878120422	1
+565	Who are the best politicians in India according to performance?	Who is the best politician India has ever seen?	1	0.5686630010604858	0
+566	What great knowledge have we lost?	What is the greatest knowledge ever lost?	1	0.8305516839027405	1
+567	Is Donald Trump really that stupid or is it all an act?	Is Trump really dumb and ignorant, or is it all just an act?	1	0.7075729370117188	1
+568	What are the places to see in Coorg?	Which are the must-visit places in Coorg?	1	0.7777504920959473	1
+569	How can you get pregnant when you are not in your period?	Can you get pregnant when you don't have a period?	0	0.7991622090339661	1
+570	What would happen if I filed a stolen property report and the person moved out of state?	What would happen, legally speaking, if Mexico overthrew its government and requested to be a part of the United States?	0	0.5660684704780579	0
+571	What shouldn't I do in India?	What should I not do when in India?	1	0.8650915026664734	1
+572	How do you make a rabbit fur jacket?	How many rabbit skins would be needed for one person to have a rabbit skin hat, a rabbit skin blanket, a rabbit skin jacket, and rabbit skin slippers?	0	0.5914945602416992	0
+573	What are some great books to expand your mind?	What are some books that will expand our mind?	1	0.8083447217941284	1
+574	What’s it like working at Google?	What is it like to work at Google?	1	0.7619839906692505	1
+575	How do I enhance my English?	How can I continue to improve my English?	1	0.8207013010978699	1
+576	What is the difference between a stock and a share?	What is the difference between stock and share?	1	0.8116257786750793	1
+577	Why was the Battle of Vimy Ridge so important?	What is the significance of the Battle of Vimy Ridge?	1	0.6876795887947083	1
+578	How can I improve my writing skills and blog style?	How could I improve my writing skill?	1	0.6667061448097229	1
+579	Which laptop is best under 25000 INR?	Which Laptop to buy under or upto Rs.25000?	1	0.6842360496520996	1
+580	What is the difference between phlegm and sputum?	What are the differences between phlegm and sputum? What are their similarities?	1	0.655777096748352	1
+581	What is the best advice for someone with social anxiety?	How can I overcome social anxiety?	1	0.8096155524253845	1
+582	Is it wrong for me to ask a handicapped person if they need assistance?	Is it better to ask a disabled person if they need help or wait until they ask for it?	1	0.6597435474395752	1
+583	Why have I become so quiet?	Why have I become quiet?	1	0.8604579567909241	1
+584	What are your opinions on Brexit?	What are your views on the Brexit?	1	0.8821653127670288	1
+585	Is anal sex good?	Is anal sex bad?	1	0.7501072883605957	1
+586	How will US fed rate hike affect INDIA?	What is the effect of fed rate hike in India?	1	0.8000773787498474	1
+587	How can one become emotionally and mentally strong in life?	How can I become mentally stronger?	1	0.7115142345428467	1
+588	What is it like to work in a start-up?	Is it good to work in a start up?	1	0.7865113615989685	1
+589	How can one get out of rat race?	How do I get out of the rat race?	1	0.9178544878959656	1
+590	How do I post something on Quora?	How can I make a question in Quora?	1	0.7555112242698669	1
+591	What are some cool things to do outside with friends?	What are some cool things to do outside in the snow?	0	0.5819514393806458	0
+592	How much money do YouTubers make with 1 million views and above 10,000 subscribers? How much tax do they have to pay?	How much money can you get every 5,000 subscribers?	0	0.5664124488830566	0
+593	Where is the best washing machine service center in Hyderabad located ?	Where is the best washing machine service center in Hyderabad?	1	0.6254871487617493	1
+594	How can I join indian air force or indian Navy after completing engineering?	How do I join IAF short service commission after completing my engineering?	1	0.7056401968002319	1
+595	How do you get rid of the brown stains on teeth?	What is the best way to whiten your teeth?	0	0.6987757682800293	1
+596	What could cause black tarry stool in dogs?	What causes black stool in dogs?	1	0.8460372686386108	1
+597	How can I recover my Gmail forgot my password and recovery no?	How do I recover my Gmail account password without a recovery email (forgot) or the security question when 2 step verification code is turned on?	1	0.49766698479652405	0
+598	Who play role of coach in Dangal movie?	What are some of the subliminal messages in Nickelodeon?	0	0.4748196303844452	0
+599	Why are people now so self centered?	Why are some people so self-centered?	1	0.8620878458023071	1
+600	Which is strongest out of the two, nuclear missiles or rocket-propelled grenades?	Which is the stronger of these two - nuclear missiles or rocket-propelled grenades?	1	0.7897473573684692	1
+601	What are the career options for a mathematics graduate?	What are the career options after studying mathematics?	1	0.7419461011886597	1
+602	Would an erect penis cut off by a lightsaber stay hard?	If an erect penis were cut off and cauterized by a lightsaber, would it remain erect?	1	0.7222169041633606	1
+603	Can high levels of anxiety over period of time cause brain damage?	Can high levels of negative/ unpleasant emotions cause brain damage?	1	0.8025726675987244	1
+604	What are some interesting topics for paper presentation?	What is the best topic for a paper presentation and a model presentation related to technology?	0	0.36391258239746094	0
+605	How can I delay or postpone my period?	How can I postpone my period? Which medicine would be good?	1	0.6176106929779053	1
+606	What is a hypertonic solutions? What are some examples?	What are some examples of hypertonic solutions?	1	0.728276252746582	1
+607	Wat is subsidy?	Which is the best coaching institute in Delhi for GATE in Computer Science stream?	0	0.4231494963169098	0
+608	Who is the most popular cleaning service in Australia?	Which is the best cleaning service company in Australia?	1	0.731959879398346	1
+609	What will happen if African Union is included as a permanent member of the United Nations Security Council?	Will India become a permanent member of the UN Security Council?	0	0.5158922672271729	0
+610	How can you make money from Quora?	Are there any ways to make money through Quora?	1	0.7456486225128174	1
+611	What are some good articles on the global microbiome?	What is the main reason why Britain is exiting the EU?	0	0.589626133441925	0
+612	Is ZEE news a paid media channel?	Is Zee News biased towards BJP?	0	0.5370597243309021	0
+613	Why do I get bored with people so quickly?	Why do I get so bored of people easily?	1	0.7408201098442078	1
+614	Environmental Science: What would happen if Carbon Dioxide were completely removed from the earth's atmosphere?	What would happen with carbon dioxide at 2900 K and 0.1 Pa?	0	0.7363905906677246	1
+615	How do I stop my American Staffy/Kelpie mix from humping my furniture?	How do I stop my Miniature Pinscher/Chihuahua mix to stop humping my furniture?	1	0.7189105153083801	1
+616	What is the best documentary about the Second World War?	What are the best documentaries about World War 2?	1	0.7985755801200867	1
+617	Handwriting: Is writing in cursive generally faster than printing?	Is a print or cursive signature harder to forge?	0	0.5940408706665039	0
+618	Which is the best song that one can listen to when they are sad or depressed?	What are some good songs to listen to when depressed?	1	0.6973136067390442	1
+619	How would a Trump presidency affect schools accessibility for international students?	Is Donald Trump a threat for international students?	1	0.8452914357185364	1
+620	What is the significance of 'AtmaKarka Planet' in Vedic astrology?	What are Naabhasa yogas in Vedic Astrology?	0	0.7770730257034302	1
+621	How do I place my first question on Quora?	How we can post in Quora?	1	0.7449670433998108	1
+622	Is there a way to prevent hair Loss?	What can we do to minimize our hair loss?	1	0.7415496706962585	1
+623	Does Saturn's ring change its position on the planet?	Does Saturn's ring change its position on the equator?	1	0.7348973155021667	1
+624	How can I increase my chest size?	How can I improve my chest size?	1	0.8859909772872925	1
+625	Is it possible to make like $50 a month off of Fiverr?	Can people actually make money on Fiverr?	1	0.748436450958252	1
+626	How populated would our world be if nobody had ever died?	What would a world in which nobody dies be like?	1	0.5412382483482361	0
+627	What do you think about sex before marriage?	How do people think of having sex before marriage?	1	0.828609824180603	1
+628	What are the criteria for choosing a wedding photographer?	What is your criteria in hiring a wedding photographer?	1	0.8742711544036865	1
+629	Can Virat Kohli ever break Sachin Tendulkar's records?	Will Virat Kohli be able to break Sachin Tendulkar's records?	0	0.8502460718154907	1
+630	Which is a suitable inpatient drug and alcohol rehab center in Monroe County IL?	Which is a suitable inpatient drug and alcohol rehab center in Brown County IL?	0	0.7202132344245911	1
+631	If I am charged for a crime I didn't commit, then served the full sentence, am I entitled to commit the crime then?	I am a successful student with a bright future. Right now, I am being charged with domestic violence and I am innocent. Should I go to trial? Should I take a plea, for a crime I did not commit and cripple my future success?	0	0.4610815942287445	0
+632	Will you recommend professor Israr Sheikh online classes for CA final AS and INDAS?	How is Prof. Israr Sheikh's book for CA final accounting standards?	1	0.6253422498703003	1
+633	Should I apply for Canada express entry if my CRS score is 420?	I applied for canada express entry and my score is 449. What are my chances?	0	0.45711180567741394	0
+634	What are some good and bad benefits of banning 500 and 1000 rupees notes in India?	What are the pros and cons of banning 500 and 1000 rupee notes in India?	1	0.7876582741737366	1
+635	What is the definition of virginity and losing your virginity for both males and females?	This is a question for both males and females: how is it to lose your virginity?	1	0.590100884437561	0
+636	Why is Pride and Prejudice timeless?	Why is Jane Austen's Pride and Prejudice more popular than her other novels, such as Persuasion?	0	0.6060144901275635	0
+637	When I export InDesign files into JPEG it looks pixelated, how can I fix that?	How can I get a job as a beauty writer with a magazine?	0	0.4600431025028229	0
+638	What are some of the differences between British English and American English?	What are the differences between British English and US English?	1	0.7385684251785278	1
+639	What hand drawn anime is out there?	What's the largest animal a human can kill with their bare hands?	0	0.5692263245582581	0
+640	Why do people still think the the world is flat?	I know some people that STILL believe the earth is flat. Why?	1	0.7664348483085632	1
+641	Which are the good colleges for MBA in tourism in India?	Are there any good colleges for pursuing MBA in IT in India?	0	0.8271729946136475	1
+642	Is there any question that Quora can't answer?	In Quora, can we get answers for all questions or Is there any question that have no answer?	1	0.6848124265670776	1
+643	What are some of the must-read books in Malayalam?	What are some of the must read books in Malayalam?	1	0.9999997615814209	1
+644	What are the best places to visit near Bangalore in one day?	What are some good places to visit near Bengaluru for a one/two day trip?	1	0.6656399369239807	1
+645	What is the best cure for a hangover?	What do people do to cure a Benadryl (diphenhydramine) hangover when the drug is used as a sleep aid?	0	0.5001976490020752	0
+646	How did UChicago get so strong at Statistics?	How did Cornell get so strong in statistics?	0	0.7375386357307434	1
+647	What would life be like without the internet?	What would the world look like without Internet?	1	0.8358954787254333	1
+648	Why is it necessary to shave pubic hair?	Is it bad to shave pubic hair?	1	0.9073833227157593	1
+649	What are good reasons that an American should move to Europe?	What are good reasons that an American should not move to Europe?	0	0.906862735748291	1
+650	Fabrication process of pressure vessel?	"""What does """"impartial history"""" mean? What are some examples?"""	0	0.4494944214820862	0
+651	How do I reset my gmail password when they are not highlighting my recovery email option?	How can I reset my Gmail password when I don't remember my recovery information?	1	0.5897057056427002	0
+652	How much does it cost to hire someone to build a website for you?	How much would it cost to hire someone to make a tune?	0	0.6742984652519226	1
+653	How can I deactivate a Facebook account if I forgot the email address and the password?	Is it possible to login to Facebook without password?	1	0.5761827826499939	0
+654	What will happen if I put regular gas into a car that requires premium gas?	What would happen if you put diesel gas in a car that takes regular gas?	0	0.519501268863678	0
+655	What constitutes true beauty?	What is the beauty?	1	0.7238926887512207	1
+656	How should I learn hacking by myself?	How can I learn hacking for security purposes?	1	0.6556457877159119	1
+657	For metalheads: have you ever bought a cd, lp, tape, etc. just because you liked the cover but you didn't know anything about the band?	Have you ever known about NetEase? I'm just wondering whether you like their products or not.Why?	0	0.6087956428527832	0
+658	When do guys find girls most attractive?	What do guys find most attractive about a girl?	0	0.6892663836479187	1
+659	What is your review of www.abundancestockadvisors.com?	What is your review of www.RemoteStylist.com?	0	1.0	1
+660	How can I get in touch with underground hackers?	How do I get in touch with hackers?	1	0.9239727854728699	1
+661	What's the decision that changed your whole life?	What is one decision that changed your life forever?	1	0.765800416469574	1
+662	What was Sherlock looking for when he dug the grave of Amelia Ricoletti? Confirmation that once someone blows their brains out they cannot come back?	If Sherlock had to propose to a girl, how would he do it?	0	0.6154980659484863	1
+663	What are some examples of Bose-Einstein condensate state of matter?	What are some examples of a Bose-Einstein condensate?	1	0.6397415399551392	1
+664	What is the best surprise you have ever given someone?	What is the best surprise you ever had?	0	0.6456986665725708	1
+665	I have scored 279 out of 360 (appx. AIR 500) in JEE Main. How do I revise for JEE Advanced (IITJEE) in these last few days?	I scored a 231 out of 360 on my JEE mains. Is there any chance of me getting into IISER's?	0	0.557746410369873	0
+666	Who is a common man?	What is a common man?	1	0.8675163984298706	1
+667	Is Hangwoman about gender performativity?	What are some mind-blowing facts about gender?	0	0.7705923318862915	1
+668	How do people fall in love AGAIN?	How do I let myself fall in love again?	1	0.846962034702301	1
+669	The relationship between music and identity?	What are the competitive exams for getting govnment jobs after doing BSc with biotech with max salary of 6 lakh p a in India?	0	0.25458866357803345	0
+670	How can I learn Java from home?	How can I learn Java effectively at home? Some good websites?	1	0.6813280582427979	1
+671	Is it weird to visit my ex, that I broke up with 2–3 months ago, in the ICU?	Me and my ex broke up 2 months ago. She got into a bad car wreck and is in critical condition. Is it weird that I visit her in the ICU?	1	0.6856259703636169	1
+672	How do I get pictures back from a factory reset?	How can I get my photos back after resetting my phone to factory reset?	1	0.5452774167060852	0
+673	How do I stop being so jealous?	How can I stop being so jealous of everyone?	1	0.8162829875946045	1
+674	What is the street price for 15mg Xanax bars?	Is 3mg of Xanax a high dose?	0	0.45274239778518677	0
+675	Which is the best headphone under Rs 3000?	What are the best headphones under Rs. 3000 available in India?	1	0.8120736479759216	1
+676	I'm currently a high school student in Sweden, my dream is to manage an hedge fund, what steps are required from now until then?	My daughter is a junior in high school and will be going to Sweden for her senior year. We need to buy her a new laptop or an ipad. I don't know which to buy because she will be going to college in 2 years and will need something then. What should I buy now?	0	0.14143694937229156	0
+677	How do I become a partner of Youtube?	How do I become a YouTube partner?	1	0.7681663036346436	1
+678	What is the effect of black money on India's macro economy?	How does black money impact a nation's economy?	1	0.8229464292526245	1
+679	What is it like to be raped and have a child?	What does it feel like to be the parent of a child who has committed rape?	0	0.5068014860153198	0
+680	What is the best karaoke software?	What is best karaoke software?	1	0.9248466491699219	1
+681	How can I find out what I really want to do with my life?	How do I decide on what to do with my life?	1	0.8577827215194702	1
+682	What kind of programming language is used in Mechanical Engineering courses?	How can learning programming languages be beneficial for mechanical engineering students?	0	0.5499870181083679	0
+683	How much is one million and one billion in lakhs and crores?	If one could prove that God exists, how much would it be worth in dollars: one hundred thousand, one million, or one billion? Is it worth more?	0	0.44189009070396423	0
+684	I am married, and I want to travel solo but my husband is too protective and won't let me. What should I do?	I am 15 and my dad won't let me get my ears pierced because he thinks it is gay. What should I do?	0	0.5489541888237	0
+685	What are the best ways to register my Dell laptop?	How can I register my Dell laptop?	1	0.8772321939468384	1
+686	How much data can the human brain store?	How much information can human brain store?	1	0.8633284568786621	1
+687	What are some words you can spell out on a calculator?	Do you ever forget the simple spelling of a word?	0	0.6162796020507812	1
+688	Is there an inpatient Drug and Alcohol Rehab Center in Plumas County California?	Is there an inpatient Drug and Alcohol Rehab Center in Mendocino County California?	0	0.9999998807907104	1
+689	What are some reasons people don't believe in climate change?	Why are so many people denying climate change?	1	0.8181506395339966	1
+690	What are a few ways to safely earn money online?	What are the safest ways to earn money online?	1	0.8892552852630615	1
+691	What can I do to practice my English?	How will I improve my spoken English?	1	0.803787887096405	1
+692	Have you ever encountered any supernatural phenomenon in your life?	Have you ever faced any supernatural moment in your life?	1	0.8387236595153809	1
+693	How can one be an optimist?	How does one become more optimistic?	1	0.7966368794441223	1
+694	Can you see who viewed your Instagram?	Is it true that you can see who’s viewed your Instagram?	1	0.7709928750991821	1
+695	What are the strongest majors in terms of job prospects and what are the weakest majors at Colorado College?	What are the strongest majors in terms of job prospects and what are the weakest majors at Hunter College?	0	0.710696816444397	1
+696	Is there any chance of World War III?	How close is a World War III?	1	0.7824421525001526	1
+697	What skills do IT recruiters find rare or hard to fill in India?	What skills do IT recruiters find rare or hard to fill?	0	0.8278220891952515	1
+698	How is it like to live and work in Madrid?	How is it living in Madrid?	1	0.7691437602043152	1
+699	How do a mobile phone get a virus?	How does a cell phone get a virus?	1	0.8683182597160339	1

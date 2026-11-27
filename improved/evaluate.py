@@ -21,6 +21,7 @@ def parse_args(description, default_run):
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument("--run-dir", type=Path, default=default_run)
     parser.add_argument("--device", choices=["auto", "gpu", "cpu"], default="auto")
+    parser.add_argument("--split-manifest", type=Path, default=MANIFEST, help="Split manifest used for this experiment")
     return parser.parse_args()
 
 
@@ -29,7 +30,7 @@ def evaluate_model(args, load_run):
 
     configure_device(args.device)
     model, state = load_run(args.run_dir)
-    manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
+    manifest = json.loads(args.split_manifest.read_text(encoding="utf-8"))
     if fingerprint(manifest) != state["split_fingerprint"]:
         raise ValueError("The current splits do not match the splits recorded for this checkpoint.")
     groups = load_split("test", manifest)

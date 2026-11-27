@@ -27,6 +27,7 @@ def parse_args(description, default_run):
     parser.add_argument("--batch-size", type=int, default=2048)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--run-dir", type=Path, default=default_run)
+    parser.add_argument("--split-manifest", type=Path, default=MANIFEST, help="Split manifest used for this experiment")
     args = parser.parse_args()
     if args.epochs < 1 or args.batch_size < 1:
         parser.error("--epochs and --batch-size must be positive")
@@ -42,7 +43,7 @@ def train_model(args, build_model, model_type):
 
     configure_device(args.device)
     tf.keras.utils.set_random_seed(args.seed)
-    manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
+    manifest = json.loads(args.split_manifest.read_text(encoding="utf-8"))
     train = load_split("train", manifest)
     validation = load_split("validation", manifest)
     try:

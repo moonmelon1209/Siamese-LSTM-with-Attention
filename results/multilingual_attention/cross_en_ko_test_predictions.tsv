@@ -1,0 +1,701 @@
+row_id	question1	question2	is_duplicate	score	prediction
+0	Is Great Britain still part of the European Union?	영국은 여전히 EU에서 공식적으로인가? (2016 년 10 월)	1	0.629978597164154	1
+1	How do I stop wasting my time?	어떻게 내 시간을 낭비합니까? 가능한 할 수 있습니까?	0	0.8166149258613586	1
+2	How long will .01 shot of meth be detectable with a mouthswab test?	u 연기 결정이 얼마나 긴 소변 약물 시험을 통과 할 수있을 것입니까?	1	0.5988286137580872	1
+3	What contributed to the rise of fascism?	fascism의 상승에 대한 원인은 무엇입니까?	1	0.6854126453399658	1
+4	What is the difference between a laser printer and an inkjet printer?	레이저 프린터와 잉크젯 프린터의 차이점은 무엇입니까? 그들은 어떻게 유사합니까?	1	0.6433569192886353	1
+5	I am female with 150 cm height. Can I join Indian Army/navy/airforce.?	나는 25 세이며 인도 군대에 가입하고 싶습니다. 나는 어떻게 가입 할 수 있습니까?	0	0.7177637219429016	1
+6	What are the parameters of Fair Use in regards to Copyright Law?	"미국 저작권법에 따라 ""공정 사용""이란 무엇입니까?"	1	0.5676596164703369	0
+7	"""What's the difference between an """"organ"""" and a """"piano""""?"""	피아노와 기관의 차이점은 무엇입니까?	1	0.5373358130455017	0
+8	What makes a good software developer?	어떻게 좋은 소프트웨어 개발자를 만들 수 있습니까?	1	0.7514674663543701	1
+9	Why is India failing so miserably at the Rio Olympics?	왜 인도는 올림픽에서 그렇게 빈번하게 수행합니까?	1	0.6912269592285156	1
+10	What are the top 10 private engineering colleges in West Bengal for electrical engineering?	서쪽 베갈의 상위 10 개 개인 공학 대학은 무엇입니까?	0	0.277386873960495	0
+11	Is there any question still not asked in Quora?	Quora에 대해 궁금한 점이 있습니까?	1	0.7572260499000549	1
+12	How many people were killed in Japan by the atomic bombs?	일본의 원자 공격에서 얼마나 많은 사람들이 사망합니까?	1	0.5564846396446228	0
+13	What is shear stress?	가위 스트레스는 무엇입니까?	1	0.7603374123573303	1
+14	Which are the best books for preparing ssc junior engineer (mechanical)?	SSC 주니어 엔지니어 (기계적) 시험을 선호하는 책은 무엇입니까?	1	0.6304484605789185	1
+15	What are the best online courses available for digital business and marketing management?	최고의 디지털 마케팅 코스는 무엇입니까?	1	0.7869197130203247	1
+16	Which is the best dslr camera under budget of Rs 38000 for a beginner?	INR.50000 Rs의 예산과 초보자를위한 최고의 DSLR 카메라는 무엇입니까?	0	0.6554322838783264	1
+17	Can I make 50,000 a month playing poker online?	나는 포커를 재생 한 달에 40,000을 만들 수 있습니까?	1	0.7156962752342224	1
+18	How do I recover a Gmail account when I have the username and password, but don't have the recovery phone number or email or any other information?	어떻게 내 복구 전화 번호 및 이메일 주소를 잊어 버린 경우 이메일 주소를 복구 할 수 있습니까?	1	0.3023262023925781	0
+19	What was the most innovative cold email you have ever received?	당신이받은 최고의 찬 이메일은 무엇입니까?	1	0.7806247472763062	1
+20	Porn addiction: I want to quit watching porn and masturbate. How do I stop it and not feeling empty?	나는 포르노를 보면서 어떻게 할 수 있습니까?	1	0.4738544821739197	0
+21	How do I prepare for CAT2016?	CAT'16은 어떻게 준비합니까?	1	0.8129181861877441	1
+22	How does one get a girl’s number fast?	여자 번호를 얻는 방법?	1	0.4608120024204254	0
+23	What is coalition government?	연합 정부는 무엇입니까?	1	0.7383677959442139	1
+24	How can I lose weight quickly? Need serious help.	나는 어떻게 무게를 잃을 수 있습니까?	1	0.8063831329345703	1
+25	Is energy in vacuum real? How do we know that this energy that can be borrowed and returned immediately is real if virtual particles didn't exist then?	진공에서 가상 입자가 실제로 존재합니까?	1	0.6906466484069824	1
+26	How does Kakao Talk's business model work?	카카오 스타일의 사업 모델은 어떻게 작동합니까?	1	0.6434871554374695	1
+27	What universities does Universal American recruit new grads from? What majors are they looking for?	유니버셜 포레스트 제품은 새로운 그리스를 모집합니까? 어떤 전공이 찾고 있습니까?	0	0.15371131896972656	0
+28	What do Tolkien fans think of Howard Shore's score for the Lord of the Rings movies?	Tolkien 팬들은 링스 영화 사운드 트랙의 주님에 대해 생각합니까?	1	0.7101201415061951	1
+29	How can the life span of parakeet be increased?	어떻게 파라케트의 수명을 연장합니까?	1	0.7917413115501404	1
+30	What are IT project manager best traits?	IT 프로젝트 관리자는 최고의 특성은 무엇입니까?	1	0.6499522924423218	1
+31	What are some examples of easy argumentative essay topics?	essay 주제의 몇 가지 쉬운 예는 무엇입니까?	1	0.7657983899116516	1
+32	What is the best Caribbean cruise to take?	최고의 카리브 해 크루즈는 무엇입니까?	1	0.7933375239372253	1
+33	What is the reality of planet X?	Planet X 란 무엇입니까?	1	0.5224629044532776	0
+34	What is the stock market?	무엇을 의미하고 재고 시장을 이해하는 방법?	1	0.6415514945983887	1
+35	Is there life after death?	우리는 죽음 후에 생명이 있는 경우에 이제까지 알고 있습니까?	1	0.6477704048156738	1
+36	Are there any telescopes powerful enough to view evidence left behind from NASA's moon landings?	우리는 아폴로 임무에 의해 달에 남아있는 남자 만들어진 개체를 볼 수 있도록 강력한 충분한 요즘 망원경을 가지고, 인간이 실제로 착륙 한 100 %를 proving?	1	0.6894948482513428	1
+37	How can I be indifferent to what people think of me?	사람들이 말하는 것에 대해 어떻게 멈출 수 있습니까?	1	0.7991893291473389	1
+38	Would Bruce Lee be able to hold his own with the top UFC fighters today?	Bruce Lee는 그의 주요 지배인 UFC MMA에서?	1	0.5235474109649658	0
+39	What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of Bataan?	Somme의 전투의 중요성은 무엇입니까, 그리고이 전투는 Matapan의 전투에 비교하고 대조했다?	1	0.753941535949707	1
+40	What do people think of America?	다른 국가의 사람들이 미국의 생각?	1	0.6800051331520081	1
+41	Where from can I get best UX design course in India?	iOS UX 및 UI 디자인에서 최고의 온라인 코스는 무엇입니까?	0	0.6185396313667297	1
+42	Why nobody replies to my questions on Quora?	아무도 Quora에 내 질문에 답변, 왜?	1	0.6199033260345459	1
+43	What are some NPTEL courses that are beneficial for Mechanical engineer?	플러싱과 캐비테이션의 차이?	0	0.7014939785003662	1
+44	Where can I find my Quora questions?	내 Quora 질문은 어디에 있습니까?	1	0.770670473575592	1
+45	How do I learn stock market investing?	어떻게 주식 시장을 배울 수 있습니까?	1	0.8386972546577454	1
+46	How will black money and corruption be stopped by banning 500 and 1000 notes?	파괴의 노트를 금지 500 및 1000 시스템에서 검은 돈 커브에 도움?	1	0.6558610200881958	1
+47	What are the best debt collection agencies in India?	두바이에서 부채를 수집 할 수 있습니까?	0	0.7287169098854065	1
+48	Should prostitution be legalized in India? Why?	왜 경험을 가진 사회 노동자가 밖으로 점화합니까?	0	0.666664183139801	1
+49	Why do people love music so much?	왜 우리는 음악을 사랑합니까?	1	0.5931721925735474	1
+50	How can I speak English more fluently?	English Fluently를 말하는 방법?	1	0.6572979092597961	1
+51	Is love a crime?	누군가를 사랑한다면, 범죄입니까?	1	0.5942214727401733	1
+52	What will be the impact of banning Rs. 500 and Rs. 1000 on the Indian economy?	1000 및 500 루피 노트의 금지는 인도 경제에 영향을 미칩니까?	1	0.8103102445602417	1
+53	What is a implosive orgasm?	수 a 남자 가 a implosive 오르가슴?	0	0.5071848630905151	0
+54	What should I do if my iPad won't charge or turn on	iPad가 어떤 이유가 충전되지 않습니까?	1	0.7504561543464661	1
+55	How do I hide my likes and comments from my friends on Facebook?	"""당신의 친구를 보여주는 페이스 북을 중지하는 방법""좋아요""""""""""페이지?"""	0	0.7334821820259094	1
+56	What phone deals are available at Costco?	Costco에서 사용할 수있는 최고의 커피는 무엇입니까?	0	0.5866769552230835	0
+57	How has Arvind Kejriwal performed as a CM of Delhi?	Arvind Kejriwal은 CM으로 델리를 위해 무엇을 했습니까?	1	0.5097581148147583	0
+58	What are the best neighborhoods in Chicago?	시카고에서 가장 좋은 지역은 무엇입니까? 왜?	1	0.3955250382423401	0
+59	What is currently your favorite love song of all time?	좋아하는 사랑 노래는 무엇입니까?	1	0.5650056004524231	0
+60	What are the differences between sheep, lamb, goat, ram and mutton?	양고기와 염소의 차이점은 무엇입니까?	0	0.574202299118042	0
+61	What evidence does Turkey have that Fethullah Gülen organized this summer's attempted coup? What due process rights does he have to fight extradition?	Decision Science와 Managerial 경제의 관계는 무엇입니까?	0	0.639240562915802	1
+62	What are interesting facts about olympics?	올림픽에 대한 몇 가지 작은 알려진 사실은 무엇입니까?	1	0.6591450572013855	1
+63	Since many Americans don't want foreign military in their country, can they understand non-Americans not wanting US military in their countries?	나라에서 외국 군대를 원하지 않는 미국인은 다른 국가를 이해하지 않습니까?	1	0.008926128968596458	0
+64	What are some ways of converting from MP3 to MIDI?	MP3 파일을 MIDI로 변환하는 가장 좋은 방법은 무엇입니까?	1	0.6627586483955383	1
+65	"""""""How do I get rid of acne and acne…?"""	내 여드름을 제거하는 방법?	1	0.596278190612793	1
+66	What will be the impact of the step taken to ban the 500 & 1000 rupee note on Indian economy?	인도 경제를 돕기 위해 500 및 1000 INR을 금지하는 방법?	1	0.7415411472320557	1
+67	What are some of the best jokes you've heard?	당신이 듣고있는 최고의 농담은 무엇입니까?	1	0.7978036403656006	1
+68	How is the movie MS Dhoni untold story?	영화 MS Dhoni는, Untold 이야기 가치가 시청?	1	0.5563777089118958	0
+69	What is the best whey protein shake on the market?	세계 최고의 whey 단백질 쉐이크는 무엇입니까?	1	0.5317402482032776	0
+70	Why should I not vote for Hillary Clinton or Donald Trump?	왜 Donald Trump를 통해 Hillary Clinton에 투표합니까?	0	0.7559422850608826	1
+71	What is the best site to learn java?	Java를 배울 수있는 몇 가지 좋은 사이트는 무엇입니까?	1	0.7591668367385864	1
+72	Which are some best websites for mechanical engineering students?	기계 공학 학생을위한 몇 가지 유용한 웹 사이트는 무엇입니까?	1	0.7259096503257751	1
+73	What happens if a university professor loses all the exams he has to grade?	대학 교수가 학급을 발행하기 전에 학생들의 시험을 잃는 경우?	1	0.6622660756111145	1
+74	How can I effectvely loss 20 kgs of excess weight from my body?	최고의 체중 감량 방법은 무엇입니까?	1	0.6027597784996033	1
+75	Is time travel possible through cosmic strings?	시간 여행은 미래에 가능합니까?	1	0.7403951287269592	1
+76	I want a bike, but my parents can't afford it. What should I do?	왜 Royal Enfield 자전거는 다른 자전거가하지 않는 동안 노이즈 사운드를 만들 수 있습니까?	0	0.43495139479637146	0
+77	What are the best tips to live in a hostel?	호스텔에서 이동하기위한 몇 가지 팁 & 트릭은 무엇입니까?	1	0.6838840246200562	1
+78	How do I approach a guy?	어떻게 내가 좋아하는이 녀석에 접근 할 수 있습니까?	1	0.795451283454895	1
+79	Do hotel/motels make more money then apartment complexes (as investments)?	모든 영화의 이론?	0	0.507409393787384	0
+80	What happens to our body after we die?	당신이 죽은 후 무슨 일이? (인간)	1	0.6579607129096985	1
+81	What is the advantage of taking PCBM in 11th and 12th?	제11과 제12 클래스의 PCBM을 준비할 수 있나요?	1	0.7029470801353455	1
+82	What are the hardest puzzles asked in interview?	인터뷰에서 묻는 퍼즐은 무엇입니까?	1	0.6996002793312073	1
+83	Can you be in love with more than one person at the same time? Should you be?	동시에 2 명과 사랑을 할 수 있습니까?	1	0.5993579030036926	1
+84	What should I shouldn't do when visiting your country?	국가를 방문 할 때 절대적으로해야 합니까?	1	0.6940445303916931	1
+85	Do you think hiding in your safe space will dam you one day?	utensils는 어떻게 발명되었습니까?	0	0.6370052099227905	1
+86	Why isn't my question answered on Quora?	왜 사람들은 Quora에 내 질문에 대답하지 않습니까?	1	0.7746958136558533	1
+87	Would it be possible, in theory: that The Electoral College does not nominate Trump as POTUS?	선거 대학이 대통령을 결정하기 때문에 트럼프가 힐러리를 이길 수 현실적입니까?	1	0.6698922514915466	1
+88	Considering a career change: After 35 years as a System Engineer/Systems Admin in Unix and large systems storage in Healthcare, what would be the challenges in moving to a consultant position with a large vendor?	시스템 엔지니어는 무엇을합니까?	0	0.2806383967399597	0
+89	What is a way to make money online?	돈을 온라인으로 만드는 것은 무엇입니까?	1	0.831115186214447	1
+90	Have you ever met a celebrity in person before?	당신은 유명 인사를 만났고 좋은 또는 나쁜 경험을 공유합니까?	1	0.48669347167015076	0
+91	Why do ceiling fans rotate anti-clockwise and table-fans clockwise?	왜 테이블과 천장 팬이 반대 방향으로 회전합니까?	1	0.6426659226417542	1
+92	What does call for papers mean?	"""""종료""는 무엇을 의미합니까?"""	1	0.6308662295341492	1
+93	Did Albaani memorise the Qur'an?	Qur'an을 어떻게 생각합니까?	0	0.6727191209793091	1
+94	What is a faster phone for heavy multitasking: One with 1.1ghz quad core CPU and 2gb of RAM, or 1.3 quad core CPU and only 1gb of RAM?	1.7Ghz 듀얼 코어 또는 1.5Ghz 쿼드 코어 또는 1.2Ghz Octa 코어? 어떤 프로세서는 속도에 가장 적합합니까?	0	6.0238326113903895e-06	0
+95	What exactly is Rothschild Conspiracy?	Rothschild conspiracy는 무엇입니까? 실제로 사실입니까?	1	0.7401691675186157	1
+96	Which city is the best in 2016: Calgary, Vancouver or Toronto?	밴쿠버 또는 토론토에 거주하는 것이 더 낫습니까?	0	0.3443126380443573	0
+97	What will be the best SEO strategies?	2014 년 최고의 SEO 전략은 무엇입니까?	0	0.7353333234786987	1
+98	How do you make the perfect Hungarian Goulash?	어떻게 헝가리 goulash를 준비합니까?	1	0.7543602585792542	1
+99	What should I do if I forgot my iCloud email and password?	iCloud 암호를 잊어 버린 경우 어떻게해야합니까?	1	0.4134844243526459	0
+100	If you could date one cartoon/anime character, who would it be and why?	어떤 만화 캐릭터를 데이트 할 수 있다면, 누구가 될 것인가?	1	0.5515796542167664	0
+101	What is Human Resource Management ERP?	인간 자원 관리자는 무엇을합니까?	0	0.46688851714134216	0
+102	"""What does """"contributing to open source projects"""" mean?"""	소스를 실제로 의미하는 기여는 무엇입니까?	1	0.5002121925354004	0
+103	What is the craziest question ever asked on Quora?	Quora에서 가장 이상한 질문은 무엇입니까?	1	0.7558590173721313	1
+104	Why does Google Hangout not allow individual messages or chat sessions to be erased?	누군가가 Google Chat 또는 Google Hangouts를 사용하는 경우 어떻게 말합니까?	0	0.6199904680252075	1
+105	If you had to change something about yourself that isn't your physical appearance, what would you choose?	선택하면 신체적 외관에 대해 변경하고 싶습니까?	1	0.5910871624946594	1
+106	Why soft computing is termed as soft?	소프트 컴퓨팅의 중요성은 무엇입니까?	0	0.4984922707080841	0
+107	How can I disable comments on photos posted to Facebook?	Facebook 게시물에 대한 의견을 어떻게 비활성화합니까?	1	0.6722307801246643	1
+108	How can I get rid of acne and scars?	여드름과 흉터를 제거하는 방법?	0	0.7232179641723633	1
+109	How do I backup a Lumia phone's app, history, contacts, and messages all in the memory card to restore it into another Lumia mobile?	언제 내 Lumia 전화에서 Google Apps를 얻을 수 있습니까?	0	0.5618528127670288	0
+110	What are liberals?	도서관은 무엇입니까?	0	0.6657895445823669	1
+111	Why did Ted Cruz endorse Donald Trump?	갑자기 도널드 트럼프가 연주하는 Ted Cruz는 무엇입니까?	1	0.4942049980163574	0
+112	What should you do if you can't remember your iCloud password?	iCloud 암호를 복구하는 방법?	1	0.5847539901733398	0
+113	Why did Tamil Nadu refused Hindi to accept and didn't made as part of their school curriculum?	왜 타밀 나두의 사람들이 힌디어를 배우지 않았습니까?	1	0.617962658405304	1
+114	Where can I get amazing collection of floor tiles in Sydney?	시드니의 다른 유형의 바닥 타일 컬렉션을 찾을 수 있습니까?	1	0.5375216603279114	0
+115	How can we submit an HTML form without a submit button?	누군가가 제출 버튼을 사용하지 않고 양식을 제출할 수 있습니까?	1	0.4019145369529724	0
+116	How did hippopotamus and rhinoceros become endangered species?	hippopotamus와 rhinoceros는 종을 끝냈습니다?	1	0.5898506045341492	0
+117	What was Thomas Aquinas like as a person?	Thomas Aquinas의 삶은 어떤 것입니까?	0	0.7711361646652222	1
+118	What is the interrelationship between the political science and geography?	정치 과학과 지리 사이의 상호 관계는 무엇입니까?	1	0.5895676612854004	0
+119	What is a black hole in the center of galaxies? Also, what is singularity?	왜 모든 은하의 중심에있는 검은 구멍이 있습니까?	1	0.6403946280479431	1
+120	Why was particularly November chosen for No Shave November?	11 월의 No-Shave 11 월에 선택되었습니까?	1	0.570014476776123	0
+121	What is the best way to get money?	어떻게 돈을받을 수 있습니까?	1	0.8218317627906799	1
+122	What were the most followed topics on Quora in 2016?	2014 년 Quora에서 가장 다음 주제는 무엇입니까?	0	0.7346829175949097	1
+123	What is the best way to keep a person motivated 24/7?	24 / 7을 동기 부여하는 방법은 무엇입니까?	1	0.7259637713432312	1
+124	How do I speak English fluently?	인터뷰에서 영어를 능가합니까?	1	0.7022749781608582	1
+125	How do terrorist organisations get money?	테러 조직은 어디에서 돈을 얻을 수 있습니까?	1	0.758219838142395	1
+126	Who can hack any website database?	웹 사이트를 해킹하는 방법?	0	0.6424810290336609	1
+127	What are the average salaries for bank probationary officers and clerks?	은행의 교직원 급여는 무엇입니까?	1	0.5762084722518921	0
+128	What is the penalty for driving without a license in Alabama, how do they compare to the penalties in Texas?	알라바마의 라이센스없이 운전에 대한 처벌은 무엇입니까, 그들은 캘리포니아의 처벌과 비교합니까?	0	0.034361332654953	0
+129	What bones are safe for a dog to eat?	뼈를 먹기 위해 개를 건강합니까?	0	0.5878429412841797	0
+130	What are the most interesting products and innovations that L Brands is coming out with in 2016?	스펙트럼 브랜드가 2016 년에 출시 된 가장 흥미로운 제품과 혁신은 무엇입니까?	0	0.27347323298454285	0
+131	When is a proper 3DS emulator going to be launched?	PC 용 Nintendo 3DS 에뮬레이터의 뉴스가 있습니까?	1	0.5636851191520691	0
+132	What can I do to convince my parents to get my love?	내 사랑에 빠지는 것은 어떻습니까?	1	0.591430127620697	1
+133	Do most white people have superiority complex?	대부분의 흰색 사람들은 다른 인종에게 우수하다고 생각합니까?	1	0.6925262808799744	1
+134	How exactly does banning Rs 500 and Rs 1000 notes curb the problem of black money?	500 및 1000 루피 노트의 최신 결정은 정부의 커브 손상을 돕는 방법?	1	0.7653772234916687	1
+135	Forgot my Facebook password and email password. How can I log into Facebook?	나는 페이스 북 암호를 잊어. 나는 그것을 변경하고 싶지 않아, 나는 현재 하나를 복구 할 수 있습니까?	1	0.32210537791252136	0
+136	What universities does Global Indemnity recruit new grads from? What majors are they looking for?	Erie Indemnity는 어떤 대학에서 새로운 그리스를 모집합니까? 어떤 전공이 찾고 있습니까?	0	0.3234977424144745	0
+137	Why haven't they found any shipwrecks in the Bermuda Triangle?	과학자들이 버뮤다 트라이앵글에서 두 개의 유리 피라미드를 발견 한 것은 사실입니까?	0	0.7018348574638367	1
+138	How do I hack a WhatsApp account without having access to victim phone?	내 WhatsApp은 누군가에 의해 해킹되었습니다. 그녀는 어떻게 또는 내 전화를 얻지 않고 어떻게 할 수 있습니까?	1	0.5666216015815735	0
+139	What guarantees are there that the new 500 and 2000 INR can't be duplicated given the quality of the notes?	새로운 Rs. 500 및 Rs. 2000 노트의 보안 기능은 무엇입니까?	1	0.7548251748085022	1
+140	How did Corridor Digital make their stop motion videos?	복도 디지털이 정지 모션 비디오를 만드는 방법?	1	0.5240921974182129	0
+141	What is Coursera?	코스라란? 그것은 유용합니까?	1	0.722205638885498	1
+142	How can I develop patience and love towards reading?	어떻게 책을 읽는 인내를 개발합니까?	1	0.7414229512214661	1
+143	Is the Bible a lie?	성경은 거짓말이 증거가 있습니까?	0	0.685430109500885	1
+144	What are the top five places in San Francisco to get a vegetarian meal for under $10?	샌프란시스코의 상위 5 곳은 10 달러 미만의 식사를 얻을 수 있습니까?	1	0.4325481057167053	0
+145	How can the political situation of the communist nations of today be compared to that of capitalist countries?	오늘날의 통일주의 국가의 정치 상황은 사회주의 국가와 비교할 수 있습니까?	0	0.7242255210876465	1
+146	What should I know before using the USB wifi adapter?	BSL LLB의 첫 해에 대한 추천 책?	0	0.4373133182525635	0
+147	How can I efficiently remember what I have read?	당신이 읽는 것을 기억하는 제일 트릭은 무엇입니까?	1	0.7020099759101868	1
+148	I don't want to study for an exam. What should I do?	왜 시험 전에 공부하고 싶지 않습니까?	1	0.6718018054962158	1
+149	What is the best thing ever?	당신이 이제까지 수행 한 가장 좋은 것은 무엇입니까?	0	0.7868304252624512	1
+150	Can someone still see that I viewed their story if I disabled Instagram?	누군가가 Instagram 이야기를 한 번 보았는지 확인 할 수 있습니까?	1	0.5139783620834351	0
+151	What is your review of Company Culture?	좋은 회사 문화는 어떻게 만들어 졌습니까?	0	0.6829881072044373	1
+152	How do you say a person is matured?	성숙은 무엇입니까?	0	0.6991333961486816	1
+153	What's your absolute favorite song right now….one you can put on repeat and listen to all day long?	반복에 넣기 위해 좋아하는 노래는 무엇입니까?	1	0.6030845642089844	1
+154	How do you find Chhattisgarh News Update?	Chhattisgarh 뉴스는 어디에 있습니까?	0	0.7453314661979675	1
+155	What do you think would be the worst thing that can happen if Trump is elected as president?	도널드 트럼프 대통령에 일어날 수있는 최악의 것은 무엇입니까?	1	0.7607120871543884	1
+156	How can I ask the right questions?	자주 묻는 질문은 어떻게 되나요?	1	0.7546697854995728	1
+157	What is a typical work day like for an Indian Lok Sabha MP while the parliament is in session?	Anglo-Indian 16th Lok Sabha의 이름은 무엇입니까?	0	0.11561469733715057	0
+158	What are some great substitutes for white wine vinegar in a recipe?	흰색 와인 식초에 좋은 대용품은 무엇입니까?	0	0.26661938428878784	0
+159	What is a trusted website for an online data entry job?	온라인 데이터 입력 작업을 어디에서 찾을 수 있습니까?	0	0.4882042109966278	0
+160	What is the curriculum for IAS officers for their training?	IAS 임원은 어떻게 작동합니까?	0	0.689143717288971	1
+161	Is a junior in high school dating a freshman odd?	고등학교에서 수석 남자를 데이트하는 갓만 소녀를 위해 괜찮습니까?	0	0.29056164622306824	0
+162	Why isn't the state Odisha highlighted in the national media as other states?	왜 Odisha는 국가 미디어에 의해 무시됩니까?	1	0.700796902179718	1
+163	What are some of the main components of a computer? What functions do they serve?	컴퓨터의 일부 구성 요소는 무엇입니까?	1	0.5223801136016846	0
+164	What are some of the movies of Hollywood that you must watch?	할리우드의 최고의 10 영화는 얼마입니까?	1	0.7343645691871643	1
+165	What are the qualifications for being an FBI or CIA agent?	FBI 에이전트가 된 것은 무엇입니까?	0	0.39618822932243347	0
+166	Why does Fox News support Donald Trump?	Fox News는 도널드 트럼프를 두려워합니까?	0	0.6581655144691467	1
+167	What is the Deep Web?	깊은 웹은 무엇입니까?	1	0.7326763272285461	1
+168	Is Asperger's Syndrome Autism?	Asperger의 증후군과 autism처럼?	1	0.4208848476409912	0
+169	How can I figure out what I really want to do with my life?	어떻게 나는 인생에서 정말 원하는 것을 알아?	1	0.6725891828536987	1
+170	What do you think about the first presidential debate between Hillary and Trump?	당신이 생각하는 누가 첫 번째 우리 대통령 후보에 지배했다 2016?	1	0.7700799107551575	1
+171	Who would win in a fight: James Bond or Jason Bourne?	Jason Bourne와 James Bond 사이의 싸움에서 승리 할 것인가?	1	0.7180166840553284	1
+172	What are the demands of Maratha kranti morcha?	Maratha Kranti Morcha는 무엇입니까? 정말 원하는 것은 무엇입니까?	1	0.8165730834007263	1
+173	Can humans be immortal?	미래에 : 인간이 임격이 될 수 있습니까?	1	0.6886469721794128	1
+174	How do I make friends with people on Quora?	당신은 Quora에 다른 사람들과 온라인 친구를 만들 수 있습니까?	1	0.7673702239990234	1
+175	How can I learn to build a compiler?	컴파일러를 설계하는 방법을 배우는 방법?	1	0.8278642296791077	1
+176	Why don't people refer Indians as Asians when they are?	왜 대부분의 사람들이 아시아로 인디언을 생각하지 않습니까?	1	0.47898054122924805	0
+177	How does multiple sclerosis affect intelligence?	여러 sclerosis는 인텔리전스/IQ를 감소합니까?	1	0.6918619871139526	1
+178	How do you invest $1000?	$ 1000을 투자하는 가장 좋은 방법은 무엇입니까??	1	0.8291881084442139	1
+179	How do I track a cell phone by number for free?	휴대폰 번호를 어떻게 찾을 수 있습니까?	1	0.7220831513404846	1
+180	What one thing do you want to achieve in your life and why?	인생에서 가장 원하는 한 가지는 무엇입니까? 당신이 그것을 달성하는 것은 무엇입니까?	1	0.6685833930969238	1
+181	What is the best books to prepare UGC Net Computer Science?	UGC-NET 컴퓨터 과학 및 응용 분야에 가장 적합한 책은 무엇입니까?	1	0.6631025671958923	1
+182	What is the best YouTube channel for aptitude and reasoning preparation?	나는 고도에 약합니다. 나는 심지어 작은 문제를 이해하기 위해 투쟁합니다. 개선 할 수있는 가능성이 있습니까?	0	0.5401930212974548	0
+183	Do I have to pay VAT if my company is registered outside the EU, but my bank is in Latvia (in EU)?	내 회사는 유럽 밖에 등록되어있는 경우 VAT를 지불해야하지만, 내 은행은 라트비아에 있습니까?	1	0.02312777005136013	0
+184	How do I remove pimple and acne spots?	여드름과 그들의 반점을 제거하는 제일 방법은 무엇입니까?	1	0.6920053958892822	1
+185	What blogs should you read as a new resident of lower Manhattan?	Manhattan 저렴한 가격으로 현대적인 아파트 목록을 찾을 수 있습니까?	0	0.46839094161987305	0
+186	Why do Indian consultancies in the US fake resumes and market candidates for IT jobs? Why has this practice continued?	이력서를 가짜지 않는 미국에 IT 상담이 있습니까?	0	0.5206676721572876	0
+187	What is difference between an asset management company and a mutual fund company?	포트폴리오 관리 및 상호 자금의 차이점은 무엇입니까?	0	0.3279837965965271	0
+188	What are your best tips to break bad habits?	나쁜 습관을 깰 가장 효과적인 방법은 무엇입니까?	1	0.74884033203125	1
+189	What are the differences between particles and molecules?	Golang의 Sublime Text에서 강조하는 구문을 완전히 끄는 방법?	0	0.5346176624298096	0
+190	What are the chances of getting pregnant on the last day of your period?	여성이 임신을 얻는 가장 높은 기회가있을 때? 이 전 기간, 기간 또는 기간 동안?	0	0.6852594017982483	1
+191	Where is the European Union headquarters?	유럽 연합 (EU) : 러시아가 EU에 가입 할 것인가?	0	0.6301055550575256	1
+192	What is the most cute romantic anime shows?	어떤 귀엽고 재미있는 애니메이션 쇼는 무엇입니까?	0	0.4502100944519043	0
+193	Which regulatory body regulates the gadget insurance business in India?	어떤 신체가 인도와 왜 최고의 비즈니스 학교인지 설명 할 수 있습니까?	0	0.630691647529602	1
+194	What are the uses of carbon nano tubes?	탄소 나노 튜브 기술의 사용은 무엇입니까?	1	0.5307197570800781	0
+195	How do I enter the event management field?	이벤트 관리의 선을 입력하려면 어떻게 합니까?	1	0.7751728296279907	1
+196	Which car services are available in Nashville? How good are they compared to taxis and relative to each other?	어떤 자동차 서비스는 애틀랜타에서 사용할 수 있습니까? 그들은 택시와 다른 사람에 비해 얼마나 좋습니까?	0	0.4827043116092682	0
+197	Is there any way I can earn money online without any kind of investment?	어떻게 투자없이 온라인으로 돈을 벌 수 있습니까?	1	0.8164669275283813	1
+198	When should I prune my roses?	어떻게 내 장미를 prune?	0	0.7175397872924805	1
+199	What is the purpose of enlightenment?	enlightenment의 사용은 무엇입니까?	1	0.6998419165611267	1
+200	What are causes of a snake infestation?	어떤 원인은 축제?	0	0.7327611446380615	1
+201	Why is Katrina Kaif still in Bollywood despite being a bad actor?	왜 Katrina Kaif 그래서 대중은 그녀의 나쁜 행동에도 불구하고?	1	0.5303890109062195	0
+202	Where can I find an online course for digital marketing?	코스라 또는 기타 MOOCs에서 디지털 마케팅을 공부하는 과정은 무엇입니까?	1	0.5200738310813904	0
+203	Can snakes breathe through their mouths?	그들의 코와 그들의 입을 통해 모든 동물 호흡 할 수 있습니까?	0	0.619631290435791	1
+204	What is the stupidest thing you ever did?	당신이 이제까지 수행 한 가장 어려운 것은 무엇입니까?	1	0.7678682208061218	1
+205	What can one do to improve sense of humour?	어떻게 유머의 감각을 개발할 수 있습니까?	1	0.8709127306938171	1
+206	Who would win in a fight between Lord Voldemort and Darth Vader?	누가 승리 할 것, Darth Vader 대 Lord Voldemort?	1	0.6586151719093323	1
+207	Will there really be any war between India and Pakistan over the Uri attack? What will be its effects?	전쟁이 인도와 파키스탄 사이에 일어나는 경우, 어떻게 경제적으로 일반적인 남자를 효과 할 것인가?	1	0.6956121921539307	1
+208	What should we do after engineering?	엔지니어링 후 무엇을 할 수 있습니까?	1	0.7524294257164001	1
+209	How should I stop masturbating?	어떻게 masturbations를 중지 할 수 있습니까?	1	0.8149310946464539	1
+210	How can we start a business by zero?	비즈니스를 시작하는 몇 가지 방법은 무엇입니까?	0	0.7122584581375122	1
+211	What is Deep Panda?	Baya panda는 무엇입니까?	0	0.7302498817443848	1
+212	What are your most interesting travel stories?	흥미로운 여행 이야기는 무엇입니까?	1	0.6070244908332825	1
+213	What does India think of Donald Trump?	인도는 도널드 트럼프에 대해 생각합니까?	1	0.732440173625946	1
+214	Who won the first 2016 debate?	도널드 트럼프는 첫 번째 대통령의 논쟁에 빠졌습니까?	1	0.6603192090988159	1
+215	How Can I clear CA IPCC group 2 in 20days?	IPCC의 명확한 그룹 2를 공부해야 하나요?	1	0.5708453059196472	0
+216	How did you come out as gay to your family?	어떻게 가족에 왔습니까? 어떻게 가족이 그것을 가지고 있었습니까?	1	0.5295925140380859	0
+217	Does intuition really work?	수업료가 있습니까?	1	0.7734441757202148	1
+218	What are the best bikes on 2016?	2016 년 최고의 자전거 발명은 무엇입니까?	1	0.7980848550796509	1
+219	What are the best MBA colleges in Coimbatore?	odisha에서 최고의 MBA 대학은 무엇입니까?	0	0.7608672976493835	1
+220	What are the courses after b.com?	B.Com 후 최고의 코스는 무엇입니까?	1	0.31188079714775085	0
+221	What's it like to work at Best Buy for your first job?	Best Buy를 위해 일하고 싶습니까?	1	0.6464070081710815	1
+222	How can a boy become the world's youngest billionaire?	누가 세계에서 가장 젊은 기업가?	1	0.6773321032524109	1
+223	I'm helping a boy in my school that is overweight and is being bullied. I think he started getting feelings for me, what should I say?	나는 소년을 매우 사랑하고 나는 그가 나를 좋아한다고 생각합니다. 그러나 나는 그를 사랑한다고 말할 준비가되어 있지 않습니다. 왜 내 감정에 대해 그에게 말할 수 없습니까?	0	0.09135717898607254	0
+224	How can I improve my English skills in communication and writing?	어떻게 통신 기술과 쓰기 능력을 향상시킬 수 있습니까?	1	0.8362799286842346	1
+225	Which is the best way to concentrate on studying or doing something?	연구에 집중하는 가장 좋은 방법은 무엇입니까?	1	0.7803078293800354	1
+226	What are the chances of getting a job in Australia if I get a PR visa?	나는 호주 영주권 (PR)을 얻는 방법?	0	0.36561429500579834	0
+227	How do Facebook victims sue for loss of earnings?	Facebook 피해자가 손실에 대해 어떻게해야합니까?	1	0.6130520701408386	1
+228	Do young people listen to Beatles music?	왜 흰색 사람들이 듣고 영혼 음악을 재생합니까?	0	0.5916730165481567	1
+229	I'm currenty persuing MBA in foreign trades (2nd year) and looking for internship in Pune. Can someone suggest me few internship options?	왜 우리는 우리가 죽으면 우리의 개성을 복사 할 우리에게 외계인이 있다고 믿고있는 많은 사람들이?	0	0.40206798911094666	0
+230	What Sims 4 expansion packs are best?	Fallout 4 게임에서 최고의 동반자는 누구입니까?	0	0.6632013320922852	1
+231	Is beard oil effective?	beard Oil을 사용하여 피부에 유해합니까?	0	0.6333974003791809	1
+232	Which is better and why: KMC, Manipal or KMC, Mangalore?	KMC Manipal과 KMC Mangalore의 차이점은 무엇입니까?	1	0.3663616180419922	0
+233	How do I get more views on youtube video?	어떻게 내 비디오에 트래픽을 얻을 수 있습니까?	1	0.8209829926490784	1
+234	How can we find a refrigerator service center in Hyderabad?	Hyderabad의 최고의 냉장고 서비스 센터는 무엇입니까?	1	0.6821408867835999	1
+235	How can I work in Microsoft?	Microsoft에서 일자리를 얻는 방법은 무엇입니까?	1	0.7069197297096252	1
+236	Should you cook ham?	햄을 요리하는 가장 좋은 방법은 무엇입니까?	0	0.7059841752052307	1
+237	How do I find a basic purpose in my life?	인생의 목적은 어떻게 되나요?	1	0.7911906838417053	1
+238	Does Lipton green tea Assist in weight loss?	녹차는 체중 감량에 정말 도움이됩니까?	1	0.5584003329277039	0
+239	What kind of job should a mechanical engineer get in isro?	어떻게 기계 엔지니어가 ISRO로 얻을 수 있습니까? 그가 / 그녀가에서 얻는 경우, 어떤 종류의 작업이 수행 될 것인가?	1	0.4119609594345093	0
+240	What is it like to go through Course 15 at MIT?	MIT에서 코스 12를 통과하고 싶습니까?	0	0.6027244925498962	1
+241	What are some major pros/cons of Cloudera vs. Hortonworks as a Hadoop platform for a main street (e.g. not Silicon Valley giant) enterprise?	Cloudera 또는 Hortonworks를 사용하지 않는 이유는 무엇입니까?	0	0.3709443211555481	0
+242	What were the effects and consequences of the Agricultural Revolution?	누가 농업 혁명을 주도? 장기 효과는 무엇입니까?	1	0.7137414216995239	1
+243	Do I have to dispute a public record on each credit report individually?	로마의 초기화가 로마에서 공학의 사랑과 함께 기본 기초를 얻었습니까?	0	0.4360593855381012	0
+244	How should I prepare for BANK PO exam?	무슨 일이 일어 났는가? 어떻게 대결 농구 선수에 반응 할 수 있었습니까?	0	0.7206303477287292	1
+245	Can I do second year degree after completeing my AME course?	BITS Pilani의 순수 과학 과정을 1 년 완료 한 후 엔지니어링 과정 중 하나에 가입할 수 있습니까?	0	0.6817101240158081	1
+246	"""Why is """"Foster's Home for imaginary friends"""" forgotten?"""	왜 Foster's Home for Imaginary Friends 만화는 잊어 버렸습니까?	1	0.6047223806381226	1
+247	Is it possible to explain, in layman's terms, the uses of a writ of habeas corpus? Is it ever morally acceptable to suspend it?	"""미국에서 """"habeas corpus""""의 패러다임 행위는?"""	0	0.79754239320755	1
+248	What are some unexpected things first-time visitors to Nigeria notice?	어떤 예기치 않은 것들은 호주의 통지에 처음 방문자입니까?	0	0.41307246685028076	0
+249	Why does pointers are excluded in Java?	왜 Java에서 사용되지 않나요?	1	0.7260131239891052	1
+250	How can I be a badass like harvey specter?	Harvey Specter와 어떻게 더 많은가요?	1	0.7620251178741455	1
+251	What is the embarrassing of your life?	당신의 가장 embarrassing 순간은 무엇입니까?	1	0.7905038595199585	1
+252	I have lost my PAN card and I also forgot my PAN number. What is the procedure to reissue a PAN card?	PAN 번호없이 ATM 카드를받을 수 있습니까?	0	0.15577660501003265	0
+253	Do I Get unreserved ticket in Jan Shatabdi Express?	RLWL 상태표를 쉽게 확인할 수 있습니까?	0	0.6574002504348755	1
+254	What Armenians think about Arabs?	무엇 Turks는 Arabs에 대해 생각합니까?	0	0.719631552696228	1
+255	What are some alternatives to appmakr.com?	healthprofs.com에 대안은 무엇입니까?	0	0.5606253743171692	0
+256	What is the best way to get experience in cyber security?	인터넷 보안에 어떻게 얻을 수 있습니까?	1	0.8165686726570129	1
+257	Which games on PS4 support 2 player split-screen?	분할 화면에서 국경 2를 재생하는 방법은 무엇입니까?	0	0.6636368036270142	1
+258	How does one represent Pakistan in a Model UN?	UN 모델에서 중국을 대표하는 방법은 무엇입니까?	0	0.46407559514045715	0
+259	Why can't I stop thinking about someone?	왜 누군가에 대해 생각하지 않을 수 있습니까?	1	0.7470152974128723	1
+260	Are HP laptops worth buying?	HP 노트북은 어떻게 되나요?	1	0.6083633303642273	1
+261	How do I get into construction?	어떻게 건설 세계에 도착합니까?	1	0.7570012211799622	1
+262	What is the reason why Martin Luther King Jr. is famous?	자동차 산업을 설치하는 비용은 얼마입니까?	0	0.6041959524154663	1
+263	Who were some of the most influential women in history?	역사상 가장 영향력있는 여성은 누구입니까?	1	0.6718815565109253	1
+264	How can I be a doctor?	어떻게 의사가 될 수 있습니까?	1	0.8308699131011963	1
+265	How would I increase my height aftr 18?	내 높이를 늘리는 것은 어떻습니까?	1	0.7166868448257446	1
+266	What is a good broker for people living abroad?	해외에 사는 것은 어떻습니까?	0	0.4896797835826874	0
+267	Which is the best site to download movies?	최고의 웹 사이트 중 일부가 영화를 다운로드 할 수 있습니까?	1	0.6464594602584839	1
+268	What is the most funny joke you have ever heard?	당신이 들었거나 읽을 때 가장 재미있는 농담은 무엇입니까?	1	0.7611734867095947	1
+269	Can we time travel?	언제 여행 할 수 있습니까?	1	0.7179443836212158	1
+270	How could I be fluent in English?	어떻게 내 영어를 향상시킬 수 있습니까?	1	0.8319544792175293	1
+271	How do I stop eating junk food?	나는 정크 음식을 위해 내 cravings를 중지합니까?	1	0.6631187200546265	1
+272	How can I get people to buy from my website?	어떻게 내 웹 사이트에서 구매하는 사람들을 얻을?	1	0.7466217875480652	1
+273	Why does Quora limit my question details to 300 characters?	왜 질문에 대한 Quora에 가입 제한이 있습니까?	1	0.7745349407196045	1
+274	What happens when a candidate gets tr,and if he corrects it,then how its updated at the time of final merit?	그는 파란색에서 나를 미소한다면 무엇을 의미합니까? 갑자기 그는 나를 뒤로 움직이고 미소에 덩어리를 돌릴 때?	0	0.39894455671310425	0
+275	Why are people ever so eager to ask questions about Narendra Modi on Quora?	왜 사람들은 Narendra Modi에 대해 많은 질문을합니까?	1	0.7607183456420898	1
+276	Which things you dislike on Quora?	왜 Quora를 좋아하지 않습니까?	1	0.5809429883956909	0
+277	What should I do if lost my Social Security card? What documents do I need for a replacement Social Security card?	나는 몇 달 전에 소셜 보안 카드를 잃었다, 나는 무엇을해야합니까?	1	0.4519087076187134	0
+278	What's your favorite political joke?	좋아하는 농담은 무엇입니까?	0	0.6238784193992615	1
+279	What happens when you forgive?	우리가 용서하지 않을 때 어떻게됩니까?	0	0.6749746203422546	1
+280	Who do you think will win Trump or Clinton?	누가 선거, 트럼프 또는 클린턴을 승리 할 것입니까?	1	0.7719812393188477	1
+281	What side dishes should be served with Mac and cheese?	어떤 종류의 측면 접시가 Mac N' Cheese로 큰가요?	1	0.5950711965560913	1
+282	Is management quota available in Symbiosis pune, JBIMS, SP.JAIN for MBA ?	symbiosis에서 통신 관리 MBA. 가치가 있습니까?	0	0.5744357109069824	0
+283	Is it possible to change India's name into Hindustan or Bharath?	인도가 Bharat/Hindustan에 이름을 변경해야합니까?	1	0.5668323040008545	0
+284	Does Zika Virus permanently affect a person from having children?	Zika 바이러스의 의사가 어떻게 생각합니까?	0	0.6889414191246033	1
+285	Where do US political parties stand today?	"미국의 주요 정치 당사자의 ""reputations""는 정확하게 그들이 서있는 아이디어를 나타냅니다?"	0	0.6441196799278259	1
+286	What is some historical evidence that Jesus existed?	예수님의 존재에 대한 증거는 무엇입니까?	1	0.6835052967071533	1
+287	What are the post study work options in the UK for an undergraduate international student?	영국은 국제 학생들을위한 Post Study 비자를 열 수 있습니까?	1	0.6228886246681213	1
+288	What is the Sahara, and how do the average temperatures there compare to the ones in the Karakum Desert?	사하라는 무엇이고, 평균 온도는 Thar Desert에서 한 사람과 비교합니까?	1	0.7884305715560913	1
+289	Who invented TV?	누가 TV를 발명 했습니까? 올해 발명 된 것은 무엇입니까?	1	0.5847244262695312	0
+290	Which are some good laptops around 50k with solid state hard drive?	"""나는 무료 전자 책을 다운로드 할 수 있습니다""PLANT ENGINEER'S REFERENCE BOOK""?"""	0	0.6107885241508484	1
+291	What should I do for belly fat?	배꼽 지방을위한 최고의 운동은 무엇입니까?	1	0.8050097823143005	1
+292	Am I lactose intolerant?	lactose intolerance를 막을 수 있습니까? 어떻게?	0	0.6837182641029358	1
+293	Was Navjot Singh Sidhu banned from international Cricket Commentary?	왜 Navjot Singh Sidhu는 국제 크리켓 논평에서 금지되었습니까?	1	0.502026379108429	0
+294	I was chatting with a guy on tinder for a week or so, & he then disappeared from my matches which took me by surprise. Unmatched?	누군가를 잡을 때 tinder에, 그 사람을 검색하는 방법이 있습니까?	0	0.09940335154533386	0
+295	How many Pakistanis can speak Punjabi?	왜 파키스탄은 Punjabi를 말하는가?	0	0.604716956615448	1
+296	Is it common for kids to get headaches?	왜 나는 높은 탄수화물을 먹는 후에 두통을 얻습니까?	0	0.6443326473236084	1
+297	What are the best books to prepare for CLAT 2017?	CLAT 2017을 준비하는 가장 좋은 책은?	1	0.7392418384552002	1
+298	What is the ratio of lesbians to gay men?	게이 남자와 레즈비언 사이의 사랑은 직선 사람들보다 다른 감정적입니까? 그렇다면, 어떻게?	0	0.2429172694683075	0
+299	How do I calculate interest rate from emi manually?	계산기를 사용하여 수동 계산으로 전체 건물을 어떻게 설계합니까?	0	0.4755655527114868	0
+300	Is time the fourth dimension?	4 차원은 어떻게 입니까?	1	0.6693935394287109	1
+301	Why do most people become sad when it rains?	왜 비가 울 때 슬프게합니까?	1	0.6635007858276367	1
+302	Which is the best mobile phone to gift your parents?	어떤 휴대 전화가 내 부모에게 선물하는 것이 가장 좋습니까?	1	0.6471565365791321	1
+303	Dark Souls I: Chaoshander or Lightninghander?	Dark Souls 시리즈의 플롯은 무엇입니까?	0	0.647629976272583	1
+304	Did Ben Affleck shine more than Christian Bale as Batman?	배트맨이 더 잘 묘사 된 것을 누가 생각합니까? Christian Bale 또는 Ben Affleck?	1	0.4196898639202118	0
+305	How far will technology advance within the next 50 years?	기술이 향후 50 년 동안 어떻게 될까요?	1	0.7270233035087585	1
+306	Which is the best web designing services in Hyderabad?	Hyderabad에서 최고의 웹 디자인 서비스를 제공합니까?	1	0.6581733226776123	1
+307	Which one is better to learn, British English or American English?	배우는 것이 더 낫습니다, 미국 영어 또는 영국 영어?	1	0.7169511914253235	1
+308	Which is the best romantic book?	어떤 좋은 낭만적 인 소설?	1	0.5724015235900879	0
+309	How can you tell if someone is a psychopath?	나는 심리학이라면 어떻게 알 수 있습니까?	1	0.7614388465881348	1
+310	Which tech companies give out the best bonuses?	어떤 기술 회사는 최고의 보너스 또는 주식을 포기?	1	0.70950847864151	1
+311	Instagram reset my password and sent a mail to the registered mail @gmal.com and not @Gmail.com. Instagram support wont answer me anymoresomeone help?	웹 사이트가 종종 변경 될 때 어떻게 알 수 있습니까?	0	0.052105266600847244	0
+312	Why did God create mosquitoes?	그것은 항상 신이 세계에서 존재하고 그 이유에 대해 모든 생물을 만들었습니다. 그래서 왜 신이 모기를 만들었습니까?	1	0.6443610191345215	1
+313	Can the level of economic development represent the level of civilization? Assuming your answer is no, explain why?	경제 개발의 수준은 문명의 수준을 나타냅니다?	1	0.5896741151809692	0
+314	Why do some people still use Windows laptops when they can afford a MacBook?	사람들이 Windows PC에서 Mac으로 전환하지 않는 이유는 무엇입니까?	0	0.6647098064422607	1
+315	What is your review of The Poona Pact Between Dr BR Ambedkar and Mahatma Gandhi?	Poona Pact의 리뷰는 무엇입니까?	1	0.22478194534778595	0
+316	What is the transpose of a matrix ?	어떻게 이동에 매트릭스 transpose합니까?	0	0.6965270042419434	1
+317	Who enjoys sex more, men or women?	누가 성별 더, 남자 또는 여자와 왜?	1	0.4746832549571991	0
+318	How to have the perfectionist attitude of the Japanese?	태도가 여자 친구를 찾는 것이 중요하다면, Adolf 히틀러가 너무 많은 것을 갖는 방법은 무엇입니까?	0	0.5077087879180908	0
+319	Which is the best restaurant for a fine dine in Bangalore?	방갈로르에서 점심을 위한 최고의 레스토랑은?	0	0.7184147238731384	1
+320	What kind of mental torture do you face in your college?	누구나 내 자전거에 대 한 나를 제안할 수 있습니다. 저렴 한 GPS 트랙어 인도에서 월 구독 없이?	0	0.6730054616928101	1
+321	What are the data sources of LinkedIn big data architecture?	LinkedIn의 큰 데이터 아키텍처의 데이터 소스는 무엇입니까?	1	0.25474002957344055	0
+322	What do software developers miss when switching from Linux to Mac OS?	주요 기능은 Linux (Ubuntu) 사용자가 Mac OS X로 이동할 때 놓을 것입니까?	1	0.36559346318244934	0
+323	How do I sign out of auora?	Quora에서 어떻게 로그 아웃합니까?	1	0.7457975745201111	1
+324	How can I have more casual sex in India?	나는 인도에서 여자와 캐주얼 성별을 가질 수 있습니까?	1	0.622236967086792	1
+325	Why is it a fad of being Introvert in Indian Youth these days?	새로운 냉각을 소개하고 있습니까?	1	0.671360433101654	1
+326	How will the customer and operator information be sent from Lync Server to SFDC, if we use Lync Server and not Lync client?	고객 및 운영자 정보는 Lync Server에서 SFDC로 전송됩니다. Lync Client를 사용하고 Lync Server가 아닌 경우?	0	0.4526452124118805	0
+327	How can i stop thinking about something/someone ?	뭔가 / 걱정에 대해 생각할 수 있습니까?	1	0.7739761471748352	1
+328	If you are given a wish to choose one super-power, what will you choose?	당신은 하나의 슈퍼 파워를 선택할 수 있습니다. 그것은 무엇입니까?	1	0.6712782382965088	1
+329	If someone who you're messaging on OkCupid disables their account does that mean they blocked you?	누군가가 OkCupid 계정을 삭제하면 그들은 내 좋아하는 목록에서 사라졌습니까?	0	0.47071996331214905	0
+330	Should I buy unboxed iphone 6 16 gb from www.surpluss.in? Would it be a new piece?	그것은 16 GB와 아이폰 6을 구입하고 저장 문제를 방지하기 위해 전화에 I 클라우드 스토리지의 200 GB에 가입하는 것이 좋습니다?	0	0.5625643730163574	0
+331	Why ISPs provide high speed for YouTube and torrent only, and not other sites?	왜 토렌트는 고속 인터넷에서 느린 속도를 보여줍니다?	0	0.6564030051231384	1
+332	Why we keep on living despite the fact that life makes no sense, and is mostly made of suffering (before death)?	모든 고통과 고통에도 불구하고 살아가는 우리의 삶은?	1	0.5737683176994324	0
+333	How can I unlock an iPhone without knowing the Apple ID or password?	내 iPhone은 저에게 앱을 다운로드하지 않습니다. Apple ID가 잠겨 있다고 말합니다. 이 문제를 해결하는 방법을 알 수 있습니까?	0	0.42927098274230957	0
+334	How can I prepare for amcat exam for electronics and communication stream? Can you suggest some websites for previous papers and preparation?	왜 나는 목록 강의 때 매우 잘 이해하지 않습니다.	0	0.6028704643249512	1
+335	In what ways is CNN biased, if it is?	CNN 솔직히?	0	0.7747318148612976	1
+336	Why were bikinis invented?	비키니는 어떻게 발명 했습니까?	1	0.6813074350357056	1
+337	How is the work culture?	일 문화는 어떻습니까?	1	0.6546849608421326	1
+338	What are real tips to improve work life balance?	작업 수명 균형을 만드는 가장 좋은 방법은 무엇입니까?	1	0.7672258019447327	1
+339	Which is the best movie of 2016?	어떤 영화는 2016의 최고의 영화입니까?	1	0.773175835609436	1
+340	How can I increase the traffic to my website?	웹 사이트에 트래픽을 얻는 방법?	1	0.6762773990631104	1
+341	Why is a dog year equal to 7 human years and what are the reasons behind this?	개는 1 년마다 7 세의 진정한 것입니까?	1	0.628585696220398	1
+342	How can I ask the right questions in any situation?	자주 묻는 질문(FAQ)	1	0.7189933061599731	1
+343	How can I develop an American accent?	미국의 악센트와 대화하는 가장 좋은 방법은 무엇입니까?	1	0.8074840903282166	1
+344	What is the difference between the different roles of software development?	게임 개발자와 소프트웨어 개발자 사이의 급여는 얼마입니까?	0	0.5776294469833374	0
+345	Why is salt water taffy candy imported in France?	왜 소금물 taffy candy는 오스트리아에서 수입됩니까?	1	0.6334513425827026	1
+346	How do I find a job for post of an Odoo developer as a MCA Fresher in Ahmedabad?	하나님은 동물을 지옥으로 보냅니다?	0	0.3083244264125824	0
+347	Why are most first basemen left handed?	야구 왜 가장 첫 번째베이스 남자는 왼손?	1	0.6266513466835022	1
+348	Does Reliance Power provide a job after the internship?	스티브 로스는 오늘?	0	0.533298134803772	0
+349	Why do people ask questions on Quora that are easily to find answers too on Google?	왜 사람들은 이미 Google이있을 때 Quora를 사용합니까?	1	0.797065019607544	1
+350	What kind of person are you?	누구든지 좋아할 사람의 종류는 무엇입니까?	0	0.5879319310188293	0
+351	How can I turn on Find My iPhone if I don't have my phone?	iPhone 4에서 어떻게 설정합니까?	0	0.7340900301933289	1
+352	How do I start my own IT business/startup in India?	인도에서 IT 회사를 어떻게 시작할 수 있습니까?	1	0.7395835518836975	1
+353	What is the best way to rent a Tata ace in Bangalore?	방갈로르의 타타 에이스를 예약?	1	0.6005133986473083	1
+354	Do you know what is hair transplant?	머리 이식은 무엇입니까?	1	0.5792694687843323	0
+355	What is your favorite movies of all times?	어떤 영화가 나는 시계를 추천합니까?	1	0.7217158675193787	1
+356	What are the different domains in computer science field?	컴퓨터 과학의 시스템 분야에서 어떤 지역이 와서 프로그램 분석은 시스템의 도메인 아래에서 온다?	0	0.4191737174987793	0
+357	What can I do to learn all about cars?	자동차에 대해 어떻게 배울 수 있습니까?	0	0.8536126017570496	1
+358	What should you say when hearing someone has died?	누군가가 현실 쇼에서 사망 했습니까?	0	0.6067796945571899	1
+359	If energy is not conserved in an expanding universe, can infinite energy be created? Is it potential energy or potentiality infinite?	어두운 에너지가 확장으로 생성되면 생성 될 수 있습니까?	1	0.5962872505187988	1
+360	How many religions are there in the world? What are they?	세계에서 몇 가지 종교가 있습니까? 어느 것이 맞습니까?	1	0.7641894817352295	1
+361	How do you start a conversation with a girl in public?	내가 좋아하는 여자와 대화를 할 수있는 것은 무엇입니까?	1	0.5588549971580505	0
+362	What should you do if you want to lose a lot of weight?	나는 어떻게 무게를 효율적으로 잃을 수 있습니까?	1	0.7225222587585449	1
+363	How do you convert silver grams to ounces?	그램을 온스로 변환하는 방법은?	1	0.6705551743507385	1
+364	What is a good text editor?	최고의 텍스트 편집기는 무엇입니까?	1	0.6884787082672119	1
+365	How do you set up voicemail on an iPhone?	어떻게 내 iPhone에서 음성 메일 경고를 활성화 할 수 있습니까?	1	0.593113124370575	1
+366	What is the best way to make more money?	빠른 현금을 만드는 가장 좋은 방법은 무엇입니까?	1	0.7254378795623779	1
+367	What is the best memory you have with your sibling?	최고의 기억은 당신의 형제 / sister를 가지고 있습니까?	1	0.697265625	1
+368	What are some good YouTube channels to study inorganic chemistry for IIT JEE?	IIT JEE에 대한 무기 화학을 연구하는 몇 가지 좋은 YouTube 채널은 무엇입니까?	1	0.5101195573806763	0
+369	Which is a good solar panel installation provider near Sunland, California CA?	Angels Camp, California CA 근처의 좋은 태양 전지 패널 설치 제공 업체는 무엇입니까?	0	0.512330949306488	0
+370	What is a Jewish red tent?	붉은 텐트는 유대인 사람들에게 무엇을 의미합니까?	1	0.6303879022598267	1
+371	What are the differences between being nervous and being anxious?	신경과 불안의 차이는 무엇입니까?	1	0.7001596689224243	1
+372	How can we mathematically prove that in a collapsing universe the entropy still increases?	왜 우주가 수축 될 때 entropy가 성장합니까?	1	0.7051801681518555	1
+373	Which is best movie?	당신이 본 최고의 영화는 무엇입니까?	0	0.740689218044281	1
+374	How much do I get payed on live.ly?	Uber 드라이버가 얼마나 많은 돈을 벌 수 있습니까?	0	0.7262313961982727	1
+375	What do you look for in a company before investing?	중요한 지표는 투자하기 전에 회사에서 살펴볼까요?	1	0.6834453344345093	1
+376	How could I wake up early in the morning?	아침 일찍 도착합니까?	1	0.60916668176651	1
+377	What are the topics covered under core Java?	Java를 배우려면 어떻게 해야 하나요?	0	0.6916149258613586	1
+378	How can I transfer money from Chase account to someone else's account in another bank?	One Chase 계정에서 다른 계좌로 송금하는 방법은 무엇입니까?	0	0.5607362985610962	0
+379	What is a suitable solar panel installation provider near Cornville, Arizona AZ?	Chandler, Arizona AZ 근처에 적합한 태양 전지 패널 설치 제공 업체는 무엇입니까?	0	0.5873987674713135	0
+380	Where can I find free stock photos?	어디서 무료 재고 사진을 찾을 수 있습니까?	1	0.6519139409065247	1
+381	Can I apply for internet banking in Andhra bank without visiting the branch?	Andhra Bank는 국가 은행입니까? 어떻게 작동합니까?	0	0.33559295535087585	0
+382	Do those fire cupping therapies really work?	중국 컵 치료는 실제로 작동합니까?	1	0.6392406225204468	1
+383	What would be the condition now in Middle East if there was no crude oil found?	중동은 기름이 없었다면 무엇을 좋아할까요?	1	0.31043529510498047	0
+384	In 2017 what could possibly the upcoming features in WhatsApp?	WhatsApp의 새로운 다가오는 특징은 무엇입니까?	1	0.725150465965271	1
+385	Which are some of the funniest questions on Quora?	Quora에 대해 궁금한 점은 무엇입니까?	1	0.7639268636703491	1
+386	Is it legal to run a red light at intersections in order to yield the road to emergency vehicles?	비상 차량에 대한 방법을 만들기 위해 빨간색 빛을 실행하는 것이 합법적입니까?	1	0.4227164387702942	0
+387	Why has the Tata Sons Board voted to remove Cyrus Mistry as chairman?	왜 Cyrus Mistry가 Tata Sons 회장으로 제거되었습니까?	1	0.6829347610473633	1
+388	How challenging is the one year MBA program at Great Lakes? I have been away from academics for a few years. Would I be able to cope up?	ISB는 8년 이상의 경험을 가진 사람들을 위한 ISB에 배치하는 방법, 특히 IT 기업에서 오는 사람들을 위해? 나는 IT 기업에 있는 경험의 8 년이 있고 MBA 프로그램 관리 포스트에 기능적인 교대를 찾고 있습니다. 몇몇 통찰력을 공유하고 있는 어떤 alum/current 학생든지 할 수 있습니까?	0	0.21373417973518372	0
+389	What interview questions are likely to be asked to a preschool teacher?	어떤 질문은 유치원 교사가 될 때 면접 할 가능성이 있습니까?	1	0.7264510989189148	1
+390	What's the way to lose belly fat?	벨리, 복부 및 허벅지 지방을 줄이고 제거하는 가장 좋은 방법은 무엇입니까?	0	0.7462666034698486	1
+391	What is it like to be president of the USA?	미국의 대통령이되는 것은 무엇입니까?	1	0.7181804180145264	1
+392	Who was behind the invention of the light bulb?	누가 전구를 발명 했습니까? 아이디어가 그들에게 어떻게 왔습니까?	1	0.6307152509689331	1
+393	Do thoughts take physical space in our brain? If so, can the brain be full (like a hard disk drive)?	메모리는 하드 드라이브의 파일과 같은 우리의 두뇌에서 공간을 차지하고 기억과 다른 정보를 저장하기 위해 우리의 두뇌의 용량에 한계가 있습니까?	1	0.49407216906547546	0
+394	Why does light have a dual nature?	왜 electrons와 빛은 이중 성격을 보여줍니다 (파 같이 그리고 입자 같이 재산)?	1	0.4847326874732971	0
+395	How do I really make money online?	온라인 여분의 돈을 벌 수있는 몇 가지 쉬운 방법은 무엇입니까?	1	0.7720460891723633	1
+396	How do I learn German in Mumbai?	뭄바이에서 독일어를 배우는 인정 기관은 무엇입니까?	0	0.6986632943153381	1
+397	What are the best solutions to traffic jam issues in large cities?	지하철 도시의 교통 잼을위한 최고의 가능한 솔루션은 무엇입니까?	1	0.6208653450012207	1
+398	For you what is the meaning of life?	삶의 의미는 무엇입니까? (매혹적이고 논리적으로)	1	0.7341497540473938	1
+399	What is Hillary Clinton’s plan for the budget at NASA?	NASA의 Hillary Clinton 및 Tim Kaine의 계획은 무엇입니까?	1	0.7027177810668945	1
+400	What are the most common symptoms of twisted stomach in humans? How is the surgery made?	인간에서 비틀어진 위장의 가장 일반적인 증상은 무엇입니까?	1	0.4426305294036865	0
+401	Does the Milky Way Galaxy have an orbit? What about our universe?	은하수는 어떤 곳을 닮았습니까?	1	0.7045127153396606	1
+402	What is the best time of day to go on a walk?	산책을 할 때 가장 좋은 시간은?	1	0.7643287181854248	1
+403	How will China respond if India stop sharing water with Pakistan (Indus Waters Treaty)?	인도가 Indus 물 조약을 취소하면 파키스탄과 인도의 총 효과는 무엇입니까?	1	0.589417040348053	0
+404	What is the qualification required for appearing in the GMAT?	GMAT의 자격은 무엇입니까?	1	0.5511714220046997	0
+405	Why Cyrus Mistry has been replaced by Ratan Tata?	왜 TATA 아들은 Cyrus Mistry를 Ratan TATA로 대체합니까?	1	0.6142854690551758	1
+406	How do you teach your child to handle bullies?	나는 내 아이를 가르치는 것은 황소를 처리하는 방법?	1	0.5708703994750977	0
+407	Where can I buy Visa e-gift cards?	어디에서 비자 기프트 카드를 살 수 있습니까?	1	0.6184123158454895	1
+408	Can I give my dog aspirin for pain relief? If so, will he suffer any side effects?	그것은 내 개에게 아기 아스피린을주고 얼마나 자주 나는 그에게주는 것이 안전합니까?	1	0.6766501069068909	1
+409	Could you give me some advice?	당신은 스마트 할 수있는 몇 가지 조언을 줄 수 있습니까?	0	0.7237179279327393	1
+410	What is the best way to help a friend who is suffering from depression?	심각한 우울증을 경험하는 친구는 어떻게 도울 수 있습니까?	1	0.684952974319458	1
+411	Why are there still families in Aleppo?	윌 힐러리는 사람들이 성 일을하는 데 도움이되지 않는 것은 교통 노력에 잡을 수 있습니까? 당신은 당신이 수행 한 마진 사람들에게 상처를주고 있습니까?	0	0.7028900980949402	1
+412	Why do people ask such questions here on Quora which could be easily found on the internet?	왜 사람들이 간단한 Google 솔기에 의해 쉽게 찾을 수있는 Quora에 질문을 할 수 있습니까?	1	0.767168402671814	1
+413	What is the most undeniable proof of alien existence?	외계인 / extraterrestrial Life의 증거 또는 증거가 있습니까?	1	0.6511744856834412	1
+414	Which country in the world has the best education system and why?	어떤 국가는 놀라운 교육 시스템이 있습니까?	1	0.7712639570236206	1
+415	How is software design different from web design?	Diffrence betweem 웹 디자인 및 그래픽 디자인.?	1	0.5727459192276001	0
+416	What is the oxidation number of nitrogen atoms in NH4NO3?	N2O의 산화 수는 무엇입니까?	0	0.31433773040771484	0
+417	How can I learn new things?	어떻게 뭔가를 배울 수 있습니까?	1	0.8610453605651855	1
+418	How do I know whether a guy is cheating on me or no?	파트너가 되었거나 여전히 당신을 속임수하는지 어떻게 알 수 있습니까?	1	0.7196726202964783	1
+419	Can India ever get back the part of land that the world recognizes as Pakistan? Is it a real possibility?	인도는 파키스탄과 중국과 같은 이웃에서 점유 한 땅을 얻을 수 있습니까? 예, 방법?	1	0.6837438344955444	1
+420	What is it like to work at NOV Tuboscope, Singapore?	싱가포르의 소셜 업무에서 학위를 취득할 가치가 있습니까?	0	0.5286290645599365	0
+421	What is the best way to get a government job?	정부의 일자리를 얻는 것은 무엇입니까?	1	0.7499129772186279	1
+422	I have LG G Pro2 smartphone &want to use Reliance's Jio free voice. How to get free calls from Jio? Is there any software patch I can apply?	eBook을 게시한 후 어떻게 해야 하나요?	0	0.4338395297527313	0
+423	How do you use copyrighted music on youtube?	YouTube에 저작권 된 노래를 포함하는 비디오를 업로드하는 방법이 있습니까?	1	0.4785967171192169	0
+424	How do I trace a phone call?	좋은 정확도로 실시간으로 전화를 추적하는 방법은 무엇입니까?	1	0.6845618486404419	1
+425	I write stories, and I am still an amateur. I have recently started a WordPress blog for my stories, and I want to increase traffic on this blog. What are the ways to do it?	나는 창조적 인 작가입니다. 최근에 내 자신의 블로그를 시작하고 내 블로그에 대한 트래픽을 얻기를 원합니다. 어떻게 트래픽을 얻을 수 있습니까?	1	0.21116162836551666	0
+426	What is there in the Bermuda triangle?	버뮤다 트라이앵글은 어디에 있습니까?	1	0.6429597735404968	1
+427	Can you see who views your Instagram videos?	Instagram에서 비디오를 볼 수 있습니까?	1	0.7993543148040771	1
+428	Enter the US on B1/B2 visa when my I-129 petition has been submitted by my company solicitor?	I-130 청원이 내 회사 solicitor에 의해 제출 된 경우 B1 / B2 비자에 미국을 입력 할 수 있습니까?	0	0.5084563493728638	0
+429	Was 9-11 an inside job?	9/11 사건은 내부 작업입니까?	1	0.7300415635108948	1
+430	What are the healthy ways of gaining weight and muscles?	체중 감량을위한 최고의 체중 증가 치료는 무엇입니까?	1	0.7187052369117737	1
+431	What's the best way to start a startup?	어떻게 시작할 수 있습니까?	1	0.7436537146568298	1
+432	How do I handle trust issues?	내 신뢰 문제를 어떻게 처리합니까?	1	0.7507486343383789	1
+433	How can I lose weight quickly? Need serious help.	나는 14 일에서 최대 무게를 잃을 수 있습니까?	1	0.7442482113838196	1
+434	How can I stop being jealous of the success of others?	다른 사람들의 성공의 질은 어떻게 멈출 수 있습니까?	1	0.73128342628479	1
+435	Which are the best Bollywood movies in 2016?	2016에서 좋아하는 Bollywood 영화는 무엇입니까?	1	0.7650358080863953	1
+436	What is the benefits of gst bill?	GST 빌의 몇 가지 이점은 무엇입니까?	1	0.6466512680053711	1
+437	Why do lean programs fail?	왜 야윈 제조를 구현하려고 하는 많은 회사가 실패 했습니까?	1	0.7297764420509338	1
+438	What is the best hilarious joke you have ever heard?	당신이 이제까지 들었는 최고의 농담은 무엇입니까?	1	0.7613451480865479	1
+439	Where I can watch English movies with subtitles online?	어떤 사이트에서 할리우드 영화를 볼 수 있습니다 무료 영어 자막?	1	0.6157775521278381	1
+440	How do I study properly?	가장 좋은 연구 전략은 무엇입니까?	1	0.7913046479225159	1
+441	How do cottontail rabbits adapt to their environment?	목화 꼬리 토끼가 살고 있습니까? 그들은 그들의 환경에 어떻게 적응합니까?	1	0.6600127220153809	1
+442	Do many people fake smiles, when they get their picture taken?	그들은 사진을 찍을 때 많은 사람들이 가짜 미소를합니까?	1	0.7117360234260559	1
+443	What are some ways to seduce your boyfriend?	얼마나 자주 남편 / 남자 친구에 의해 친밀에 대 한 거부를 얻을? 어떻게 그것을 처리 합니까? 나는 샤워에 있었다 그리고 그를 초대.	0	0.5553526282310486	0
+444	What are best online sites for photo editing?	최고의 사진 편집 사이트란?	1	0.6516252756118774	1
+445	Why am I not good looking enough?	왜 나는 너무 좋을까요?	0	0.7282054424285889	1
+446	How has identity changed?	당신의 정체성을 변경하는 가장 쉬운 방법은 무엇입니까?	0	0.7085623741149902	1
+447	Is it possible for a single developer to build and launch a AAA mobile game app?	체중 감량을 시도 해요. 나는 많이 운동하고 주로 건강하지만, 나는 소다를 좋아합니다. 나는 소다를 포기하는 방법?	0	0.3664151728153229	0
+448	If a non-Muslim converts, how does he(she) chooses whether to be Shia or Sunni?	이슬람의 어떤 버전 (예 : Shia 또는 Sunni)은 진실한 버전이며, 왜?	0	0.5371038317680359	0
+449	Is there a possibility to love 2 person at once?	사람이 2 명과 사랑에 정말 될 수 있습니까?	1	0.6914997696876526	1
+450	Why can anyone edit a question?	어떻게 Quora에 질문을 편집 할 수 있습니까?	0	0.7431865930557251	1
+451	What are the basic laws that Indians are not aware of?	어떤 일반적인 인도 법률의 인도는 인식해야?	1	0.7010504603385925	1
+452	How do you play 21 Questions?	21 카드 거미의 기본 규칙은 무엇입니까?	0	0.6609793901443481	1
+453	What is the perfect boyfriend?	완벽한 남자 친구를 설명하는 방법?	1	0.5293197631835938	0
+454	When India will be corruption free?	인도는 이제까지 corruption 무료일 수 있습니까?	0	0.6820346117019653	1
+455	What animals can I eat raw?	어떤 고기는 익지않는을 먹는 것이 안전합니까?	1	0.7279126644134521	1
+456	Are there any similarities between mythologies or theologies of different religions?	다른 종교들 사이의 유사성은 무엇입니까?	0	0.6053102016448975	1
+457	How can I open a bank account in Malaysia?	태국에서 은행 계좌를 어떻게 열 수 있습니까?	0	0.6367135047912598	1
+458	How do you make a Nike Swoosh emoji?	Nike는 지난 2-3 년 동안 크기가 작았습니까?	0	0.6169281601905823	1
+459	Why the incandescent lamp heating when current passed through it? .?	왜 전류가 그것을 통과했을 때 백열이?	1	0.6266930103302002	1
+460	What are some best DP in Whatsapp according to you?	당신이 본 적이 최고의 WhatsApp 디스플레이 사진은 무엇입니까?	1	0.6216023564338684	1
+461	What are the reviews for Spring Valley Spirulina Dietary Supplement?	Spirulina와 Acai berry 보충은 체중 감량에 도움이? 그들은 무엇을 위해 좋은?	0	0.4578690528869629	0
+462	How does one know if one is under surveillance?	당신은 감시의 밑에 있을 때 어떻게 알 수 있습니까?	1	0.7924981713294983	1
+463	Do white guys like brown (Indian) girls?	인도 여자 같은 미국 흰색 소년을합니까?	0	0.5727697014808655	0
+464	What is acceleration in physics?	물리학의 가속은 무엇입니까?	1	0.6729008555412292	1
+465	What are some must read books in English / Marathi?	영어의 읽는 책은 무엇입니까?	0	0.6925320029258728	1
+466	What are some drawbacks of having large breasts?	큰 가슴을 가지고있는 일부 단점은 무엇입니까?	1	0.6167740225791931	1
+467	What would happen if everyone becomes vegetarian?	지구의 모든 사람이 채식 한 경우?	1	0.6978253126144409	1
+468	How can you increase your stamina before running?	내 체력을 어떻게 증가합니까?	1	0.7484573125839233	1
+469	What is an ATM card number?	ATM에서 직불 카드로 은행 계좌를 상쇄할 수 있습니까?	0	0.5165513753890991	0
+470	Does it matter what time of day you take an antidepressant?	하루에 SSRI를 복용하는 시간은 증가 / 특정 부작용을 유발하는 것입니까?	1	0.5724654197692871	0
+471	What is the best gaming graphics card for around 400 euros?	약 400 유로의 최고의 그래픽 카드는 무엇입니까?	1	0.6904804110527039	1
+472	What is the best way to reheat a cooked lobster?	요리하고 요리하는 방법?	0	0.7310040593147278	1
+473	"""What is the song that goes like """"Woah oh oh oh woah oh woah""""?"""	“그는 백만, 백만 woah oh oh”와 같은 노래는 무엇입니까?	0	0.021701306104660034	0
+474	Should I stop using pornography as a masturbatory aid?	나는 영구적으로보고해야한다는 것을 확실하지 않습니다 /보기 /보고 포르노를보고 masturbatory 원조로 그것을 사용하여. 나는 무엇을해야합니까?	1	0.49533888697624207	0
+475	Why is La Tomatina celebrated in Spain? What is the significance of this festival?	나는 스페인에서 La Tomatina 축제에 대해 더 알고 있습니까?	1	0.5178459882736206	0
+476	What are the most important programming languages to learn nowadays?	먼저 배우는 최고의 컴퓨터 프로그래밍 언어는 무엇입니까?	1	0.7297627925872803	1
+477	How flipkart works?	Flipkart와 같은 회사는 실제로 작동합니까?	0	0.6194570064544678	1
+478	Why do hot guys make my pussy wet?	"""왜 사람들이 """"pussy""라고 부르는 가정을 만드는 것은 약점이 될 것입니까?"""	0	0.7437654137611389	1
+479	What actually happens in career counselling?	커리어 상담은 무엇인가요?	0	0.6830167770385742	1
+480	What are the top sex movies?	어떤 최고의 성 영화는 무엇입니까?	1	0.7704764008522034	1
+481	How do I get rid of scalp acne?	여드름을 제거하는 몇몇 영원한 방법은 무엇입니까?	1	0.6683207750320435	1
+482	How do I get a job as a film and TV critic?	영화 비판은 어떻게 되나요? 나는 london에 살고 있습니다.	1	0.47379541397094727	0
+483	How can I become more self-diciplined?	나는 더 자각되고 번영을 피하는 방법은 무엇입니까?	1	0.6882895827293396	1
+484	Android (operating system): What are .face files in Android? Is it okay to delete them?	Android kitkat 운영 체제에서 삭제 된 사진을 검색 할 수 있습니까?	0	0.307862788438797	0
+485	How would scrapping Rs 500 and 1000 notes affect the real estate sector?	500 및 1000의 인구가 부동산에 미치는 영향은 어떻게됩니까?	1	0.6542191505432129	1
+486	What are some best books to prepare for IBPS PO?	IBPS PO의 가장 좋은 책은 무엇입니까?	1	0.7674635648727417	1
+487	Should I answer a technical question if I feel I'm not an expert in that field?	프로그래밍 웹 사이트에 코드를 언제, 나는 내 대답이 정확하지 않은 경우 testcases를 구입. 그것은 좋은 연습 또는 나는 질문을 시도에 유지해야합니까?	0	0.16432037949562073	0
+488	What is the possibility of war between India and Pakistan after surgical operation?	인도의 수술 후 Indo Pak 전쟁의 가능성은 있습니까?	1	0.6452918648719788	1
+489	How do I motivate online students?	어떻게 온라인 학생을 동기 부여합니까?	1	0.7801645994186401	1
+490	What is the reason behind saying that Sanskrit is the most suitable language for programming?	Sanskrit은 컴퓨터 소프트웨어에 가장 적합한 언어입니다. 왜 포브스 잡지 7 월 1987에서 보고서를 했습니까?	1	0.613686740398407	1
+491	How is Eevee's evolution determined in Pokémon GO?	Pokémon GO Eevee 진화는 당신의 위치에 달려 있습니까?	1	0.6598763465881348	1
+492	What is it like to be a fighter pilot?	실제로 전투기 조종사는 무엇을합니까?	1	0.5804426670074463	0
+493	What is the best thing you can do?	너 자신을 위해 수행 한 가장 좋은 것은 무엇입니까?	0	0.7838645577430725	1
+494	Why did the Intel Itanium microprocessors fail?	내 선생님은 80386 인텔 마이크로 프로세서가 20-30 MHz 주파수를 가지고 있다고 말했다. 그가 실제로 그 의미는 무엇입니까?	0	0.18002960085868835	0
+495	How many t-shirts could a newcomer to CafePress or Zazzle expect to sell?	Zazzle에 판매를위한 몇 가지 팁은 무엇입니까?	0	0.6543689966201782	1
+496	Dave Consiglio who are you?	Dave Consiglio는 누구입니까?	1	0.8280708193778992	1
+497	What is the best way to prepare for eLitmus exam?	elitmus 시험을 준비하는 방법?	1	0.7173272371292114	1
+498	"""Who was the song """"Wish You Were Here"""" by Pink Floyd written about and what is the deeper meaning of it?"""	"""여러분""이 핑크 펑크가 의미하는 것""을 기원합니다."	1	0.5061401724815369	0
+499	What are some tips for success in medical school?	의학 학교를 통해 만드는 가장 좋은 방법은 무엇입니까?	1	0.7094371318817139	1
+500	Does changing a manager drastically affect a football team?	축구 클럽의 매니저의 역할은 얼마나 중요합니까?	1	0.587380051612854	0
+501	How can I change my profile pic on Quora?	어떻게 Quora에 내 프로필 사진으로 사진을 사용합니까?	1	0.6576610803604126	1
+502	Can Congress retain his government in Uttarakhand 2017?	누가 Uttarakhand 선거를 승리 할 것인가 2017?	1	0.6967769861221313	1
+503	Is Blackwater still functioning?	미국은 여전히 자유의 땅입니까?	0	0.6689833998680115	1
+504	Sexual Experience: Which gives a man more thrill? Having sex with a virgin or with an experienced woman who is a great sex partner?	내 처녀를 잃기 전에 무엇을 알아야합니까?	0	0.009515245445072651	0
+505	What do you think about a super rich billionaire who likes to hang out with ordinary people?	사람들이 성별을 바꾸는 것에 대해 어떻게 생각합니까? Caitlyn Jenner와 같은 사람들은 생물학적으로 남성이지만 여성이 될 주장합니까?	0	0.5789499282836914	0
+506	How Ola is paying amount to cab drivers what is the reason behind it?	인도의 시작 : Ola Cabs는 초기 일에 드라이버 휴대폰을 줄 관리 했습니까?	0	0.09853732585906982	0
+507	What is the difference between cache consistency and cache coherence?	캐시 일관성은 무엇입니까? 캐시 일관성과 캐시 일관성의 차이는 무엇입니까?	1	0.7239924669265747	1
+508	Who has the most subs on YouTube?	어느 채널은 현재 YouTube에서 가장 가입된 채널입니까?	1	0.6747853755950928	1
+509	How hard is it to get into Purdue?	Purdue University에서 가장 중요한 표준은 무엇입니까?	0	0.7642307281494141	1
+510	If a police officer wrongly arrested someone based on false testimony could the department be sued?	어떻게 거짓 체포 경찰관을 sue?	1	0.010312249884009361	0
+511	How can you find all of your Gmail accounts?	어떻게 Gmail 계정을 복구합니까?	0	0.6824535131454468	1
+512	Do employees at Electronics for Imaging have a good work-life balance? Does this differ across positions and departments?	Starbucks의 직원은 좋은 일감의 균형을 가지고 있습니까? 이것은 위치와 부서의 맞은편에 다릅니까?	0	0.19243405759334564	0
+513	Which dog breed is the easiest to train?	어떤 개 품종은 가장 쉬운 기차?	1	0.6443170309066772	1
+514	Why do we need to study signals and systems?	왜 우리는 신호와 체계를 공부합니까?	1	0.7028177380561829	1
+515	Do I need to learn C & C++ before learning Java?	java 학습을 위한 C 언어 compulsory?	1	0.43911319971084595	0
+516	Why do we fear being unloved?	왜 사랑하지 않나요?	1	0.5870711207389832	0
+517	Why do some people think the Earth is flat?	왜 지구가 평평하다는 것을 생각하는 여전히 사람들이 있습니까?	1	0.7456261515617371	1
+518	How can I make my divorced friend fall in love with me?	나는 여성 친구를 나에게 사랑에 빠지게하는 방법?	0	0.5891481041908264	0
+519	If you were able to stop time as many times as you want, what would you do?	당신이 원하는 때마다 시간을 중지 할 수 있다면 당신은 무엇을 할 수 있습니까?	1	0.7857080101966858	1
+520	What is the mind? Where is it located in the human body?	마음은 어디에 있습니까?	0	0.5627972483634949	0
+521	What are the best option after completing my B.Tech in mechanical engineering?	b.tech (기계 공학)에서 졸업 후 최고의 경력을 쌓은 계획은 무엇입니까?	1	0.3699222207069397	0
+522	Why is atheism authoritative in academic denial of God, when multidiscipline studies show atheism underdeveloped, bias, and academically unreliable?	왜 Quora에 대한 모더레이터는 atheism의 호소에 크게 비스듬히 비스듬한?	0	0.17993268370628357	0
+523	Where can I get all types of legal advisory services for property transaction in Sydney?	시드니의 모든 부동산 거래에 필요한 조언을 받을 수 있나요?	1	0.5057659149169922	0
+524	How do you delete your Yahoo account permanently?	Yahoo 이메일 계정을 삭제하는 방법은 무엇입니까?	1	0.563468873500824	0
+525	How do you deal with a person who is a pathological liar?	어떻게 병리적 인 liar 인 친구를 처리합니까?	1	0.6235098838806152	1
+526	Is stem cell preservation worth in india?	줄기 세포 보전은 단지 사기입니까?	0	0.6660469770431519	1
+527	Are there Poké Stops and Poké Gyms in Antarctica?	Antarctica의 Poké Stop 또는 체육관이 있습니까?	1	0.5676592588424683	0
+528	What is the best way to discover new (random) subjects on Quora?	Quora에서 새로운 주제를 어떻게 만들 수 있습니까?	0	0.7823367714881897	1
+529	How IS TO get into MIT?	어떻게 MIT에 입학 할 수 있습니까?	1	0.7697385549545288	1
+530	Where are the entrances to the High Line park in Manhattan?	왜 New Yorkers가 High Line을 찾아서 매혹적인가?	0	0.4103548526763916	0
+531	What's a good Canadian web hosting provider?	나는 이미 웹 사이트가 있습니다. 캐나다에서 최고의 웹 호스팅 사이트 (최고의, 좋은 명성 등)?	1	0.3671034574508667	0
+532	How close are we to world war?	어떻게 우리가 세계 대전에 얼마나 가까운가, 그리고 어떻게 나쁜가 될 것인가?	1	0.7498570680618286	1
+533	What are some extracurricular activities that impress OMFS residency admissions committees?	CV에 특이한 활동에서 어떻게 쓸 수 있습니까?	0	0.4599941074848175	0
+534	What is the origin of Chandragupta Maurya?	Chandragupta Maurya의 기원과 관련된 이야기는 무엇입니까?	1	0.7138757109642029	1
+535	Why wasn't the advent of carbon dating the most detrimental discovery to the argument for Christianity?	나는 기독교입니다. 나는 성경이 일러스트로 말하는 것을 투쟁, 지구의 시대, 등 탄소 데이트 및 기타 과학 방법은 유효하지만 직접 분쟁에서 보이는 것처럼 보인다. 나는 이것을 어떻게해야합니까?	0	0.5174893736839294	0
+536	How do I get a loan with no credit?	어디서 신용없이 대출을받을 수 있습니까?	1	0.5544530749320984	0
+537	Which is a better sport to learn, tennis or squash?	왜 배드민턴과 테니스와 같은 스포츠 경기에 인기를 끌고 투쟁 했습니까?	0	0.45340412855148315	0
+538	What are the advantages and disadvantages of using renewable resources?	재생 에너지의 장점과 단점은 무엇입니까?	1	0.6949748396873474	1
+539	How will a Trump presidency affect Canada?	트럼프의 대통령은 캐나다에 어떤 영향을 미칠 것인가?	1	0.6965858936309814	1
+540	What are some study hacks every student should know?	연구 해킹의 예는 무엇입니까?	1	0.697991669178009	1
+541	If the civil war occurred today who would win?	우리는 또 다른 시민 전쟁이 있었고 북쪽은 남쪽을 versus했다면 어느 쪽이 승리 할 것인가?	1	0.5085870027542114	0
+542	Would vegans eat things like meat and eggs if the animals were treated humanely?	동물이 공정하게 대우되었는지 알이나 유제품을 먹으면 해를 얻지 못하느뇨	1	0.6448934674263	1
+543	Does speed reading really work?	속도가 정말 작동합니까? 그렇다면, 어떻게?	1	0.6998067498207092	1
+544	Do women enjoy anal play?	여자는 정말 항문 성별을 즐긴다?	1	0.5665782690048218	0
+545	Sneezing in the mornings?	왜 매일 아침에 스니싱을 시작합니까?	1	0.5998062491416931	1
+546	What things do you have to do to become an actor?	배우가되는 가장 쉬운 방법은 무엇입니까?	1	0.7017912864685059	1
+547	How much data does a minute of a WhatsApp call consume?	WhatsApp 통화는 얼마나 많은 데이터를 소비합니까?	0	0.5913026928901672	1
+548	What are the best ways to lose weight fast?	나는 어떻게 무게를 잃을 수 있습니까?	1	0.8271136283874512	1
+549	How can you clear your Netflix history?	Netflix 기록을 어떻게 삭제합니까?	1	0.6071445345878601	1
+550	How can I gain weight quickly?	나는 어떻게 무게를 빨리 얻을 수 있었습니까?	1	0.8090160489082336	1
+551	When will Spotify launch in India?	Daniel Ek : 인도에서 Spotify 할 때?	1	0.5313743948936462	0
+552	If speed of light is the fastest then how it is measured?	계산 된 빛의 속도는 어떻게 되었습니까?	1	0.6803551912307739	1
+553	What emotions correspond to what hormones?	감정적 인 개방, 감정적 인 사용, 감정적 인 존재와 감정적 인 안전이되는 것을 의미합니까?	0	0.15325698256492615	0
+554	Could Donald Trump be the Antichrist?	11 월에 도널드 트럼프의 승리가 예수 그리스도의 두 번째 다가오는 신호가 될까요?	0	0.6503090262413025	1
+555	What piano chords go together?	피아노의 노래에서 연주하는 것은 어렵다 : arpeggio 또는 chord?	0	0.5306787490844727	0
+556	What is the basis of the combination of Greek letters in naming fraternities?	그리스 소문 및 친근성 시스템에 선택된 문자는 무엇입니까?	1	0.2236703634262085	0
+557	How do I place button in the middle of hr lines?	인도 인구의 60 %는 2050 년까지 도시 거주자가 될 것입니다. 도시 수준의 인프라에 필요한 패러다임 교대는 무엇입니까?	0	0.4054318368434906	0
+558	What are some best movies ever in any language?	당신이 본 최고의 영화는 무엇입니까?	1	0.7126760482788086	1
+559	What should I do to get flat tummy?	나는 어떻게 tummy를 줄일 수 있습니까?	1	0.7666349411010742	1
+560	What are some good projects where a novice can make open source contribution?	어떤 오픈 소스 프로젝트가 초심자를 위해 충분히 간단합니까?	1	0.6122377514839172	1
+561	How do I become a good problem solver?	누군가가 더 나은 문제 해결자가되는 방법은 무엇입니까?	1	0.7265276908874512	1
+562	Why shouldn't we vote for Donald Trump?	왜 도널드 트럼프에 투표하지 않습니까?	1	0.7209610939025879	1
+563	What is your experience after working for few years by getting selected through SSC CGL?	SSC CGL을 정리한 후 같은 삶은 무엇입니까?	0	0.5625322461128235	0
+564	Who should join the Quora?	누가 Quora에 가입?	1	0.7347351908683777	1
+565	Is it ever safe to save permanent codes in other smartphone applications?	Microsoft, Google 및 Apple 사용자는 다른 스마트 폰 응용 프로그램에 대한 영구 코드를 저장하는 것이 안전합니까?	1	0.599707841873169	1
+566	How will the ban on 500 and 1000 rupee notes effect land/house rates?	금박과 부동산에 500 및 1000 노트 금지의 효과는 무엇입니까?	1	0.7398036122322083	1
+567	Why do people choose to online shop?	온라인 미국 상점에서 사람들은 어떻게 합니까?	0	0.6679556965827942	1
+568	How do I open a private Instagram account?	Instagram 사진을 어떻게 볼 수 있습니까?	1	0.632238507270813	1
+569	Why don't male pornstars grab at their female co-stars' boobs?	How do male pornstars 유지 이러한 긴 성별 드라이브?	0	0.5810847282409668	0
+570	Why are so many Americans oblivious to the history of the Democratic party as it pertains to slavery, segregation and civil rights?	이 날은 민주당의 나쁜 역사의 인식, 또는 그들은 단지 배려하지 않는다?	0	0.6674235463142395	1
+571	As a doctor, what was your most 'now that was stupid' moment with a patient?	의사의 사무실에서 환자의 경험에 가장 중요합니까?	0	0.46250244975090027	0
+572	How do you deal with a selfish sister?	나는 어떻게 자기 어머니와 거래 할 수 있습니까?	0	0.5187956094741821	0
+573	How do you lose weight in a week?	일주일에 체중 감량은 어떻게합니까?	1	0.7185320258140564	1
+574	Where can I find Trisha Yearwood recipes from Food Network?	Food Network의 Trisha Yearwood 요리법은 얼마나 좋습니까?	0	0.7531563639640808	1
+575	What is the way to become a dental hygienist in the USA after doing a BDS from India?	어떤 시험은 인도에서 BDS 후에 미국에서 치과 위생 프로그램을 입력해야 합니까?	1	0.14681513607501984	0
+576	Is Donald Trump really a racist?	왜 사람들이 트럼프 라티스트를 호출합니까?	1	0.7919079661369324	1
+577	How can full SMS functionality be incorporated into a 3rd party iOS app?	제3자 앱으로 Google Assistant를 얻을 수 있습니까?	0	0.6392431259155273	1
+578	Who decided that 36-24-36 is the perfect figure of a woman as defined in Indian measurement?	인도 여성은 무엇을 좋아합니까?	0	0.05905561521649361	0
+579	How do I make money from home?	어떻게 온라인 돈을 벌 수 있습니까?	1	0.818017303943634	1
+580	What's it like to be a non-smoking mother of smoking children?	흡연 아이들의 금연 어머니가되고 싶습니까?	1	0.2785893678665161	0
+581	What if Queen Victoria had been a boy instead of a girl?	퀸 빅토리아가 Bertie 후 아이들을 중단 한 경우, 세계 대전이 여전히 일어난 것입니까?	0	0.36109307408332825	0
+582	Do psychopaths and sociopaths sniff each other?	사회학은 다른 사회학을 인식합니까?	0	0.6580184102058411	1
+583	What causes an invalid pregnancy test?	임신 검사는 어떻게 작동합니까? 집에서 임신 검사는 여성이 소변에 단독으로 근거를 둔 경우에 결정합니까?	0	0.5535646080970764	0
+584	What else can YOLO mean aside You Only Leave once?	페이스 북에서 차단?	0	0.5909616351127625	1
+585	Why do we put candles on birthday cakes?	왜 우리는 생일 케이크의 정상에 촛불을 뒀습니까?	1	0.7901217341423035	1
+586	My ex boyfriend and I are still friends and I’m emotionally attached to him but he does not let me go. He is a Virgo man. What should I do?	내 전 남자 친구와 나는 여전히 친구이지만, 그는 결코 나를 갈 수 없다. 그는 Virgo입니다. 나는 무엇을해야합니까?	1	0.0024620285257697105	0
+587	If the ACA is repealed, will claims be denied for those with pre-existing conditions?	ACA가 repealed되면, 그 후에 보험업자가 사전 승인 조건을 기반으로 하는 보험을 거부할 것입니까?	1	0.6104074120521545	1
+588	Has numerology been scientifically tested?	numerology는 과학적으로 시험되었습니까?	1	0.6687172651290894	1
+589	It it true that learning new programming languages goes much easier and faster after you learned one?	새로운 프로그래밍 언어를 배우는 것은 각 후속 프로그래밍 언어가 배워 졌습니까?	1	0.5981615781784058	1
+590	How does currency work?	통화는 어떻게 작동합니까?	1	0.6999301314353943	1
+591	How can I find a person with only their picture?	사진과 함께 누군가를 어떻게 찾을 수 있습니까?	1	0.7054533362388611	1
+592	How do I make money fast?	돈을 더 많은 돈을 벌 수있는 가장 좋은 방법은 무엇입니까?	1	0.7828816175460815	1
+593	Which are the best hacking apps for rooted Android?	Android 휴대 전화에서 루트 액세스는 무엇을 의미합니까? 전화 뿌리 후 수행 할 수 있습니까?	0	0.48523688316345215	0
+594	What is the best way to prepare for the theoretical part of the CA Final Exam?	그가 / 그녀는 완전히 CA 최종 시험을 준비하는 것을 알고 있습니까?	1	0.5192893743515015	0
+595	How do I get a online job a real online job?	어떤 실제 온라인 작업은 지불합니까?	1	0.6785680651664734	1
+596	How do I post something on Quora?	어떻게 질문을 여기에 게시합니까?	1	0.7357819080352783	1
+597	Are there any songs like xKore-Empty space or Driven Retro - Calm before the storm?	soundcloud에 사각형 공간 광고의 노래 이름은 무엇입니까?	0	0.4042997658252716	0
+598	What is the fastest way to lose weight safely?	나는 어떻게 무게를 잃을 수 있습니까?	1	0.7482724785804749	1
+599	Do I need to know how to code in order to create a website on WordPress? I just started to learn coding and I was wondering if it could be useful	Squarespace 또는 WordPress에서 웹 사이트를 만들려면 코드를 알아야합니까?	1	0.5249943733215332	0
+600	Is it healthy to eat egg whites every day?	매일 생선을 먹는 것이 건강합니까?	1	0.6483763456344604	1
+601	Why is my puppy vomiting white foam?	내 강아지가 흰색 거품을 던지면 어떻게해야합니까?	1	0.5805991888046265	0
+602	When is the best time of year to visit Japan?	일본을 방문하는 가장 좋은 시간은?	1	0.6914354562759399	1
+603	What are some healthy daily activities and habits every student should adopt?	생산성과 창의력을 향상시키는 일상적인 습관은 무엇입니까?	1	0.5753871202468872	0
+604	What types of foods do Americans eat which the rest of the world finds disgusting?	어떤 종류의 음식을 먹는 미국인들은 세계의 다른 부분에서 사람들이 왜곡을 발견합니까?	1	0.6243534088134766	1
+605	Are Indian movies overrated?	가장 overrated 인디언 영화는 무엇입니까?	0	0.708186149597168	1
+606	Why are so many questions on Quora about Quora?	왜 IT에 대해 Quora에 대해 많은 질문입니까?	0	0.8300204277038574	1
+607	What has been your best sexual experience?	당신이 가지고 있는 제일 성적인 경험은 무엇입니까?	1	0.7454237341880798	1
+608	Is it worth it to pay for PhD from my pocket?	그것은 당신의 자신의 주머니에서 PhD를 지불하는 어리석니까?	1	0.7187510132789612	1
+609	Why are South East Asian actresses not sexy?	왜 남동 아시아 여배우는 매우 섹시하지?	1	0.472265362739563	0
+610	How can you block someone on instagram that has blocked you?	Instagram에서 누군가를 차단하는 방법?	0	0.6646268963813782	1
+611	How can you get a loan without having any credit?	어떻게 신용없이 대출을받을 수 있습니까?	1	0.5457830429077148	0
+612	What is the name of this flower that blooms in every 50 years?	corpse 꽃이 이름을 얻는 방법?	0	0.6019052267074585	1
+613	Who is known as the father of paleontology?	나는 17이고 나의 아버지는 훈증입니다. 나는 내가 무서운 경우에 그를 살해야 합니까?	0	0.569007158279419	0
+614	What are all the jumps in figure skating?	그림 스케이팅에서 점프는 무엇이며 어떻게 수행됩니까?	1	0.6550084948539734	1
+615	Why do people go for mba after masters in engineering	IT 산업에서 건설 캐리어에 도움이 된 후 MBA를하고 있습니까?	1	0.6198852062225342	1
+616	Does fish from aquaculture contains less heavy metals than ocean/river fish?	바다 물고기는 멸종에서 저장 될 수 있습니까?	0	0.4237731993198395	0
+617	What do I truly need to learn and do to become a successful software engineer?	소프트웨어 엔지니어가 된 것은 무엇입니까?	1	0.6830531358718872	1
+618	What is the cause of liquefactive necrosis in the brain?	뇌의 liquefactive necrosis의 원인은 무엇입니까?	1	0.8076632618904114	1
+619	How can I earn money online easily?	어떻게 쉽게 돈을 만들 수 있습니까?	1	0.8560188412666321	1
+620	Will Denver Airport get a nonstop flight on Emirates Airlines?	에미리트는 덴버에 비행을 계획합니까?	1	0.6254189610481262	1
+621	What is the best time of day to have sex?	성에 가장 좋은 시간은 무엇입니까?	1	0.8196735978126526	1
+622	How do plug in mosquito repellents work?	mosquito repellent 액체 기화기는 어떻게 작동합니까?	1	0.6819695830345154	1
+623	What a ghost can do?	유령은 무엇입니까?	0	0.6068522334098816	1
+624	What are ways I can make money online?	온라인 돈을 벌 수있는 가장 쉬운 방법은 무엇입니까?	1	0.7553988695144653	1
+625	What are the best human resources?	최고의 인간 자원은 누구입니까?	1	0.7849278450012207	1
+626	Why are there so many dumb questions asked on Quora?	왜 사람들은 Quora에 그런 어드벤처 질문을합니까?	1	0.7654685974121094	1
+627	What is the best Tokyo movie ?	최고의 스릴러 영화는 무엇입니까?	0	0.5241488218307495	0
+628	How do I prevent YouTube from increasing my ping?	YouTube를 사용할 때 인터넷을 낮추는 방법은 무엇입니까?	0	0.778546154499054	1
+629	What is the ` (the character under the tilde) called and how can it be used in PHP programing?	나는 소켓 프로그래밍을 위해 PHP를 사용하고 나에게 좋은 책을 말해 줄 수 있습니까??	0	0.33556118607521057	0
+630	How can I find a job in Canada from India?	어떻게 인도에서 캐나다에서 일자리를 찾을 수 있습니까?	1	0.5866691470146179	0
+631	Which is the largest church in the world and where is it situated?	세계에서 가장 아름다운 교회는 무엇입니까?	0	0.29878032207489014	0
+632	Will accountants be replaced by computers?	세금계산은 컴퓨터로 대체됩니까?	1	0.6437404751777649	1
+633	What is the QuickBooks Support Phone Number in Los angeles?	Quickbooks 고객 지원 전화 번호 미국은 무엇입니까?	1	0.4658161401748657	0
+634	How do I gain healthy weight without eating junk?	무게를 얻는 방법?	1	0.7497548460960388	1
+635	Why was Cyrus Mistry removed as the Chairman of Tata Sons?	Tata Group Chairman으로 Cyrus Mistry와 잘못되었습니까? 왜 그런가요?	1	0.5763731598854065	0
+636	What individuals and events in history are a source of pride for Kuwait?	역사의 어떤 개인과 사건은 독일에 대한 자부심의 근원입니까?	0	0.3727811872959137	0
+637	How can one recover lost data from mobile?	휴대폰에서 손실 된 데이터를 복구 할 수 있습니까?	1	0.720331072807312	1
+638	Which US Senate seats are up for reelection in 2018?	미국 상원에 몇 명의 회원이 있습니까?	0	0.7016704678535461	1
+639	Which is the best business in India right now?	현재 인도에 투자하는 가장 좋은 사업은 무엇입니까?	1	0.7055935859680176	1
+640	How was the KVPY 2016 SA paper? What is the expected cutoff?	어떻게 KVPY 2016 sa?	1	0.6907282471656799	1
+641	Guys, which is best LED TV 40 Inch and budget price is 40000 Rs?	명백한 하녀와 같은 어떤 유행 TV 시리즈가 있습니까?	0	0.6670143604278564	1
+642	What prevents fighter pilots from stealing their aircraft and selling it to a foreign government?	전투기 조종사가 항공사를 비행 할 수 있습니까?	0	0.5440306067466736	0
+643	Can i get pregnant the day after my period ends?	기한이 종료되기 전에 임신 2 일전을 얻을 수 있습니까?	1	0.6951836943626404	1
+644	What is your biggest hopeless regret?	당신이 가지고있는 가장 큰 이력서는 무엇입니까?	1	0.7538195848464966	1
+645	What rights do you have if you have been accused of a crime in the United States? How are these rights different in Singapore?	당신은 미국의 범죄에 대 한 비난 하는 경우 어떤 권리? 노르웨이에서 이러한 권리는 무엇입니까?	0	0.4754927456378937	0
+646	What is the biological basis for love?	감정의 생물학적 기초는 무엇입니까?	0	0.6924852132797241	1
+647	Why does Manaphy cry annoyingly in Pokemon Ranger and The Temple of The Sea?	왜 마나피가 Pokémon Ranger와 바다의 사원에서 아이리스입니까?	1	0.7203813791275024	1
+648	How do I deal with stress at home?	집에서 스트레스가 많은 환경에 어떻게 처리해야합니까?	1	0.7405926585197449	1
+649	Does my boss romantically like me?	내 보스는 저녁 식사를 위해 나를 꺼내, 그는 나를 좋아합니까?	1	0.5171244144439697	0
+650	What are the safety precautions on handling shotguns proposed by the NRA in Michigan?	뉴저지 NRA가 제안한 샷건 취급에 대한 안전 주의사항은 무엇입니까?	1	0.7535661458969116	1
+651	What is your favorite animal? Why?	3 개의 좋아하는 동물은 무엇입니까?	1	0.7210538983345032	1
+652	Why collision is an issue in a random access but not in controlled access?	지퍼는 어떻게 작동합니까?	0	0.5688327550888062	0
+653	How and when were tampons invented?	tampons가 발명되었을 때?	1	0.6573514342308044	1
+654	Was the Civil War really about slavery? Or was it about taxes on private property?	American Civil War는 주로 민간 재산 권리와 세금을 갖게 되었습니까?	1	0.5261744260787964	0
+655	Who is the best teacher in NIT WARANGAL?	Nit Warangal에서 최고의 선생님은 누구입니까?	1	0.6689727306365967	1
+656	What's the best Final Fantasy game?	최고의 파이널 판타지 게임이란?	1	0.6598779559135437	1
+657	Should I switch from Computer Engineering to Computer Science?	나는 어떤 외부 제안이 필요, 컴퓨터 공학에서 컴퓨터 과학에 전환해야합니까?	1	0.6848129630088806	1
+658	Is 292 in GRE a good score?	GRE에서 319의 점수는 좋은 점수입니까?	1	0.66843581199646	1
+659	What is the most revolutionary money making idea?	가장 중요한 돈은 어떻게 생각합니까?	1	0.8173074126243591	1
+660	What is Hepatitis B? Can it be deadly?	B형 간염이란?	1	0.7040119171142578	1
+661	If you inherited £100, how would you ensure you received a reasonable return over a one-year period?	당신이 £ 100을 상속하면 당신은 1 년 기간 동안 합리적인 반환을받을 수 있습니까?	1	0.43555429577827454	0
+662	Has Ancient Mesopotamia been scientifically tested?	고대 이집트는 과학적으로 시험되었습니까?	1	0.7429143190383911	1
+663	Which is best laptop under 25000 with all features like VGA and hdmi port?	25000INR의 밑에 사는 제일 노트북은 무엇입니까?	1	0.4221644699573517	0
+664	Can Hrithik Roshan ever play James Bond?	Bollywood 스타 Hrithik Roshan 좋은 James Bond를 만들겠습니까?	1	0.6268360614776611	1
+665	Where can I hire a hacker?	어떻게 윤리 해커를 고용합니까?	1	0.6875446438789368	1
+666	How do I cure pink eye	어떻게 핑크 아이를 붓고 치료할 수 있습니까?	1	0.6960029602050781	1
+667	If time didn't exist before the Big Bang, how could the Big Bang possibly have happened?	큰 뱅 앞에 시간의 존재가 있습니까? 그렇다면, 시간이 어떻게 시작되었습니까? 그렇지 않은 경우, 얼마나 큰 뱅이 시간에 발생 했습니까?	1	0.6367716789245605	1
+668	Which is the best digital media course in India?	어떤 것이 인도에서 최고의 디지털 마케팅 과정입니까?	1	0.7324508428573608	1
+669	What is it like being a lesbian in Taipei compared to mainland China?	ordinal 숫자는 어떻게 spelled?	0	0.2824859023094177	0
+670	Who are the best personal financial advisors in Spokane, WA for people saving for retirement? What were your experiences with them?	은퇴를 위해 시애틀의 최고의 개인 금융 고문은 누구입니까? 그들과 함께 경험은 무엇입니까?	0	0.06017821654677391	0
+671	Why are people, especially in the Middle East, Africa, Europe & most of Asia afraid of a powerful U.S., but not afraid of a powerful China?	왜 최근 몇 달 동안 유럽에 migrants의 급격한 영향력이 있었습니까? 아프리카 / 중동의 전쟁이 몇 년 전에 시작되었습니까?	0	0.3327522575855255	0
+672	What series would you recommend on Netflix?	Netflix에서 좋아하는 영화는 무엇입니까?	1	0.7147049903869629	1
+673	Should people all over the world speak only one language?	하나의 세계 언어를 가진 장점과 단점은 무엇입니까?	1	0.6774845123291016	1
+674	How can I lose weight at age 55?	어떻게 지방과 과도한 체중을 몸에서 잃는가?	1	0.7187391519546509	1
+675	What individuals and events in history are a source of pride for Lithuania?	역사의 어떤 개인과 사건은 독일에 대한 자부심의 근원입니까?	0	0.2610962390899658	0
+676	How much time will it take to learn Russian?	왜 IT가 RUSSIAN을 배우게 될까요?	1	0.5946905612945557	1
+677	Why can't I access Yahoo! Mail using Chrome?	왜 야후 메일은 Google Chrome에서 작동하지 않습니까?	1	0.6069976091384888	1
+678	What is garajehub.com?	conservativespirit.com은 무엇입니까?	0	0.4705978333950043	0
+679	Will there be a nuclear war between India and Pakistan?	인도와 파키스탄이 전쟁에 도착하면 어떻게 될까요?	1	0.7451541423797607	1
+680	What is an example of a lie that most people believe is true?	어떤 것은 대부분의 사람들이 진정한 것이 아니라, 왜 믿습니까?	1	0.5423414707183838	0
+681	Why do you love her?	왜 나는 그녀를 사랑합니까?	1	0.6249825954437256	1
+682	Who will win this presidential elections 2016?	누가 2016 년 미국의 대통령 선거에서 승리 할 것인가?	1	0.7975801825523376	1
+683	How I can speak English with fluency?	영어를 독감적으로 말할 수 있습니까?	1	0.8033626675605774	1
+684	Is this sentence grammatically correct, ''if we didn’t receive the quote today I’m sorry we will consider that you didn’t want to support us''?	나는 F1 비자를 신청할 것입니다. 나는 이전에 B1 비자를 가지고 있었지만 미국으로 여행하지 않았습니다. F1 비자를 얻는 기회에 영향을 미칠까요?	0	0.3633425235748291	0
+685	Can I give my dog Benadryl for his allergies?	개에게 베네드리엘을주는 것은 그들을 잠들 수 있습니까?	1	0.7303102016448975	1
+686	What is GST and how would it affect common man?	어떻게 GST는 인도에서 일반적인 남자 또는 납세자에 중요합니까?	1	0.628088116645813	1
+687	What are the best books for the JEE (Mains)?	JEE 메인을위한 최고의 책은 무엇입니까?	1	0.6776965856552124	1
+688	How do I avoid loneliness in the internet?	외로움을 피하는 가장 좋은 방법은 무엇입니까?	0	0.7412106990814209	1
+689	When will Fairy Tail end?	왜 Erza는 Fairy Tail에서 장갑을 착용합니까?	0	0.5887206792831421	0
+690	To those with experience: how do you suggest those having difficulty with schizophrenia learn to cope more easily?	미스터 로봇 (TV 시리즈): Elliot는 schizophrenia가 있습니까?	0	0.47643908858299255	0
+691	How do you get rid of bum fat?	나는 어떻게 bum 지방을 제거합니까?	1	0.7570906281471252	1
+692	How do I Jailbreak iPhone 6s?	iPhone 6s를 탈옥 할 수 있습니까?	1	0.7641165256500244	1
+693	How can I find my all Gmail accounts?	Gmail 계정의 모든 것을 어떻게 찾을 수 있습니까?	1	0.7135928273200989	1
+694	What is the fastest way to lose weight safely?	나는 14 일에서 최대 무게를 잃을 수 있습니까?	1	0.7298083305358887	1
+695	If kids born on 2008 and we both parents in UK since 10 years can we eligible for UK citizen?	EEA 시민은 영국에서 5 년 동안 생활하는 경우 영국 PR에 적용 할 수 있지만 임신과 후속 육아로 인해 지난 2 년 동안 작동하지 않습니까?	0	0.5599530339241028	0
+696	What are the safety precautions on handling shotguns proposed by the NRA in Washington?	알라바마의 NRA와 미국에있는 모든 다른 국가, 영토 및 소유에 의해 제안 샷건을 처리하는 안전 예방 접종은 무엇입니까?	1	0.7042316198348999	1
+697	Is the theory of evolution unfalsifiable?	진화의 이론은 멸망하지 않습니까?	1	0.6851727962493896	1
+698	What is the meaning of ketai?	mushrif의 의미는 무엇입니까?	0	0.7322257161140442	1
+699	What's the safest and cheapest place to buy gold in WOW?	WoW 골드 안전 구매?	0	0.7128859162330627	1
